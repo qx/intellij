@@ -28,6 +28,10 @@
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.GotoProject" />
   <action id="FileChooser.TogglePathShowing" />
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="meta f12" />
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="1" />
+  </action>
   <action id="FindInPath">
     <keyboard-shortcut first-keystroke="shift meta f" />
   </action>
