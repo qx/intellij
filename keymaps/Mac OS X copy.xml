@@ -53,6 +53,9 @@
   </action>
   <action id="SendEOF" />
   <action id="ShelvedChanges.Diff" />
+  <action id="ShowTips">
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="t" />
+  </action>
   <action id="SplitHorizontally">
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="2" />
   </action>
