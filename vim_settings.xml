@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1510798442639">
+      <file name="/Dummy.txt" timestamp="1510804961660">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1509347526234">
@@ -84,6 +84,7 @@
         <entry>?/btm_poker</entry>
         <entry>?poker</entry>
         <entry>?btm_pokers</entry>
+        <entry>vim ~/github/myfun/tail115.rb</entry>
       </history-cmd>
       <history-expr />
       <history-input />
