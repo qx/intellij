@@ -69,6 +69,10 @@
   </action>
   <action id="SendEOF" />
   <action id="ShelvedChanges.Diff" />
+  <action id="ShowBookmarks">
+    <keyboard-shortcut first-keystroke="shift f11" />
+    <keyboard-shortcut first-keystroke="ctrl b" second-keystroke="s" />
+  </action>
   <action id="ShowTips">
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="t" />
   </action>
