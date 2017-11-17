@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1510908343488">
+      <file name="/Dummy.txt" timestamp="1510909615051">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -36,21 +36,18 @@
         <mark key="^" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" timestamp="1510907397161">
+      <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" timestamp="1510909668971">
         <mark key="'" line="18" column="0" />
-        <mark key="[" line="782" column="51" />
-        <mark key="]" line="782" column="51" />
-        <mark key="." line="782" column="51" />
-        <mark key="^" line="782" column="51" />
+        <mark key="[" line="898" column="0" />
+        <mark key="]" line="898" column="0" />
+        <mark key="." line="898" column="0" />
+        <mark key="^" line="898" column="94" />
       </file>
       <file name="$USER_HOME$/Desktop/pdk_all/pdk/.idea/.curNotes.txt" timestamp="1510877307103">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/utils/ComUtils.java" timestamp="1510908427497">
-        <mark key="[" line="149" column="49" />
-        <mark key="]" line="150" column="11" />
-        <mark key="^" line="150" column="11" />
-        <mark key="." line="150" column="11" />
+      <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/utils/ComUtils.java" timestamp="1510909550705">
+        <mark key="[" line="138" column="81" />
       </file>
       <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/test/java/com/pdk/sandaha/utils/ComUtilsTest.kt" timestamp="1510902659429">
         <mark key="'" line="1417" column="28" />
@@ -147,8 +144,8 @@
       <jump line="156" column="16" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/utils/ComUtils.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Poker</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiLS0tLS0tLS1zZWF0czoiICsgc2VhdHMpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>Poker</text>
@@ -160,31 +157,31 @@
         <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMod2luY2FyZHMsIENvbVV0aWxzLmdldFdpbkNhcmRzKHNob3dQb2tlcnMsIDApKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc2hvd1Bva2Vycyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiLS0tLS0tLS1zZWF0czoiICsgc2VhdHMpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc2hvd1Bva2Vycyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgd2lubmVyX2luZGV4ID0gZ2V0V2lubmVySW5kZXgoc2hvd1Bva2Vycyk7Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBpbnQgd2lubmVyX2luZGV4ID0gZ2V0V2lubmVySW5kZXgoc2hvd1Bva2Vycyk7Cg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICB3aW5jYXJkcy5hZGQocG9rZXJzLmdldChqKS5pZCk7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIGlmIChwb2tlcnMuZ2V0KGopLmlzU2NvcmVQb2tlcigpKSB7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICB3aW5jYXJkcy5hZGQocG9rZXJzLmdldChqKS5pZCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>160</text>
