@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1510833065504">
+      <file name="/Dummy.txt" timestamp="1510879673804">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/bean/ShowPoker.java" timestamp="1510825285936">
@@ -28,7 +28,7 @@
         <mark key="." line="98" column="55" />
         <mark key="^" line="98" column="54" />
       </file>
-      <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" timestamp="1510833991840">
+      <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" timestamp="1510879712021">
         <mark key="'" line="1072" column="25" />
         <mark key="[" line="1544" column="33" />
         <mark key="]" line="440" column="40" />
@@ -38,18 +38,18 @@
       <file name="$USER_HOME$/Desktop/pdk_all/pdk/.idea/.curNotes.txt" timestamp="1510877307103">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/utils/ComUtils.java" timestamp="1510832986436">
-        <mark key="[" line="756" column="9" />
-        <mark key="]" line="756" column="30" />
-        <mark key="^" line="756" column="30" />
-        <mark key="." line="756" column="30" />
+      <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/utils/ComUtils.java" timestamp="1510879737997">
+        <mark key="[" line="113" column="4" />
+        <mark key="]" line="113" column="4" />
+        <mark key="^" line="765" column="30" />
+        <mark key="." line="113" column="4" />
       </file>
-      <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/test/java/com/pdk/sandaha/utils/ComUtilsTest.kt" timestamp="1510879208283">
-        <mark key="'" line="1094" column="68" />
-        <mark key="[" line="1408" column="5" />
-        <mark key="]" line="1413" column="9" />
-        <mark key="^" line="1413" column="9" />
-        <mark key="." line="1413" column="9" />
+      <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/test/java/com/pdk/sandaha/utils/ComUtilsTest.kt" timestamp="1510879653027">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="1413" column="9" />
+        <mark key="]" line="1409" column="3" />
+        <mark key="^" line="1409" column="3" />
+        <mark key="." line="1409" column="3" />
       </file>
       <file name="/fragment.java" timestamp="1510878911067">
         <mark key="[" line="0" column="0" />
@@ -79,13 +79,16 @@
       <jump line="407" column="0" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/test/java/com/pdk/sandaha/utils/ComUtilsTest.kt" />
       <jump line="418" column="8" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/test/java/com/pdk/sandaha/utils/ComUtilsTest.kt" />
       <jump line="1094" column="68" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/test/java/com/pdk/sandaha/utils/ComUtilsTest.kt" />
+      <jump line="1412" column="0" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/test/java/com/pdk/sandaha/utils/ComUtilsTest.kt" />
+      <jump line="1415" column="0" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/test/java/com/pdk/sandaha/utils/ComUtilsTest.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/test/java/com/pdk/sandaha/utils/ComUtilsTest.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>k</text>
+        <text>private</text>
       </register>
       <register name="-" type="4">
-        <text>k</text>
+        <text>private</text>
       </register>
       <register name="/" type="4">
         <text>finalScore</text>
