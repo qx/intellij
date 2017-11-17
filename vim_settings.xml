@@ -3,11 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1510905869377">
+      <file name="/Dummy.txt" timestamp="1510908343488">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/Seat.java" timestamp="1510908683887" />
       <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/bean/ShowPoker.java" timestamp="1510825285936">
         <mark key="[" line="90" column="19" />
         <mark key="]" line="93" column="12" />
@@ -45,11 +46,11 @@
       <file name="$USER_HOME$/Desktop/pdk_all/pdk/.idea/.curNotes.txt" timestamp="1510877307103">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/utils/ComUtils.java" timestamp="1510907407175">
-        <mark key="[" line="142" column="9" />
-        <mark key="]" line="139" column="41" />
-        <mark key="^" line="139" column="41" />
-        <mark key="." line="139" column="41" />
+      <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/utils/ComUtils.java" timestamp="1510908427497">
+        <mark key="[" line="149" column="49" />
+        <mark key="]" line="150" column="11" />
+        <mark key="^" line="150" column="11" />
+        <mark key="." line="150" column="11" />
       </file>
       <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/test/java/com/pdk/sandaha/utils/ComUtilsTest.kt" timestamp="1510902659429">
         <mark key="'" line="1417" column="28" />
