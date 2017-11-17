@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1510880715673">
+      <file name="/Dummy.txt" timestamp="1510883450582">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/bean/ShowPoker.java" timestamp="1510825285936">
@@ -18,15 +18,14 @@
       <file name="/fragment.kt" timestamp="1510823813362">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/pdk_all/pdk/gradle/wrapper/gradle-wrapper.properties" timestamp="1510883466202">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="/a.dummy" timestamp="1509347526234">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/pdk_all/pdk/gameservice/com/pdk/sandaha/utils/GameUtils.java" timestamp="1509347645084">
-        <mark key="'" line="98" column="55" />
-        <mark key="[" line="98" column="55" />
-        <mark key="]" line="98" column="55" />
-        <mark key="." line="98" column="55" />
-        <mark key="^" line="98" column="54" />
       </file>
       <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/mina/protocal/MessageObject.java" timestamp="1510882786830">
         <mark key="[" line="19" column="5" />
@@ -58,9 +57,17 @@
         <mark key="^" line="1412" column="3" />
         <mark key="." line="1412" column="3" />
       </file>
+      <file name="$USER_HOME$/Desktop/pdk_all/pdk/gameservice/com/pdk/sandaha/utils/GameUtils.java" timestamp="1509347645084">
+        <mark key="'" line="98" column="55" />
+        <mark key="[" line="98" column="55" />
+        <mark key="]" line="98" column="55" />
+        <mark key="." line="98" column="55" />
+        <mark key="^" line="98" column="54" />
+      </file>
       <file name="/fragment.java" timestamp="1510880288506">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/mina/ClientHandler.java" timestamp="1510883446275" />
     </filemarks>
     <jumps>
       <jump line="98" column="55" filename="$USER_HOME$/Desktop/pdk_all/pdk/gameservice/com/pdk/sandaha/utils/GameUtils.java" />
