@@ -9,11 +9,11 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/Seat.java" timestamp="1510908683887" />
-      <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/bean/ShowPoker.java" timestamp="1510825285936">
-        <mark key="[" line="90" column="19" />
-        <mark key="]" line="93" column="12" />
-        <mark key="^" line="93" column="12" />
-        <mark key="." line="93" column="12" />
+      <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/bean/ShowPoker.java" timestamp="1510912678010">
+        <mark key="[" line="60" column="27" />
+        <mark key="]" line="60" column="27" />
+        <mark key="^" line="52" column="54" />
+        <mark key="." line="60" column="27" />
       </file>
       <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/test/java/com/pdk/sandaha/YiyangSanDahaTest.kt" timestamp="1510833025666">
         <mark key="[" line="11" column="8" />
@@ -75,6 +75,12 @@
         <mark key="]" line="98" column="55" />
         <mark key="." line="98" column="55" />
         <mark key="^" line="98" column="54" />
+      </file>
+      <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/test/java/com/pdk/sandaha/bean/ShowPokerTest.kt" timestamp="1510912520549">
+        <mark key="[" line="139" column="51" />
+        <mark key="]" line="142" column="40" />
+        <mark key="^" line="142" column="40" />
+        <mark key="." line="142" column="40" />
       </file>
       <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/bean/Player.java" timestamp="1510910654988">
         <mark key="[" line="28" column="0" />
@@ -149,11 +155,11 @@
       <jump line="156" column="16" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/utils/ComUtils.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>-</text>
       </register>
       <register name="-" type="4">
-        <text>Poker</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text>finalScore</text>
@@ -162,31 +168,31 @@
         <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMod2luY2FyZHMsIENvbVV0aWxzLmdldFdpbkNhcmRzKHNob3dQb2tlcnMsIDApKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi6KKr5q+U6L6D54mM5YWo6YOo5Li65Li7Iik7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiVXNlIENhcmQgQ29tcGFyZSxyZXN1bHQ9OiIgKyBhYmdwLmNvbXBhcmVUbyhiZ3ApKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJtYXhJbmRleDpUaGUgYm90dG9tIHBva2VyIHdpbGwgc2VudCB0bzoiICsgbWF4SW5kZXggKyAiXG5cdCBQbGF5ZXIiICsgKG1heEluZGV4ID09IGkgPyBpUGxheWVyLm5pY2sgOiAiIikpOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi5q+U6L6D57uT5p6cOiIgKyBhYmdwLmNvbXBhcmVUbyhiZ3ApKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi6KKr5q+U6L6D54mM55qE5pyA5aSn54mMOiIgKyBiZ3ApOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi5b2T5YmN5pyA5bCP55qE54mMOiIgKyBhYmdwKTsK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CUBPdmVycmlkZQoJcHVibGljIFN0cmluZyB0b1N0cmluZygpIHsKCQlyZXR1cm4gIlBsYXllcnsiICsKCQkJCSJpZD0iICsgaWQgKwoJCQkJIiwgcG9zaXRpb249IiArIEFycmF5cy50b1N0cmluZyhwb3NpdGlvbikgKwoJCQkJIiwgbmljaz0nIiArIG5pY2sgKyAnXCcnICsKCQkJCSIsIGhlYWQ9JyIgKyBoZWFkICsgJ1wnJyArCgkJCQkiLCBkaWFtb25kPSIgKyBkaWFtb25kICsKCQkJCSIsIHNleD0iICsgc2V4ICsKCQkJCSIsIHBpZD0nIiArIHBpZCArICdcJycgKwoJCQkJIiwgY291bnR5PSciICsgY291bnR5ICsgJ1wnJyArCgkJCQkiLCBhZ2VudEFjdGl2ZT0iICsgYWdlbnRBY3RpdmUgKwoJCQkJIiwgaXNTdXBlcj0iICsgaXNTdXBlciArCgkJCQkiLCBoZWFydGJlYXQ9IiArIGhlYXJ0YmVhdCArCgkJCQkiLCBzZXNzaW9uPSIgKyBzZXNzaW9uICsKCQkJCSd9JzsKCX0=</text>
+      <register name="6" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIFBva2VyIHNtcCA9IENvbVV0aWxzLmdldF9zbWFsbGVzdF9wb2tlcih0aGlzLnBva2Vycyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiLS0tLS0tLS1zZWF0czoiICsgc2VhdHMpOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiby5wb2tlcnMiICsgby5wb2tlcnMgKyAi5YWo5piv5Li754mMIik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc2hvd1Bva2Vycyk7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJ0aGlzIiArIHRoaXMgKyAi5YWo5piv5Li754mMIik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIuWkmuW8oOavlOi+gzoiICsgdGhpcy5wb2tlcnMudG9TdHJpbmcoKSArICItLS0iICsgby5wb2tlcnMudG9TdHJpbmcoKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>160</text>
