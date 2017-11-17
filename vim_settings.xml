@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1510898921575">
+      <file name="/Dummy.txt" timestamp="1510905869377">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -45,11 +45,11 @@
       <file name="$USER_HOME$/Desktop/pdk_all/pdk/.idea/.curNotes.txt" timestamp="1510877307103">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/utils/ComUtils.java" timestamp="1510902410383">
-        <mark key="[" line="612" column="38" />
-        <mark key="]" line="611" column="82" />
-        <mark key="^" line="611" column="82" />
-        <mark key="." line="611" column="82" />
+      <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/utils/ComUtils.java" timestamp="1510906017367">
+        <mark key="[" line="139" column="59" />
+        <mark key="]" line="139" column="66" />
+        <mark key="^" line="139" column="66" />
+        <mark key="." line="139" column="66" />
       </file>
       <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/test/java/com/pdk/sandaha/utils/ComUtilsTest.kt" timestamp="1510902659429">
         <mark key="'" line="1417" column="28" />
@@ -147,10 +147,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>大</text>
+        <text>Poker</text>
       </register>
       <register name="-" type="4">
-        <text>大</text>
+        <text>Poker</text>
       </register>
       <register name="/" type="4">
         <text>finalScore</text>
