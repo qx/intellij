@@ -2,7 +2,7 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks>
-      <mark key="V" line="182" column="37" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
+      <mark key="V" line="179" column="37" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
     </globalmarks>
     <filemarks>
       <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/Seat.java" timestamp="1510992386463">
@@ -60,14 +60,14 @@
       <file name="/fragment.kt" timestamp="1510823813362">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" timestamp="1510999199403">
-        <mark key="'" line="187" column="42" />
-        <mark key="j" line="173" column="13" />
-        <mark key="[" line="90" column="32" />
-        <mark key="]" line="90" column="32" />
-        <mark key="m" line="173" column="13" />
-        <mark key="^" line="90" column="32" />
-        <mark key="." line="90" column="32" />
+      <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" timestamp="1511001563262">
+        <mark key="'" line="1934" column="36" />
+        <mark key="j" line="170" column="13" />
+        <mark key="[" line="91" column="32" />
+        <mark key="]" line="91" column="32" />
+        <mark key="m" line="170" column="13" />
+        <mark key="^" line="91" column="32" />
+        <mark key="." line="91" column="32" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.2.3/c0ffc75c22302bc666d4d8be10d6288b66ef2092/jackson-annotations-2.2.3-sources.jar!/com/fasterxml/jackson/annotation/JsonIgnore.java" timestamp="1510997929118">
         <mark key="'" line="46" column="18" />
@@ -109,8 +109,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2491" column="0" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
-      <jump line="53" column="26" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
       <jump line="1280" column="19" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
       <jump line="1317" column="22" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
       <jump line="1327" column="22" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
@@ -209,6 +207,8 @@
       <jump line="23" column="13" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/bean/Player.java" />
       <jump line="46" column="18" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.2.3/c0ffc75c22302bc666d4d8be10d6288b66ef2092/jackson-annotations-2.2.3-sources.jar!/com/fasterxml/jackson/annotation/JsonIgnore.java" />
       <jump line="187" column="42" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
+      <jump line="175" column="20" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
+      <jump line="1934" column="36" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
