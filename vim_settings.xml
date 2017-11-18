@@ -3,10 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1510923385092">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/Seat.java" timestamp="1510992386463">
+        <mark key="'" line="16" column="11" />
       </file>
       <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/bean/ShowPoker.java" timestamp="1510912678010">
         <mark key="[" line="60" column="27" />
@@ -14,20 +12,53 @@
         <mark key="^" line="52" column="54" />
         <mark key="." line="60" column="27" />
       </file>
-      <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/test/java/com/pdk/sandaha/YiyangSanDahaTest.kt" timestamp="1510833025666">
-        <mark key="[" line="11" column="8" />
-      </file>
-      <file name="/fragment.kt" timestamp="1510823813362">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Desktop/pdk_all/pdk/gradle/wrapper/gradle-wrapper.properties" timestamp="1510883466202">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1509347526234">
+      <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/bean/Table.java" timestamp="1510992402126">
+        <mark key="'" line="44" column="27" />
+      </file>
+      <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/gongxian/GongxianRunandrun.java" timestamp="1510990457389">
+        <mark key="'" line="1606" column="48" />
+      </file>
+      <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/HelloWorld.kt" timestamp="1510922176022">
+        <mark key="'" line="30" column="8" />
+        <mark key="[" line="29" column="10" />
+        <mark key="m" line="19" column="48" />
+        <mark key="]" line="29" column="13" />
+        <mark key="^" line="29" column="3" />
+        <mark key="." line="29" column="10" />
+      </file>
+      <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/test/java/com/pdk/sandaha/utils/ComUtilsTest.kt" timestamp="1510992325459">
+        <mark key="'" line="172" column="32" />
+      </file>
+      <file name="$USER_HOME$/Desktop/pdk_all/pdk/build.gradle" timestamp="1510904504030">
+        <mark key="'" line="73" column="0" />
+        <mark key="[" line="49" column="62" />
+        <mark key="]" line="49" column="62" />
+        <mark key="." line="49" column="62" />
+        <mark key="^" line="49" column="62" />
+      </file>
+      <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/test/java/com/pdk/sandaha/bean/ShowPokerTest.kt" timestamp="1510912520549">
+        <mark key="[" line="139" column="51" />
+        <mark key="]" line="142" column="40" />
+        <mark key="^" line="142" column="40" />
+        <mark key="." line="142" column="40" />
+      </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/lang/Cloneable.java" timestamp="1510992372655">
+        <mark key="'" line="52" column="17" />
+      </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/util/Timer.java" timestamp="1510989190461" />
+      <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/BullEnum.java" timestamp="1510990480925">
+        <mark key="'" line="4" column="4" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1510923385092">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/mina/protocal/MessageObject.java" timestamp="1510882786830">
         <mark key="[" line="19" column="5" />
@@ -42,35 +73,15 @@
         <mark key="^" line="2388" column="11" />
         <mark key="." line="2388" column="11" />
       </file>
-      <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/HelloWorld.kt" timestamp="1510922176022">
-        <mark key="'" line="30" column="8" />
-        <mark key="[" line="29" column="10" />
-        <mark key="m" line="19" column="48" />
-        <mark key="]" line="29" column="13" />
-        <mark key="^" line="29" column="3" />
-        <mark key="." line="29" column="10" />
-      </file>
-      <file name="$USER_HOME$/Desktop/pdk_all/pdk/.idea/.curNotes.txt" timestamp="1510877307103">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/utils/ComUtils.java" timestamp="1510909550705">
+      <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/utils/ComUtils.java" timestamp="1510992330000">
+        <mark key="'" line="592" column="15" />
         <mark key="[" line="138" column="81" />
-      </file>
-      <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/test/java/com/pdk/sandaha/utils/ComUtilsTest.kt" timestamp="1510911304012">
-        <mark key="'" line="1417" column="28" />
-      </file>
-      <file name="$USER_HOME$/Desktop/pdk_all/pdk/build.gradle" timestamp="1510904504030">
-        <mark key="'" line="73" column="0" />
-        <mark key="[" line="49" column="62" />
-        <mark key="]" line="49" column="62" />
-        <mark key="." line="49" column="62" />
-        <mark key="^" line="49" column="62" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/lang/reflect/AccessibleObject.java" timestamp="1510990368440">
         <mark key="'" line="125" column="16" />
       </file>
-      <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/bean/Poker.java" timestamp="1510990237958">
-        <mark key="'" line="77" column="33" />
+      <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/bean/Poker.java" timestamp="1510992331504">
+        <mark key="'" line="10" column="13" />
         <mark key="[" line="353" column="22" />
         <mark key="]" line="354" column="24" />
         <mark key="." line="354" column="104" />
@@ -89,45 +100,23 @@
         <mark key="." line="98" column="55" />
         <mark key="^" line="98" column="54" />
       </file>
-      <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/test/java/com/pdk/sandaha/bean/ShowPokerTest.kt" timestamp="1510912520549">
-        <mark key="[" line="139" column="51" />
-        <mark key="]" line="142" column="40" />
-        <mark key="^" line="142" column="40" />
-        <mark key="." line="142" column="40" />
+      <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/service/GameService.java" timestamp="1510992411262">
+        <mark key="'" line="83" column="20" />
       </file>
-      <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/bean/Player.java" timestamp="1510990368280">
-        <mark key="'" line="178" column="15" />
+      <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/junlian/JunlianRunandrun.java" timestamp="1510990468693">
+        <mark key="'" line="1552" column="63" />
+      </file>
+      <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/bean/Game.java" timestamp="1510992411062">
+        <mark key="'" line="186" column="18" />
+      </file>
+      <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/bean/Player.java" timestamp="1510992387222">
+        <mark key="'" line="11" column="13" />
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1510880288506">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/util/Timer.java" timestamp="1510989190461" />
-      <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/BullEnum.java" timestamp="1510990442726">
-        <mark key="'" line="4" column="12" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="702" column="0" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
-      <jump line="698" column="0" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
-      <jump line="694" column="0" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
-      <jump line="682" column="0" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
-      <jump line="672" column="0" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
-      <jump line="652" column="0" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
-      <jump line="44" column="38" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
-      <jump line="34" column="0" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
-      <jump line="154" column="0" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
-      <jump line="129" column="0" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
-      <jump line="111" column="0" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
-      <jump line="87" column="0" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
-      <jump line="76" column="0" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
-      <jump line="39" column="0" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
-      <jump line="55" column="87" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
-      <jump line="43" column="0" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
-      <jump line="45" column="0" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
-      <jump line="50" column="0" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
       <jump line="25" column="30" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/HelloWorld.kt" />
       <jump line="26" column="21" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/HelloWorld.kt" />
       <jump line="34" column="25" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/HelloWorld.kt" />
@@ -209,7 +198,25 @@
       <jump line="95" column="24" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
       <jump line="93" column="32" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
       <jump line="759" column="26" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
-      <jump line="4" column="12" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/BullEnum.java" />
+      <jump line="1606" column="48" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/gongxian/GongxianRunandrun.java" />
+      <jump line="1552" column="63" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/junlian/JunlianRunandrun.java" />
+      <jump line="7" column="13" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/BullEnum.java" />
+      <jump line="4" column="4" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/BullEnum.java" />
+      <jump line="1437" column="32" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/test/java/com/pdk/sandaha/utils/ComUtilsTest.kt" />
+      <jump line="589" column="6" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/utils/ComUtils.java" />
+      <jump line="590" column="48" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/utils/ComUtils.java" />
+      <jump line="172" column="32" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/test/java/com/pdk/sandaha/utils/ComUtilsTest.kt" />
+      <jump line="592" column="15" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/utils/ComUtils.java" />
+      <jump line="10" column="13" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/bean/Poker.java" />
+      <jump line="19" column="16" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/Seat.java" />
+      <jump line="13" column="37" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/Seat.java" />
+      <jump line="52" column="17" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/lang/Cloneable.java" />
+      <jump line="16" column="11" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/Seat.java" />
+      <jump line="11" column="13" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/bean/Player.java" />
+      <jump line="179" column="33" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/bean/Game.java" />
+      <jump line="44" column="27" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/bean/Table.java" />
+      <jump line="186" column="18" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/bean/Game.java" />
+      <jump line="83" column="20" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/service/GameService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
