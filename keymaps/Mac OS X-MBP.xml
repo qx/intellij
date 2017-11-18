@@ -76,7 +76,9 @@
   <action id="LocalHistory.ShowSelectionHistory">
     <keyboard-shortcut first-keystroke="shift ctrl s" />
   </action>
-  <action id="ParameterInfo" />
+  <action id="ParameterInfo">
+    <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
   <action id="ReplaceInPath">
     <keyboard-shortcut first-keystroke="shift meta r" />
   </action>
