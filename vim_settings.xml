@@ -3,14 +3,16 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1510883450582">
+      <file name="/Dummy.txt" timestamp="1510923385092">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/bean/ShowPoker.java" timestamp="1510825285936">
-        <mark key="[" line="90" column="19" />
-        <mark key="]" line="93" column="12" />
-        <mark key="^" line="93" column="12" />
-        <mark key="." line="93" column="12" />
+      <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/bean/ShowPoker.java" timestamp="1510912678010">
+        <mark key="[" line="60" column="27" />
+        <mark key="]" line="60" column="27" />
+        <mark key="^" line="52" column="54" />
+        <mark key="." line="60" column="27" />
       </file>
       <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/test/java/com/pdk/sandaha/YiyangSanDahaTest.kt" timestamp="1510833025666">
         <mark key="[" line="11" column="8" />
@@ -33,29 +35,46 @@
         <mark key="^" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" timestamp="1510968637655">
-        <mark key="'" line="1094" column="25" />
-        <mark key="[" line="387" column="12" />
-        <mark key="]" line="384" column="20" />
-        <mark key="." line="384" column="20" />
-        <mark key="^" line="384" column="20" />
+      <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" timestamp="1510925666578">
+        <mark key="'" line="919" column="48" />
+        <mark key="[" line="2380" column="12" />
+        <mark key="]" line="2380" column="11" />
+        <mark key="^" line="2380" column="11" />
+        <mark key="." line="2380" column="11" />
+      </file>
+      <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/HelloWorld.kt" timestamp="1510922176022">
+        <mark key="'" line="30" column="8" />
+        <mark key="[" line="29" column="10" />
+        <mark key="m" line="19" column="48" />
+        <mark key="]" line="29" column="13" />
+        <mark key="^" line="29" column="3" />
+        <mark key="." line="29" column="10" />
       </file>
       <file name="$USER_HOME$/Desktop/pdk_all/pdk/.idea/.curNotes.txt" timestamp="1510877307103">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/utils/ComUtils.java" timestamp="1510881079327">
-        <mark key="'" line="116" column="5" />
-        <mark key="[" line="116" column="5" />
-        <mark key="]" line="116" column="5" />
-        <mark key="^" line="116" column="5" />
-        <mark key="." line="129" column="13" />
+      <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/utils/ComUtils.java" timestamp="1510909550705">
+        <mark key="[" line="138" column="81" />
       </file>
-      <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/test/java/com/pdk/sandaha/utils/ComUtilsTest.kt" timestamp="1510884571905">
-        <mark key="'" line="152" column="39" />
-        <mark key="[" line="1413" column="5" />
-        <mark key="]" line="1412" column="3" />
-        <mark key="^" line="1412" column="3" />
-        <mark key="." line="1412" column="3" />
+      <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/test/java/com/pdk/sandaha/utils/ComUtilsTest.kt" timestamp="1510911304012">
+        <mark key="'" line="1417" column="28" />
+        <mark key="[" line="1472" column="0" />
+        <mark key="]" line="1472" column="0" />
+        <mark key="." line="1472" column="0" />
+        <mark key="^" line="1472" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/pdk_all/pdk/build.gradle" timestamp="1510904504030">
+        <mark key="'" line="73" column="0" />
+        <mark key="[" line="49" column="62" />
+        <mark key="]" line="49" column="62" />
+        <mark key="." line="49" column="62" />
+        <mark key="^" line="49" column="62" />
+      </file>
+      <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/bean/Poker.java" timestamp="1510893080902">
+        <mark key="[" line="85" column="43" />
+        <mark key="]" line="85" column="11" />
+        <mark key="." line="85" column="11" />
+        <mark key="^" line="85" column="11" />
       </file>
       <file name="$USER_HOME$/Desktop/pdk_all/pdk/gameservice/com/pdk/sandaha/utils/GameUtils.java" timestamp="1509347645084">
         <mark key="'" line="98" column="55" />
@@ -64,92 +83,171 @@
         <mark key="." line="98" column="55" />
         <mark key="^" line="98" column="54" />
       </file>
+      <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/test/java/com/pdk/sandaha/bean/ShowPokerTest.kt" timestamp="1510912520549">
+        <mark key="[" line="139" column="51" />
+        <mark key="]" line="142" column="40" />
+        <mark key="^" line="142" column="40" />
+        <mark key="." line="142" column="40" />
+      </file>
+      <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/bean/Player.java" timestamp="1510910654988">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
       <file name="/fragment.java" timestamp="1510880288506">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="98" column="55" filename="$USER_HOME$/Desktop/pdk_all/pdk/gameservice/com/pdk/sandaha/utils/GameUtils.java" />
-      <jump line="1527" column="60" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
-      <jump line="2389" column="16" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
-      <jump line="1556" column="32" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
-      <jump line="1484" column="32" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
-      <jump line="1016" column="45" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
-      <jump line="1015" column="16" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
-      <jump line="936" column="139" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
-      <jump line="935" column="89" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
-      <jump line="878" column="139" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
-      <jump line="877" column="89" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
-      <jump line="414" column="24" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
-      <jump line="189" column="39" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
-      <jump line="1076" column="20" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
-      <jump line="1075" column="25" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
-      <jump line="1339" column="8" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/test/java/com/pdk/sandaha/utils/ComUtilsTest.kt" />
-      <jump line="156" column="0" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/test/java/com/pdk/sandaha/utils/ComUtilsTest.kt" />
-      <jump line="1355" column="10" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/test/java/com/pdk/sandaha/utils/ComUtilsTest.kt" />
-      <jump line="753" column="2" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/test/java/com/pdk/sandaha/utils/ComUtilsTest.kt" />
-      <jump line="407" column="0" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/test/java/com/pdk/sandaha/utils/ComUtilsTest.kt" />
-      <jump line="418" column="8" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/test/java/com/pdk/sandaha/utils/ComUtilsTest.kt" />
-      <jump line="1094" column="68" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/test/java/com/pdk/sandaha/utils/ComUtilsTest.kt" />
-      <jump line="1412" column="0" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/test/java/com/pdk/sandaha/utils/ComUtilsTest.kt" />
-      <jump line="1415" column="0" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/test/java/com/pdk/sandaha/utils/ComUtilsTest.kt" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/test/java/com/pdk/sandaha/utils/ComUtilsTest.kt" />
-      <jump line="152" column="39" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/test/java/com/pdk/sandaha/utils/ComUtilsTest.kt" />
-      <jump line="116" column="5" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/utils/ComUtils.java" />
-      <jump line="391" column="20" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
-      <jump line="1073" column="20" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
-      <jump line="1094" column="25" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
-      <jump line="1267" column="12" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
+      <jump line="2490" column="4" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
+      <jump line="2484" column="4" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
+      <jump line="2487" column="12" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
+      <jump line="2488" column="8" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
+      <jump line="18" column="0" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
+      <jump line="1417" column="28" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/test/java/com/pdk/sandaha/utils/ComUtilsTest.kt" />
+      <jump line="156" column="16" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/utils/ComUtils.java" />
+      <jump line="333" column="47" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
+      <jump line="584" column="0" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
+      <jump line="693" column="0" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
+      <jump line="717" column="0" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
+      <jump line="702" column="0" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
+      <jump line="698" column="0" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
+      <jump line="694" column="0" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
+      <jump line="682" column="0" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
+      <jump line="672" column="0" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
+      <jump line="652" column="0" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
+      <jump line="44" column="38" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
+      <jump line="34" column="0" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
+      <jump line="154" column="0" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
+      <jump line="129" column="0" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
+      <jump line="111" column="0" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
+      <jump line="87" column="0" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
+      <jump line="76" column="0" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
+      <jump line="39" column="0" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
+      <jump line="55" column="87" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
+      <jump line="43" column="0" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
+      <jump line="45" column="0" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
+      <jump line="50" column="0" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
+      <jump line="25" column="30" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/HelloWorld.kt" />
+      <jump line="26" column="21" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/HelloWorld.kt" />
+      <jump line="34" column="25" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/HelloWorld.kt" />
+      <jump line="30" column="8" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/HelloWorld.kt" />
+      <jump line="1031" column="94" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
+      <jump line="1051" column="0" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
+      <jump line="1055" column="0" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
+      <jump line="1056" column="16" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
+      <jump line="1065" column="0" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
+      <jump line="1066" column="16" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
+      <jump line="1103" column="0" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
+      <jump line="1105" column="12" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
+      <jump line="1114" column="69" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
+      <jump line="1116" column="60" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
+      <jump line="1118" column="61" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
+      <jump line="1157" column="0" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
+      <jump line="1158" column="16" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
+      <jump line="1175" column="0" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
+      <jump line="1176" column="16" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
+      <jump line="1241" column="0" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
+      <jump line="1242" column="12" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
+      <jump line="1272" column="0" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
+      <jump line="1273" column="12" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
+      <jump line="1277" column="28" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
+      <jump line="1190" column="40" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
+      <jump line="1214" column="51" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
+      <jump line="1222" column="48" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
+      <jump line="2491" column="0" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
+      <jump line="53" column="26" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
+      <jump line="1280" column="19" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
+      <jump line="1317" column="22" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
+      <jump line="1327" column="22" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
+      <jump line="1337" column="19" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
+      <jump line="1673" column="19" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
+      <jump line="2096" column="20" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
+      <jump line="2104" column="19" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
+      <jump line="2157" column="19" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
+      <jump line="1878" column="36" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
+      <jump line="2477" column="8" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
+      <jump line="2467" column="8" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
+      <jump line="2431" column="8" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
+      <jump line="2410" column="8" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
+      <jump line="2380" column="12" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
+      <jump line="2345" column="12" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
+      <jump line="2341" column="12" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
+      <jump line="2287" column="20" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
+      <jump line="2359" column="20" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
+      <jump line="2307" column="39" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
+      <jump line="2305" column="32" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
+      <jump line="2304" column="28" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
+      <jump line="2295" column="28" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
+      <jump line="2288" column="24" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
+      <jump line="2290" column="51" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
+      <jump line="1020" column="16" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
+      <jump line="1021" column="45" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
+      <jump line="1034" column="68" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
+      <jump line="1493" column="105" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
+      <jump line="1567" column="113" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
+      <jump line="2032" column="80" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
+      <jump line="2381" column="44" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
+      <jump line="138" column="37" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
+      <jump line="183" column="90" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
+      <jump line="940" column="148" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
+      <jump line="939" column="89" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
+      <jump line="185" column="30" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
+      <jump line="186" column="28" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
+      <jump line="413" column="101" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
+      <jump line="883" column="89" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
+      <jump line="884" column="148" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
+      <jump line="919" column="48" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Object</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>Object</text>
       </register>
       <register name="/" type="4">
-        <text>finalScore</text>
+        <text encoding="base64">XDxZaXlhbmdTYW5EYWhhXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgY291bnRfbXVsdGkgPSAwOwo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMod2luY2FyZHMsIENvbVV0aWxzLmdldFdpbkNhcmRzKHNob3dQb2tlcnMsIDApKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi6KKr5q+U6L6D54mM5YWo6YOo5Li65Li7Iik7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNlYXQuYmFua2VyOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiVXNlIENhcmQgQ29tcGFyZSxyZXN1bHQ9OiIgKyBhYmdwLmNvbXBhcmVUbyhiZ3ApKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi5q+U6L6D57uT5p6cOiIgKyBhYmdwLmNvbXBhcmVUbyhiZ3ApKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNlYXQuaW5kZXggPT0gY2FsbGluZGV4Owo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi6KKr5q+U6L6D54mM55qE5pyA5aSn54mMOiIgKyBiZ3ApOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoY2FsbGluZGV4ICE9IC0xKSB7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi5b2T5YmN5pyA5bCP55qE54mMOiIgKyBhYmdwKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgY2FsbGluZGV4ID0gZ2V0Q2FsbGVyKCk7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIFBva2VyIHNtcCA9IENvbVV0aWxzLmdldF9zbWFsbGVzdF9wb2tlcih0aGlzLnBva2Vycyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiby5wb2tlcnMiICsgby5wb2tlcnMgKyAi5YWo5piv5Li754mMIik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJ0aGlzIiArIHRoaXMgKyAi5YWo5piv5Li754mMIik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIuWkmuW8oOavlOi+gzoiICsgdGhpcy5wb2tlcnMudG9TdHJpbmcoKSArICItLS0iICsgby5wb2tlcnMudG9TdHJpbmcoKSk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>61</text>
+        <text>160</text>
       </register>
     </registers>
     <search>
-      <last-search>finalScore</last-search>
+      <last-search encoding="base64">XDxZaXlhbmdTYW5EYWhhXD4=</last-search>
       <last-offset />
-      <last-pattern>finalScore</last-pattern>
+      <last-pattern encoding="base64">XDxZaXlhbmdTYW5EYWhhXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -157,8 +255,19 @@
       <history-search>
         <entry>/btm_poker</entry>
         <entry>poker</entry>
-        <entry>btm_pokers</entry>
         <entry>finalScore</entry>
+        <entry>?</entry>
+        <entry>argument</entry>
+        <entry>toInt</entry>
+        <entry>args</entry>
+        <entry>?args</entry>
+        <entry encoding="base64">XDx2b2lkXD4=</entry>
+        <entry encoding="base64">XDxyZXNldF9hbGxfY2FyZHNfd2VpZ2h0XD4=</entry>
+        <entry encoding="base64">XDxwdWJsaWNcPg==</entry>
+        <entry encoding="base64">XDxpZlw+</entry>
+        <entry>btm_pokers</entry>
+        <entry encoding="base64">XDxidG1fcG9rZXJzXD4=</entry>
+        <entry encoding="base64">XDxZaXlhbmdTYW5EYWhhXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>1533</entry>
@@ -167,6 +276,8 @@
         <entry>?btm_pokers</entry>
         <entry>vim ~/github/myfun/tail115.rb</entry>
         <entry>61</entry>
+        <entry>e</entry>
+        <entry>160</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -190,8 +301,8 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed N</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed O</text>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed I</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
