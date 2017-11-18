@@ -20,6 +20,7 @@
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="q" />
   </action>
   <action id="CompareTwoFiles" />
+  <action id="Console.TableResult.ColumnVisibility" />
   <action id="Console.TableResult.DeleteRows" />
   <action id="DebugClass">
     <keyboard-shortcut first-keystroke="shift ctrl f9" />
@@ -64,7 +65,6 @@
     <keyboard-shortcut first-keystroke="ctrl f" second-keystroke="u" />
   </action>
   <action id="ForceRunToCursor">
-    <keyboard-shortcut first-keystroke="meta alt f9" />
     <keyboard-shortcut first-keystroke="ctrl d" second-keystroke="c" />
   </action>
   <action id="ForceStepOver">
@@ -87,6 +87,10 @@
     <keyboard-shortcut first-keystroke="shift meta alt n" />
     <keyboard-shortcut first-keystroke="meta alt o" />
   </action>
+  <action id="JumpToLastWindow">
+    <keyboard-shortcut first-keystroke="f12" />
+    <keyboard-shortcut first-keystroke="space" second-keystroke="tab" />
+  </action>
   <action id="LocalHistory.ShowHistory">
     <keyboard-shortcut first-keystroke="shift ctrl h" />
   </action>
@@ -99,11 +103,18 @@
   <action id="ParameterInfo">
     <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
+  <action id="QuickEvaluateExpression">
+    <mouse-shortcut keystroke="alt button1" />
+    <keyboard-shortcut first-keystroke="ctrl d" second-keystroke="e" />
+  </action>
   <action id="ReplaceInPath">
     <keyboard-shortcut first-keystroke="shift meta r" />
   </action>
   <action id="RerunFailedTests">
     <keyboard-shortcut first-keystroke="ctrl t" second-keystroke="f" />
+  </action>
+  <action id="Resume">
+    <keyboard-shortcut first-keystroke="ctrl d" second-keystroke="r" />
   </action>
   <action id="RunClass">
     <keyboard-shortcut first-keystroke="shift ctrl f10" />
@@ -118,11 +129,17 @@
   <action id="ShowTips">
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="i" />
   </action>
+  <action id="SmartStepInto">
+    <keyboard-shortcut first-keystroke="ctrl d" second-keystroke="i" />
+  </action>
   <action id="SplitHorizontally">
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="2" />
   </action>
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="3" />
+  </action>
+  <action id="StepOut">
+    <keyboard-shortcut first-keystroke="ctrl d" second-keystroke="u" />
   </action>
   <action id="StructuralSearchPlugin.StructuralReplaceAction">
     <keyboard-shortcut first-keystroke="shift meta m" />
@@ -148,9 +165,6 @@
   <action id="ToggleBookmark">
     <keyboard-shortcut first-keystroke="f11" />
     <keyboard-shortcut first-keystroke="ctrl b" second-keystroke="b" />
-  </action>
-  <action id="ToggleBreakpointEnabled">
-    <keyboard-shortcut first-keystroke="ctrl d" second-keystroke="e" />
   </action>
   <action id="ToggleDistractionFreeMode">
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="d" />
