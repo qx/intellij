@@ -1,4 +1,7 @@
 <keymap version="1" name="Mac OS X-MBP" parent="Mac OS X">
+  <action id="$Delete">
+    <keyboard-shortcut first-keystroke="back_space" />
+  </action>
   <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateNotesToolWindow">
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="n" />
@@ -13,6 +16,9 @@
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="meta 2" />
   </action>
+  <action id="CloseEditor">
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="q" />
+  </action>
   <action id="CompareTwoFiles" />
   <action id="Console.TableResult.DeleteRows" />
   <action id="DebugClass">
@@ -24,8 +30,14 @@
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
+  <action id="EditorDeleteToWordEnd">
+    <keyboard-shortcut first-keystroke="meta back_space" />
+  </action>
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="meta y" />
+  </action>
+  <action id="EditorKillRegion">
+    <keyboard-shortcut first-keystroke="ctrl back_space" />
   </action>
   <action id="EditorLineEnd">
     <keyboard-shortcut first-keystroke="ctrl e" />
@@ -80,7 +92,9 @@
   <action id="LocalHistory.ShowSelectionHistory">
     <keyboard-shortcut first-keystroke="shift ctrl s" />
   </action>
-  <action id="OptimizeImports" />
+  <action id="OptimizeImports">
+    <keyboard-shortcut first-keystroke="ctrl meta o" />
+  </action>
   <action id="ParameterInfo">
     <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
@@ -148,6 +162,9 @@
   <action id="ViewBreakpoints">
     <keyboard-shortcut first-keystroke="shift meta f8" />
     <keyboard-shortcut first-keystroke="ctrl d" second-keystroke="l" />
+  </action>
+  <action id="VimAutoIndentLines">
+    <keyboard-shortcut first-keystroke="ctrl alt i" />
   </action>
   <action id="VimMotionScrollHalfPageDown">
     <keyboard-shortcut first-keystroke="ctrl i" />
