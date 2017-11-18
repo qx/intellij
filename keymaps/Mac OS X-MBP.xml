@@ -45,6 +45,7 @@
   <action id="EditorLineStart">
     <keyboard-shortcut first-keystroke="ctrl a" />
   </action>
+  <action id="EditorMatchBrace" />
   <action id="EditorToggleColumnMode">
     <keyboard-shortcut first-keystroke="shift meta 8" />
   </action>
@@ -122,6 +123,12 @@
   </action>
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="3" />
+  </action>
+  <action id="StructuralSearchPlugin.StructuralReplaceAction">
+    <keyboard-shortcut first-keystroke="shift meta m" />
+  </action>
+  <action id="StructuralSearchPlugin.StructuralSearchAction">
+    <keyboard-shortcut first-keystroke="shift meta s" />
   </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
