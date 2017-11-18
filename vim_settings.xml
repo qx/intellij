@@ -30,12 +30,11 @@
       <file name="$USER_HOME$/Desktop/pdk_all/pdk/.idea/.curNotes.txt" timestamp="1510877307103">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/test/java/com/pdk/sandaha/utils/ComUtilsTest.kt" timestamp="1511004196026">
+      <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/test/java/com/pdk/sandaha/utils/ComUtilsTest.kt" timestamp="1511005477205">
         <mark key="'" line="996" column="60" />
-        <mark key="[" line="996" column="0" />
-        <mark key="]" line="996" column="0" />
-        <mark key="." line="996" column="0" />
-        <mark key="^" line="996" column="0" />
+        <mark key="]" line="95" column="3" />
+        <mark key="." line="95" column="3" />
+        <mark key="^" line="95" column="3" />
       </file>
       <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/test/java/com/pdk/sandaha/bean/ShowPokerTest.kt" timestamp="1510993574309">
         <mark key="^" line="141" column="40" />
@@ -58,8 +57,12 @@
       <file name="/fragment.kt" timestamp="1511003771547">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" timestamp="1511002264579">
-        <mark key="'" line="47" column="21" />
+      <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" timestamp="1511008830916">
+        <mark key="'" line="1932" column="34" />
+        <mark key="[" line="2175" column="69" />
+        <mark key="]" line="2178" column="41" />
+        <mark key="^" line="2178" column="41" />
+        <mark key="." line="2178" column="41" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.2.3/c0ffc75c22302bc666d4d8be10d6288b66ef2092/jackson-annotations-2.2.3-sources.jar!/com/fasterxml/jackson/annotation/JsonIgnore.java" timestamp="1510997929118">
         <mark key="'" line="46" column="18" />
@@ -90,7 +93,7 @@
       <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/bean/Game.java" timestamp="1510997893647">
         <mark key="'" line="373" column="33" />
       </file>
-      <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/bean/Player.java" timestamp="1510997928958">
+      <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/bean/Player.java" timestamp="1511006770265">
         <mark key="'" line="23" column="13" />
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
@@ -101,7 +104,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1673" column="19" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
       <jump line="2096" column="20" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
       <jump line="2104" column="19" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
       <jump line="2157" column="19" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
@@ -201,10 +203,11 @@
       <jump line="47" column="21" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
       <jump line="996" column="60" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/test/java/com/pdk/sandaha/utils/ComUtilsTest.kt" />
       <jump line="626" column="28" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/utils/ComUtils.java" />
+      <jump line="1932" column="34" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIH0KCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ICAgICAgICA=</text>
@@ -216,31 +219,31 @@
         <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMod2luY2FyZHMsIENvbVV0aWxzLmdldFdpbkNhcmRzKHNob3dQb2tlcnMsIDApKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzaG93UG9rZXJzLmFkZChzaG93UG9rZXJfMikKICAgICAgICBzaG93UG9rZXJzLmFkZChzaG93UG9rZXJfMykK</text>
+        <text encoding="base64">ICAgIH0KCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBzaG93UG9rZXJzLmFkZChzaG93UG9rZXJfMikKICAgICAgICBzaG93UG9rZXJzLmFkZChzaG93UG9rZXJfMykK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cmV0dXJuIHRyYW5zSW50b0pRSygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi6KKr5q+U6L6D54mM5YWo6YOo5Li65Li7Iik7Cg==</text>
+        <text encoding="base64">cmV0dXJuIHRyYW5zSW50b0pRSygpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiVXNlIENhcmQgQ29tcGFyZSxyZXN1bHQ9OiIgKyBhYmdwLmNvbXBhcmVUbyhiZ3ApKTsK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi6KKr5q+U6L6D54mM5YWo6YOo5Li65Li7Iik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi5q+U6L6D57uT5p6cOiIgKyBhYmdwLmNvbXBhcmVUbyhiZ3ApKTsK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiVXNlIENhcmQgQ29tcGFyZSxyZXN1bHQ9OiIgKyBhYmdwLmNvbXBhcmVUbyhiZ3ApKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi6KKr5q+U6L6D54mM55qE5pyA5aSn54mMOiIgKyBiZ3ApOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi5q+U6L6D57uT5p6cOiIgKyBhYmdwLmNvbXBhcmVUbyhiZ3ApKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi5b2T5YmN5pyA5bCP55qE54mMOiIgKyBhYmdwKTsK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi6KKr5q+U6L6D54mM55qE5pyA5aSn54mMOiIgKyBiZ3ApOwo=</text>
       </register>
       <register name=":" type="4">
         <text>160</text>
@@ -310,6 +313,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>

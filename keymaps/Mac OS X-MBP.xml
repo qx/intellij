@@ -54,7 +54,6 @@
   <action id="FileChooser.GotoProject" />
   <action id="FileChooser.TogglePathShowing" />
   <action id="FileStructurePopup">
-    <keyboard-shortcut first-keystroke="meta f12" />
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="1" />
   </action>
   <action id="FindInPath">
@@ -74,6 +73,9 @@
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="meta p" />
   </action>
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="meta b" />
+  </action>
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="shift meta o" />
   </action>
@@ -87,9 +89,11 @@
     <keyboard-shortcut first-keystroke="shift meta alt n" />
     <keyboard-shortcut first-keystroke="meta alt o" />
   </action>
+  <action id="HideAllWindows">
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="h" />
+  </action>
   <action id="JumpToLastWindow">
-    <keyboard-shortcut first-keystroke="f12" />
-    <keyboard-shortcut first-keystroke="space" second-keystroke="tab" />
+    <keyboard-shortcut first-keystroke="ctrl w" second-keystroke="w" />
   </action>
   <action id="LocalHistory.ShowHistory">
     <keyboard-shortcut first-keystroke="shift ctrl h" />
@@ -107,6 +111,9 @@
     <mouse-shortcut keystroke="alt button1" />
     <keyboard-shortcut first-keystroke="ctrl d" second-keystroke="e" />
   </action>
+  <action id="Refactorings.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="r" />
+  </action>
   <action id="ReplaceInPath">
     <keyboard-shortcut first-keystroke="shift meta r" />
   </action>
@@ -119,6 +126,9 @@
   <action id="RunClass">
     <keyboard-shortcut first-keystroke="shift ctrl f10" />
     <keyboard-shortcut first-keystroke="ctrl t" second-keystroke="t" />
+  </action>
+  <action id="SafeDelete">
+    <keyboard-shortcut first-keystroke="meta alt back_space" />
   </action>
   <action id="SendEOF" />
   <action id="ShelvedChanges.Diff" />
