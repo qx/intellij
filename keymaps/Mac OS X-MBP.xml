@@ -86,7 +86,6 @@
     <keyboard-shortcut first-keystroke="ctrl b" second-keystroke="p" />
   </action>
   <action id="GotoSymbol">
-    <keyboard-shortcut first-keystroke="shift meta alt n" />
     <keyboard-shortcut first-keystroke="meta alt o" />
   </action>
   <action id="HideAllWindows">
