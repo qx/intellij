@@ -70,6 +70,7 @@
         <mark key="^" line="51" column="31" />
         <mark key="." line="51" column="31" />
       </file>
+      <file name="$USER_HOME$/github/java-design-patterns/service-locator/src/main/java/com/iluwatar/servicelocator/App.java" timestamp="1511086811173" />
       <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/test/java/com/pdk/sandaha/bean/ShowPokerTest.kt" timestamp="1510993574309">
         <mark key="[" line="139" column="51" />
         <mark key="]" line="142" column="40" />
@@ -90,6 +91,9 @@
       </file>
       <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/bean/Room.java" timestamp="1510997878767">
         <mark key="'" line="24" column="27" />
+      </file>
+      <file name="$USER_HOME$/github/java-design-patterns/singleton/src/main/java/com/iluwatar/singleton/App.java" timestamp="1511086685958">
+        <mark key="'" line="65" column="47" />
       </file>
       <file name="/fragment.kt" timestamp="1511003771547">
         <mark key="[" line="0" column="0" />
@@ -176,7 +180,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2295" column="28" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
       <jump line="2288" column="24" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
       <jump line="2290" column="51" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
       <jump line="1020" column="16" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
@@ -276,6 +279,7 @@
       <jump line="36" column="22" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/phz/PaoHuzi.java" />
       <jump line="65" column="16" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/GameProcess.java" />
       <jump line="277" column="16" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/GameProcess.java" />
+      <jump line="65" column="47" filename="$USER_HOME$/github/java-design-patterns/singleton/src/main/java/com/iluwatar/singleton/App.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
