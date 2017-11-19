@@ -36,6 +36,15 @@
       <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/gongxian/GongxianRunandrun.java" timestamp="1510990457389">
         <mark key="'" line="1606" column="48" />
       </file>
+      <file name="$USER_HOME$/github/java-design-patterns/bridge/src/main/java/com/iluwatar/bridge/Enchantment.java" timestamp="1511093510990">
+        <mark key="'" line="31" column="7" />
+      </file>
+      <file name="$USER_HOME$/github/mine/src/main/java/RainSky.java" timestamp="1511095472840">
+        <mark key="[" line="4" column="5" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/pdk_all/pdk/.idea/.curNotes.txt" timestamp="1510877307103">
         <mark key="[" line="0" column="0" />
       </file>
@@ -57,11 +66,17 @@
         <mark key="[" line="21" column="0" />
         <mark key="]" line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/github/mine/src/main/java/Sky.java" timestamp="1511090636157">
-        <mark key="[" line="4" column="18" />
-        <mark key="]" line="6" column="27" />
-        <mark key="^" line="6" column="27" />
-        <mark key="." line="6" column="27" />
+      <file name="$USER_HOME$/github/mine/src/main/java/Sky.java" timestamp="1511095606118">
+        <mark key="[" line="12" column="8" />
+        <mark key="]" line="12" column="49" />
+        <mark key="^" line="12" column="49" />
+        <mark key="." line="12" column="49" />
+      </file>
+      <file name="$USER_HOME$/github/mine/src/main/java/FlyingState.java" timestamp="1511094303789">
+        <mark key="[" line="2" column="11" />
+        <mark key="]" line="3" column="15" />
+        <mark key="^" line="3" column="15" />
+        <mark key="." line="3" column="15" />
       </file>
       <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/phz/PaoHuzi.java" timestamp="1511055414995">
         <mark key="'" line="35" column="22" />
@@ -76,8 +91,8 @@
         <mark key="^" line="141" column="40" />
         <mark key="." line="142" column="40" />
       </file>
-      <file name="$USER_HOME$/github/mine/src/main/java/Eagel.java" timestamp="1511090184513">
-        <mark key="[" line="8" column="0" />
+      <file name="$USER_HOME$/github/mine/src/main/java/Eagel.java" timestamp="1511094695625">
+        <mark key="[" line="9" column="27" />
         <mark key="]" line="9" column="39" />
         <mark key="^" line="9" column="39" />
         <mark key="." line="9" column="39" />
@@ -131,7 +146,6 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/github/wer/build.gradle" timestamp="1511090500947" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/lang/reflect/AccessibleObject.java" timestamp="1510990368440">
         <mark key="'" line="125" column="16" />
       </file>
@@ -141,11 +155,11 @@
         <mark key="." line="85" column="11" />
         <mark key="^" line="85" column="11" />
       </file>
-      <file name="$USER_HOME$/github/mine/src/main/java/Maque.java" timestamp="1511090154298">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="4" column="39" />
-        <mark key="^" line="4" column="39" />
-        <mark key="." line="4" column="39" />
+      <file name="$USER_HOME$/github/mine/src/main/java/Maque.java" timestamp="1511094646992">
+        <mark key="[" line="8" column="27" />
+        <mark key="]" line="8" column="31" />
+        <mark key="^" line="8" column="31" />
+        <mark key="." line="8" column="31" />
       </file>
       <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/bean/PokerSeat.java" timestamp="1510993729111">
         <mark key="'" line="31" column="11" />
@@ -189,7 +203,7 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1511058281665">
+      <file name="/fragment.java" timestamp="1511095040719">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/github/mine/src/main/java/App.java" timestamp="1511090215876">
@@ -200,7 +214,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2288" column="24" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
       <jump line="2290" column="51" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
       <jump line="1020" column="16" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
       <jump line="1021" column="45" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
@@ -300,6 +313,7 @@
       <jump line="65" column="16" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/GameProcess.java" />
       <jump line="277" column="16" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/GameProcess.java" />
       <jump line="65" column="47" filename="$USER_HOME$/github/java-design-patterns/singleton/src/main/java/com/iluwatar/singleton/App.java" />
+      <jump line="31" column="7" filename="$USER_HOME$/github/java-design-patterns/bridge/src/main/java/com/iluwatar/bridge/Enchantment.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
