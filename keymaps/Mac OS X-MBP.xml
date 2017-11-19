@@ -10,6 +10,9 @@
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="t" />
   </action>
+  <action id="CallHierarchy">
+    <keyboard-shortcut first-keystroke="shift ctrl i" />
+  </action>
   <action id="ChangesView.Commit">
     <keyboard-shortcut first-keystroke="shift ctrl c" />
   </action>
@@ -28,6 +31,9 @@
   </action>
   <action id="Diff.ShowDiff" />
   <action id="DuplicatesForm.SendToRight" />
+  <action id="EditorContextInfo">
+    <keyboard-shortcut first-keystroke="shift ctrl c" />
+  </action>
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
