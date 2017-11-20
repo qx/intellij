@@ -12,11 +12,11 @@
       <file name="$USER_HOME$/github/java-design-patterns/abstract-factory/src/main/java/com/iluwatar/abstractfactory/King.java" timestamp="1511103695980">
         <mark key="'" line="29" column="19" />
       </file>
-      <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/phz/AbstractGame.java" timestamp="1511147060550">
-        <mark key="[" line="2" column="26" />
-        <mark key="]" line="2" column="44" />
-        <mark key="^" line="2" column="44" />
-        <mark key="." line="2" column="44" />
+      <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/phz/AbstractGame.java" timestamp="1511150806259">
+        <mark key="[" line="13" column="16" />
+        <mark key="]" line="13" column="15" />
+        <mark key="^" line="13" column="15" />
+        <mark key="." line="13" column="15" />
       </file>
       <file name="/a.dummy" timestamp="1511146997683">
         <mark key="[" line="0" column="0" />
@@ -27,8 +27,8 @@
       <file name="$USER_HOME$/github/java-design-patterns/bridge/src/main/java/com/iluwatar/bridge/Enchantment.java" timestamp="1511093510990">
         <mark key="'" line="31" column="7" />
       </file>
-      <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/phz/prol/BaseGame.java" timestamp="1511147085861">
-        <mark key="[" line="2" column="7" />
+      <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/phz/prol/BaseRoom.java" timestamp="1511147729571">
+        <mark key="[" line="2" column="27" />
       </file>
       <file name="$USER_HOME$/Desktop/pdk_all/pdk/.idea/.curNotes.txt" timestamp="1510877307103">
         <mark key="[" line="0" column="0" />
@@ -51,14 +51,20 @@
         <mark key="^" line="3" column="15" />
         <mark key="." line="3" column="15" />
       </file>
-      <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/phz/PHZRoom.java" timestamp="1511147199977">
-        <mark key="[" line="2" column="21" />
+      <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/phz/PHZRoom.java" timestamp="1511147436914">
+        <mark key="[" line="4" column="42" />
       </file>
       <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/phz/BaseGame.java" timestamp="1511146727306">
         <mark key="[" line="2" column="32" />
         <mark key="]" line="2" column="14" />
         <mark key="^" line="2" column="14" />
         <mark key="." line="2" column="14" />
+      </file>
+      <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/phz/prol/BaseTable.java" timestamp="1511147722899">
+        <mark key="[" line="3" column="5" />
+        <mark key="]" line="3" column="32" />
+        <mark key="^" line="3" column="32" />
+        <mark key="." line="3" column="32" />
       </file>
       <file name="$USER_HOME$/github/mine/src/main/java/Eagel.java" timestamp="1511094695625">
         <mark key="[" line="9" column="27" />
@@ -96,17 +102,30 @@
         <mark key="^" line="8" column="31" />
         <mark key="." line="8" column="31" />
       </file>
+      <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/phz/prol/BaseGameAction.java" timestamp="1511150387523">
+        <mark key="[" line="42" column="18" />
+        <mark key="]" line="42" column="16" />
+        <mark key="." line="42" column="16" />
+        <mark key="^" line="42" column="14" />
+      </file>
       <file name="$USER_HOME$/github/mine/src/main/java/Room.java" timestamp="1511097437504">
         <mark key="[" line="5" column="28" />
         <mark key="]" line="5" column="67" />
         <mark key="^" line="5" column="67" />
         <mark key="." line="5" column="67" />
       </file>
-      <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/service/GameService.java" timestamp="1511018426097">
-        <mark key="'" line="83" column="20" />
+      <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/changde/ChangdeRunandrun.java" timestamp="1510997869599">
+        <mark key="'" line="67" column="33" />
+        <mark key="[" line="62" column="9" />
+        <mark key="]" line="871" column="31" />
+        <mark key="^" line="871" column="31" />
+        <mark key="." line="846" column="522" />
       </file>
-      <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/bean/Game.java" timestamp="1510997893647">
-        <mark key="'" line="373" column="33" />
+      <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/service/GameService.java" timestamp="1511148110041">
+        <mark key="'" line="72" column="13" />
+      </file>
+      <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/bean/Game.java" timestamp="1511148520834">
+        <mark key="'" line="151" column="16" />
       </file>
       <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/Seat.java" timestamp="1510992386463">
         <mark key="'" line="16" column="11" />
@@ -162,6 +181,12 @@
         <mark key="^" line="3" column="17" />
         <mark key="." line="3" column="17" />
       </file>
+      <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/phz/prol/PhzGameAction.java" timestamp="1511149982939">
+        <mark key="[" line="8" column="33" />
+        <mark key="]" line="9" column="3" />
+        <mark key="^" line="9" column="3" />
+        <mark key="." line="9" column="3" />
+      </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/lang/Cloneable.java" timestamp="1510992372655">
         <mark key="'" line="52" column="17" />
       </file>
@@ -177,6 +202,9 @@
         <mark key="^" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" timestamp="1511147858432">
+        <mark key="'" line="41" column="23" />
+      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.2.3/c0ffc75c22302bc666d4d8be10d6288b66ef2092/jackson-annotations-2.2.3-sources.jar!/com/fasterxml/jackson/annotation/JsonIgnore.java" timestamp="1510997929118">
         <mark key="'" line="46" column="18" />
       </file>
@@ -189,10 +217,11 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/lang/reflect/AccessibleObject.java" timestamp="1510990368440">
         <mark key="'" line="125" column="16" />
       </file>
-      <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/phz/PHZGame.java" timestamp="1511147220712">
-        <mark key="[" line="2" column="44" />
-        <mark key="]" line="2" column="29" />
-        <mark key="." line="2" column="29" />
+      <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/phz/PHZGame.java" timestamp="1511150903601">
+        <mark key="[" line="2" column="29" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/bean/PokerSeat.java" timestamp="1510993729111">
         <mark key="'" line="31" column="11" />
@@ -203,8 +232,12 @@
       <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/junlian/JunlianRunandrun.java" timestamp="1510990468693">
         <mark key="'" line="1552" column="63" />
       </file>
-      <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/phz/PHZTable.java" timestamp="1511146944546">
-        <mark key="[" line="2" column="21" />
+      <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/phz/PHZTable.java" timestamp="1511147686132">
+        <mark key="'" line="5" column="26" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="5" column="24" />
+        <mark key="." line="5" column="24" />
+        <mark key="^" line="5" column="24" />
       </file>
       <file name="/fragment.java" timestamp="1511147140226">
         <mark key="[" line="0" column="0" />
@@ -217,10 +250,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1034" column="68" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
-      <jump line="1493" column="105" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
-      <jump line="1567" column="113" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
-      <jump line="2032" column="80" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
       <jump line="2381" column="44" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
       <jump line="138" column="37" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
       <jump line="183" column="90" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
@@ -317,19 +346,23 @@
       <jump line="34" column="20" filename="$USER_HOME$/github/java-design-patterns/callback/src/main/java/com/iluwatar/callback/Task.java" />
       <jump line="29" column="19" filename="$USER_HOME$/github/java-design-patterns/abstract-factory/src/main/java/com/iluwatar/abstractfactory/King.java" />
       <jump line="34" column="37" filename="$USER_HOME$/github/java-design-patterns/abstract-document/src/main/java/com/iluwatar/abstractdocument/AbstractDocument.java" />
+      <jump line="5" column="26" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/phz/PHZTable.java" />
+      <jump line="41" column="23" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
+      <jump line="151" column="16" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/bean/Game.java" />
+      <jump line="72" column="13" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/service/GameService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>BaseGame</text>
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>BaseGame</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmb3JjZURpc2JhbmRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIERCU2VydmljZSB7Cgo=</text>
+        <text encoding="base64">ICAgIFJlc3BSZXN1bHQgb25HYW1lRW50ZXIoU3RyaW5nIHJUb2tlbiwgSW9TZXNzaW9uIHNlc3Npb24pOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIH0KCg==</text>
