@@ -65,10 +65,10 @@
         <mark key="^" line="3" column="15" />
         <mark key="." line="3" column="15" />
       </file>
-      <file name="$USER_HOME$/Desktop/LiveDemoOnLSS/android/app/build.gradle" timestamp="1511243859044">
-        <mark key="[" line="28" column="39" />
-        <mark key="]" line="28" column="39" />
-        <mark key="." line="28" column="39" />
+      <file name="$USER_HOME$/Desktop/LiveDemoOnLSS/android/app/build.gradle" timestamp="1511244494757">
+        <mark key="[" line="4" column="24" />
+        <mark key="]" line="4" column="25" />
+        <mark key="." line="4" column="25" />
         <mark key="^" line="28" column="69" />
       </file>
       <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/phz/PHZRoom.java" timestamp="1511147436914">
@@ -402,10 +402,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>URL_SEARCH&quot;, &quot;\&quot;https://dev-search.example.com\&quot;&quot;</text>
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>URL_SEARCH&quot;, &quot;\&quot;https://dev-search.example.com\&quot;&quot;</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmb3JjZURpc2JhbmRcPg==</text>
