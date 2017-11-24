@@ -109,6 +109,7 @@
   <action id="MaximizeToolWindow">
     <keyboard-shortcut first-keystroke="shift ctrl meta f" />
   </action>
+  <action id="MethodUp" />
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="ctrl w" second-keystroke="w" />
   </action>
