@@ -135,7 +135,7 @@
     <keyboard-shortcut first-keystroke="ctrl d" second-keystroke="e" />
   </action>
   <action id="Refactorings.QuickListPopupAction">
-    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="r" />
+    <keyboard-shortcut first-keystroke="meta t" />
   </action>
   <action id="ReplaceInPath">
     <keyboard-shortcut first-keystroke="shift meta r" />
@@ -214,6 +214,7 @@
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="p" />
   </action>
   <action id="Vcs.QuickListPopupAction" />
+  <action id="Vcs.UpdateProject" />
   <action id="ViewBreakpoints">
     <keyboard-shortcut first-keystroke="shift meta f8" />
     <keyboard-shortcut first-keystroke="ctrl d" second-keystroke="l" />
