@@ -1,9 +1,7 @@
 <application>
   <component name="AbbreviationManager">
     <abbreviations>
-      <action id="RunClass">
-        <abbreviation name="run test" />
-      </action>
+      <action id="RunClass" />
     </abbreviations>
   </component>
 </application>
