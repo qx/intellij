@@ -27,8 +27,7 @@
   <action id="Console.TableResult.ColumnVisibility" />
   <action id="Console.TableResult.DeleteRows" />
   <action id="DebugClass">
-    <keyboard-shortcut first-keystroke="shift ctrl f9" />
-    <keyboard-shortcut first-keystroke="ctrl d" second-keystroke="d" />
+    <keyboard-shortcut first-keystroke="alt d" />
   </action>
   <action id="Diff.ShowDiff" />
   <action id="DuplicatesForm.SendToRight" />
@@ -143,14 +142,14 @@
     <keyboard-shortcut first-keystroke="shift meta r" />
   </action>
   <action id="RerunFailedTests">
-    <keyboard-shortcut first-keystroke="ctrl t" second-keystroke="f" />
+    <keyboard-shortcut first-keystroke="alt r" />
   </action>
   <action id="Resume">
     <keyboard-shortcut first-keystroke="ctrl d" second-keystroke="r" />
   </action>
   <action id="RunClass">
-    <keyboard-shortcut first-keystroke="ctrl t" second-keystroke="t" />
     <keyboard-shortcut first-keystroke="meta 3" />
+    <keyboard-shortcut first-keystroke="alt t" />
   </action>
   <action id="SafeDelete">
     <keyboard-shortcut first-keystroke="meta alt back_space" />
