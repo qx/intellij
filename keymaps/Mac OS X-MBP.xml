@@ -110,6 +110,7 @@
   <action id="IntroduceField" />
   <action id="IntroduceProperty" />
   <action id="JumpToLastWindow" />
+  <action id="JustOneSpace" />
   <action id="LocalHistory.ShowHistory">
     <keyboard-shortcut first-keystroke="shift ctrl h" />
   </action>
@@ -122,6 +123,7 @@
   <action id="MethodDuplicates">
     <keyboard-shortcut first-keystroke="ctrl f" second-keystroke="r" />
   </action>
+  <action id="MinimizeCurrentWindow" />
   <action id="NewDir">
     <keyboard-shortcut first-keystroke="ctrl p" second-keystroke="n" />
   </action>
@@ -231,6 +233,9 @@
   </action>
   <action id="VimMotionScrollHalfPageUp">
     <keyboard-shortcut first-keystroke="ctrl k" />
+  </action>
+  <action id="emacsIDEAs.AceJump">
+    <keyboard-shortcut first-keystroke="meta m" />
   </action>
   <action id="org.intellij.plugins.markdown.ui.actions.editorLayout.CyclicSplitLayoutChangeAction" />
 </keymap>
