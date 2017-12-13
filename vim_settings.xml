@@ -74,6 +74,14 @@
       <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/phz/PHZRoom.java" timestamp="1511147436914">
         <mark key="[" line="4" column="42" />
       </file>
+      <file name="$USER_HOME$/github/pdk_all/pdk/src/test/kotlin/com/taier/TaierTest.kt" timestamp="1513167949004">
+        <mark key="'" line="180" column="0" />
+        <mark key="[" line="151" column="54" />
+        <mark key="]" line="151" column="53" />
+        <mark key="m" line="64" column="8" />
+        <mark key="." line="151" column="53" />
+        <mark key="^" line="151" column="53" />
+      </file>
       <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/phz/BaseGame.java" timestamp="1511146727306">
         <mark key="[" line="2" column="32" />
         <mark key="]" line="2" column="14" />
@@ -202,6 +210,12 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/github/pdk_all/pdk/src/main/java/com/taier/been/Poker.java" timestamp="1513165082692">
+        <mark key="[" line="62" column="28" />
+        <mark key="]" line="50" column="18" />
+        <mark key="^" line="50" column="18" />
+        <mark key="." line="50" column="18" />
+      </file>
       <file name="$USER_HOME$/Desktop/LiveDemoOnLSS/android/app/src/main/java/com/livedemo/MainApplication.java" timestamp="1511246978689">
         <mark key="[" line="18" column="22" />
         <mark key="]" line="18" column="16" />
@@ -277,6 +291,9 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/lang/reflect/AccessibleObject.java" timestamp="1510990368440">
         <mark key="'" line="125" column="16" />
       </file>
+      <file name="$USER_HOME$/github/pdk_all/pdk/src/test/kotlin/TaierTest.kt" timestamp="1513165257476">
+        <mark key="'" line="2564" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/phz/PHZGame.java" timestamp="1511150903601">
         <mark key="[" line="2" column="29" />
         <mark key="]" line="7" column="0" />
@@ -306,7 +323,7 @@
         <mark key="." line="5" column="24" />
         <mark key="^" line="5" column="24" />
       </file>
-      <file name="/fragment.java" timestamp="1511167997586">
+      <file name="/fragment.java" timestamp="1513165348440">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/github/mine/src/main/java/App.java" timestamp="1511096842781">
@@ -317,36 +334,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="37" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/Seat.java" />
-      <jump line="52" column="17" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/lang/Cloneable.java" />
-      <jump line="16" column="11" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/Seat.java" />
-      <jump line="179" column="33" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/bean/Game.java" />
-      <jump line="44" column="27" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/bean/Table.java" />
-      <jump line="186" column="18" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/bean/Game.java" />
-      <jump line="83" column="20" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/service/GameService.java" />
-      <jump line="599" column="22" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/utils/ComUtils.java" />
-      <jump line="2035" column="52" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
-      <jump line="156" column="24" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
-      <jump line="33" column="35" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/bean/Poker.java" />
-      <jump line="13" column="31" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/bean/Poker.java" />
-      <jump line="31" column="11" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/bean/PokerSeat.java" />
-      <jump line="16" column="28" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/utils/ComUtils.java" />
-      <jump line="16" column="34" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/bean/Poker.java" />
-      <jump line="172" column="61" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/test/java/com/pdk/sandaha/utils/ComUtilsTest.kt" />
-      <jump line="1458" column="8" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/test/java/com/pdk/sandaha/utils/ComUtilsTest.kt" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/test/java/com/pdk/sandaha/utils/ComUtilsTest.kt" />
-      <jump line="3" column="0" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/test/java/com/pdk/sandaha/utils/ComUtilsTest.kt" />
-      <jump line="1470" column="0" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/test/java/com/pdk/sandaha/utils/ComUtilsTest.kt" />
-      <jump line="1559" column="39" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
-      <jump line="2480" column="4" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
-      <jump line="50" column="0" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
-      <jump line="60" column="30" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
-      <jump line="71" column="19" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/changde/ChangdeRunandrun.java" />
-      <jump line="1012" column="24" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/changde/ChangdeRunandrun.java" />
-      <jump line="67" column="33" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/changde/ChangdeRunandrun.java" />
-      <jump line="365" column="42" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/bean/Game.java" />
-      <jump line="24" column="27" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/bean/Room.java" />
-      <jump line="363" column="40" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/bean/Game.java" />
       <jump line="361" column="19" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/bean/Game.java" />
       <jump line="373" column="33" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/bean/Game.java" />
       <jump line="11" column="13" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/bean/Player.java" />
@@ -417,13 +404,43 @@
       <jump line="192" column="0" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/phz/AbstractGame.java" />
       <jump line="191" column="2" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/phz/AbstractGame.java" />
       <jump line="18" column="58" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/phz/AbstractGame.java" />
+      <jump line="2564" column="0" filename="$USER_HOME$/github/pdk_all/pdk/src/test/kotlin/TaierTest.kt" />
+      <jump line="1392" column="0" filename="$USER_HOME$/github/pdk_all/pdk/src/test/kotlin/com/taier/TaierTest.kt" />
+      <jump line="79" column="23" filename="$USER_HOME$/github/pdk_all/pdk/src/test/kotlin/com/taier/TaierTest.kt" />
+      <jump line="20" column="0" filename="$USER_HOME$/github/pdk_all/pdk/src/test/kotlin/com/taier/TaierTest.kt" />
+      <jump line="2" column="0" filename="$USER_HOME$/github/pdk_all/pdk/src/test/kotlin/com/taier/TaierTest.kt" />
+      <jump line="19" column="0" filename="$USER_HOME$/github/pdk_all/pdk/src/test/kotlin/com/taier/TaierTest.kt" />
+      <jump line="32" column="0" filename="$USER_HOME$/github/pdk_all/pdk/src/test/kotlin/com/taier/TaierTest.kt" />
+      <jump line="40" column="0" filename="$USER_HOME$/github/pdk_all/pdk/src/test/kotlin/com/taier/TaierTest.kt" />
+      <jump line="44" column="0" filename="$USER_HOME$/github/pdk_all/pdk/src/test/kotlin/com/taier/TaierTest.kt" />
+      <jump line="49" column="0" filename="$USER_HOME$/github/pdk_all/pdk/src/test/kotlin/com/taier/TaierTest.kt" />
+      <jump line="55" column="0" filename="$USER_HOME$/github/pdk_all/pdk/src/test/kotlin/com/taier/TaierTest.kt" />
+      <jump line="61" column="0" filename="$USER_HOME$/github/pdk_all/pdk/src/test/kotlin/com/taier/TaierTest.kt" />
+      <jump line="84" column="0" filename="$USER_HOME$/github/pdk_all/pdk/src/test/kotlin/com/taier/TaierTest.kt" />
+      <jump line="64" column="8" filename="$USER_HOME$/github/pdk_all/pdk/src/test/kotlin/com/taier/TaierTest.kt" />
+      <jump line="68" column="0" filename="$USER_HOME$/github/pdk_all/pdk/src/test/kotlin/com/taier/TaierTest.kt" />
+      <jump line="74" column="0" filename="$USER_HOME$/github/pdk_all/pdk/src/test/kotlin/com/taier/TaierTest.kt" />
+      <jump line="83" column="0" filename="$USER_HOME$/github/pdk_all/pdk/src/test/kotlin/com/taier/TaierTest.kt" />
+      <jump line="86" column="0" filename="$USER_HOME$/github/pdk_all/pdk/src/test/kotlin/com/taier/TaierTest.kt" />
+      <jump line="91" column="0" filename="$USER_HOME$/github/pdk_all/pdk/src/test/kotlin/com/taier/TaierTest.kt" />
+      <jump line="96" column="0" filename="$USER_HOME$/github/pdk_all/pdk/src/test/kotlin/com/taier/TaierTest.kt" />
+      <jump line="115" column="0" filename="$USER_HOME$/github/pdk_all/pdk/src/test/kotlin/com/taier/TaierTest.kt" />
+      <jump line="121" column="0" filename="$USER_HOME$/github/pdk_all/pdk/src/test/kotlin/com/taier/TaierTest.kt" />
+      <jump line="132" column="0" filename="$USER_HOME$/github/pdk_all/pdk/src/test/kotlin/com/taier/TaierTest.kt" />
+      <jump line="140" column="0" filename="$USER_HOME$/github/pdk_all/pdk/src/test/kotlin/com/taier/TaierTest.kt" />
+      <jump line="144" column="0" filename="$USER_HOME$/github/pdk_all/pdk/src/test/kotlin/com/taier/TaierTest.kt" />
+      <jump line="150" column="0" filename="$USER_HOME$/github/pdk_all/pdk/src/test/kotlin/com/taier/TaierTest.kt" />
+      <jump line="152" column="0" filename="$USER_HOME$/github/pdk_all/pdk/src/test/kotlin/com/taier/TaierTest.kt" />
+      <jump line="155" column="0" filename="$USER_HOME$/github/pdk_all/pdk/src/test/kotlin/com/taier/TaierTest.kt" />
+      <jump line="157" column="0" filename="$USER_HOME$/github/pdk_all/pdk/src/test/kotlin/com/taier/TaierTest.kt" />
+      <jump line="180" column="0" filename="$USER_HOME$/github/pdk_all/pdk/src/test/kotlin/com/taier/TaierTest.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>YiyangSanDa</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>YiyangSanDa</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmb3JjZURpc2JhbmRcPg==</text>
@@ -432,31 +449,31 @@
         <text encoding="base64">ICAgIFJlc3BSZXN1bHQgb25HYW1lRW50ZXIoU3RyaW5nIHJUb2tlbiwgSW9TZXNzaW9uIHNlc3Npb24pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnVpbGRDb25maWdGaWVsZCAiU3RyaW5nIiwgIlVSTF9TRUFSQ0giLCAiXCJodHRwczovL2Rldi1zZWFyY2guZXhhbXBsZS5jb21cIiIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3JjQ2FyZCEhLmFkZEFsbChZaXlhbmdTYW5EYWhhVHlwZS55aXlhbmdTb3VyY2UpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnVpbGRDb25maWdGaWVsZCAiU3RyaW5nIiwgIlVSTF9TRUFSQ0giLCAiXCJodHRwczovL2Rldi1zZWFyY2guZXhhbXBsZS5jb21cIiIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzaG93UG9rZXJzLmFkZChzaG93UG9rZXJfMikKICAgICAgICBzaG93UG9rZXJzLmFkZChzaG93UG9rZXJfMykK</text>
+        <text encoding="base64">ICAgIH0KCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBzaG93UG9rZXJzLmFkZChzaG93UG9rZXJfMikKICAgICAgICBzaG93UG9rZXJzLmFkZChzaG93UG9rZXJfMykK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cmV0dXJuIHRyYW5zSW50b0pRSygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi6KKr5q+U6L6D54mM5YWo6YOo5Li65Li7Iik7Cg==</text>
+        <text encoding="base64">cmV0dXJuIHRyYW5zSW50b0pRSygpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiVXNlIENhcmQgQ29tcGFyZSxyZXN1bHQ9OiIgKyBhYmdwLmNvbXBhcmVUbyhiZ3ApKTsK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi6KKr5q+U6L6D54mM5YWo6YOo5Li65Li7Iik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi5q+U6L6D57uT5p6cOiIgKyBhYmdwLmNvbXBhcmVUbyhiZ3ApKTsK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiVXNlIENhcmQgQ29tcGFyZSxyZXN1bHQ9OiIgKyBhYmdwLmNvbXBhcmVUbyhiZ3ApKTsK</text>
       </register>
       <register name=":" type="4">
         <text>160</text>
