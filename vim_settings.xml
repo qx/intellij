@@ -32,8 +32,10 @@
         <mark key="^" line="5" column="66" />
         <mark key="." line="5" column="66" />
       </file>
-      <file name="$USER_HOME$/github/pdk_all/pdk/src/main/java/com/pdk/sandaha/utils/ComUtils.java" timestamp="1513174244539">
-        <mark key="[" line="729" column="118" />
+      <file name="$USER_HOME$/github/pdk_all/pdk/src/main/java/com/pdk/sandaha/utils/ComUtils.java" timestamp="1513181733070">
+        <mark key="[" line="702" column="79" />
+        <mark key="]" line="702" column="87" />
+        <mark key="." line="702" column="80" />
       </file>
       <file name="/a.dummy" timestamp="1511168666812">
         <mark key="[" line="0" column="0" />
@@ -244,17 +246,24 @@
       <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/BullEnum.java" timestamp="1510990480925">
         <mark key="'" line="4" column="4" />
       </file>
-      <file name="$USER_HOME$/github/pdk_all/pdk/src/main/java/com/taier/Taier.java" timestamp="1513178578572">
-        <mark key="[" line="79" column="13" />
-        <mark key="]" line="79" column="11" />
-        <mark key="^" line="79" column="11" />
-        <mark key="." line="79" column="11" />
+      <file name="$USER_HOME$/github/pdk_all/pdk/src/main/java/com/taier/Taier.java" timestamp="1513180430249">
+        <mark key="[" line="1996" column="143" />
+        <mark key="]" line="1996" column="148" />
+        <mark key="^" line="1996" column="148" />
+        <mark key="." line="1996" column="148" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513176563710">
+      <file name="/Dummy.txt" timestamp="1513179987874">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/github/java-design-patterns/singleton/src/main/java/com/iluwatar/singleton/App.java" timestamp="1511086685958">
         <mark key="'" line="65" column="47" />
+      </file>
+      <file name="$USER_HOME$/github/pdk_all/pdk/src/test/java/com/pdk/sandaha/utils/ComUtilsTest.kt" timestamp="1513181845075">
+        <mark key="'" line="2531" column="0" />
+        <mark key="[" line="2625" column="23" />
+        <mark key="]" line="2625" column="23" />
+        <mark key="^" line="2562" column="3" />
+        <mark key="." line="2625" column="23" />
       </file>
       <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/mina/protocal/Protocal.java" timestamp="1511167144145">
         <mark key="[" line="2" column="49" />
@@ -282,6 +291,9 @@
         <mark key="]" line="3" column="37" />
         <mark key="^" line="3" column="37" />
         <mark key="." line="3" column="37" />
+      </file>
+      <file name="$USER_HOME$/github/pdk_all/pdk/src/main/java/com/taier/TableUitls.java" timestamp="1513180445529">
+        <mark key="[" line="45" column="11" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/lang/reflect/AccessibleObject.java" timestamp="1510990368440">
         <mark key="'" line="125" column="16" />
@@ -315,7 +327,7 @@
         <mark key="." line="5" column="24" />
         <mark key="^" line="5" column="24" />
       </file>
-      <file name="/fragment.java" timestamp="1513178371799">
+      <file name="/fragment.java" timestamp="1513180250958">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/github/mine/src/main/java/App.java" timestamp="1511096842781">
@@ -326,8 +338,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="37" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/Seat.java" />
-      <jump line="52" column="17" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/lang/Cloneable.java" />
       <jump line="16" column="11" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/Seat.java" />
       <jump line="179" column="33" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/bean/Game.java" />
       <jump line="44" column="27" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/bean/Table.java" />
@@ -426,13 +436,15 @@
       <jump line="192" column="0" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/phz/AbstractGame.java" />
       <jump line="191" column="2" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/phz/AbstractGame.java" />
       <jump line="18" column="58" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/phz/AbstractGame.java" />
+      <jump line="2553" column="0" filename="$USER_HOME$/github/pdk_all/pdk/src/test/java/com/pdk/sandaha/utils/ComUtilsTest.kt" />
+      <jump line="2531" column="0" filename="$USER_HOME$/github/pdk_all/pdk/src/test/java/com/pdk/sandaha/utils/ComUtilsTest.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>2</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmb3JjZURpc2JhbmRcPg==</text>
@@ -475,6 +487,8 @@
       <last-search encoding="base64">XDxmb3JjZURpc2JhbmRcPg==</last-search>
       <last-offset />
       <last-pattern encoding="base64">XDxmb3JjZURpc2JhbmRcPg==</last-pattern>
+      <last-replace>~</last-replace>
+      <last-substitute encoding="base64">XDxmb3JjZURpc2JhbmRcPg==</last-substitute>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
