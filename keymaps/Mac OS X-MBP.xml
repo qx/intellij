@@ -26,8 +26,9 @@
   <action id="CompareTwoFiles" />
   <action id="Console.TableResult.ColumnVisibility" />
   <action id="Console.TableResult.DeleteRows" />
+  <action id="Console.TableResult.SetDefault" />
   <action id="DebugClass">
-    <keyboard-shortcut first-keystroke="alt d" />
+    <keyboard-shortcut first-keystroke="meta alt d" />
   </action>
   <action id="Diff.ShowDiff" />
   <action id="DuplicatesForm.SendToRight" />
@@ -106,6 +107,8 @@
   <action id="HideAllWindows">
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="h" />
   </action>
+  <action id="IntroduceField" />
+  <action id="IntroduceProperty" />
   <action id="JumpToLastWindow" />
   <action id="LocalHistory.ShowHistory">
     <keyboard-shortcut first-keystroke="shift ctrl h" />
@@ -142,14 +145,13 @@
     <keyboard-shortcut first-keystroke="shift meta r" />
   </action>
   <action id="RerunFailedTests">
-    <keyboard-shortcut first-keystroke="alt r" />
+    <keyboard-shortcut first-keystroke="meta alt f" />
   </action>
   <action id="Resume">
     <keyboard-shortcut first-keystroke="ctrl d" second-keystroke="r" />
   </action>
   <action id="RunClass">
-    <keyboard-shortcut first-keystroke="meta 3" />
-    <keyboard-shortcut first-keystroke="alt t" />
+    <keyboard-shortcut first-keystroke="meta alt t" />
   </action>
   <action id="SafeDelete">
     <keyboard-shortcut first-keystroke="meta alt back_space" />
@@ -182,6 +184,7 @@
   <action id="StructuralSearchPlugin.StructuralSearchAction">
     <keyboard-shortcut first-keystroke="shift meta s" />
   </action>
+  <action id="SurroundWith" />
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
   </action>
