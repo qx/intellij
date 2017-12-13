@@ -244,10 +244,11 @@
       <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/BullEnum.java" timestamp="1510990480925">
         <mark key="'" line="4" column="4" />
       </file>
-      <file name="$USER_HOME$/github/pdk_all/pdk/src/main/java/com/taier/Taier.java" timestamp="1513174281120">
-        <mark key="[" line="35" column="36" />
-        <mark key="]" line="35" column="37" />
-        <mark key="." line="35" column="0" />
+      <file name="$USER_HOME$/github/pdk_all/pdk/src/main/java/com/taier/Taier.java" timestamp="1513175166206">
+        <mark key="[" line="35" column="16" />
+        <mark key="]" line="35" column="16" />
+        <mark key="." line="35" column="16" />
+        <mark key="^" line="35" column="16" />
       </file>
       <file name="/Dummy.txt" timestamp="1511263827383">
         <mark key="[" line="0" column="0" />
@@ -467,7 +468,7 @@
         <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi5q+U6L6D57uT5p6cOiIgKyBhYmdwLmNvbXBhcmVUbyhiZ3ApKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>160</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -506,6 +507,7 @@
         <entry>e</entry>
         <entry>160</entry>
         <entry>Q</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
