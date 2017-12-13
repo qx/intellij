@@ -2,9 +2,6 @@
   <component name="activate-power-mode">
     <option name="IS_SHAKE" value="false" />
     <option name="IS_COLORFUL" value="true" />
-    <option name="MAX_CLICK_COMBO" value="27" />
-    <option name="PARTICLE_COLOR">
-      <Color />
-    </option>
+    <option name="MAX_CLICK_COMBO" value="74" />
   </component>
 </application>

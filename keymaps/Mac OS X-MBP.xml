@@ -7,9 +7,9 @@
   <action id="ActivateNotesToolWindow">
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="n" />
   </action>
+  <action id="ActivateRunToolWindow" />
   <action id="ActivateTerminalToolWindow">
-    <keyboard-shortcut first-keystroke="alt f12" />
-    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="t" />
+    <keyboard-shortcut first-keystroke="meta 4" />
   </action>
   <action id="CallHierarchy">
     <keyboard-shortcut first-keystroke="shift ctrl i" />
@@ -65,6 +65,7 @@
   <action id="EditorToggleColumnMode">
     <keyboard-shortcut first-keystroke="shift meta 8" />
   </action>
+  <action id="EditorUnSelectWord" />
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.GotoModule" />
   <action id="FileChooser.GotoProject" />
@@ -105,7 +106,7 @@
     <keyboard-shortcut first-keystroke="meta alt o" />
   </action>
   <action id="HideAllWindows">
-    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="h" />
+    <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
   <action id="IntroduceField" />
   <action id="IntroduceProperty" />
