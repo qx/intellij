@@ -3,6 +3,7 @@
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
   <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateFindToolWindow" />
   <action id="ActivateNotesToolWindow">
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="n" />
   </action>
@@ -26,8 +27,7 @@
   <action id="Console.TableResult.ColumnVisibility" />
   <action id="Console.TableResult.DeleteRows" />
   <action id="DebugClass">
-    <keyboard-shortcut first-keystroke="shift ctrl f9" />
-    <keyboard-shortcut first-keystroke="ctrl d" second-keystroke="d" />
+    <keyboard-shortcut first-keystroke="alt d" />
   </action>
   <action id="Diff.ShowDiff" />
   <action id="DuplicatesForm.SendToRight" />
@@ -65,6 +65,7 @@
     <keyboard-shortcut first-keystroke="shift meta 8" />
   </action>
   <action id="FileChooser.GotoDesktop" />
+  <action id="FileChooser.GotoModule" />
   <action id="FileChooser.GotoProject" />
   <action id="FileChooser.TogglePathShowing" />
   <action id="FileStructurePopup">
@@ -74,7 +75,8 @@
     <keyboard-shortcut first-keystroke="shift meta f" />
   </action>
   <action id="FindUsages">
-    <keyboard-shortcut first-keystroke="meta g" />
+    <keyboard-shortcut first-keystroke="alt f7" />
+    <keyboard-shortcut first-keystroke="ctrl f" second-keystroke="u" />
   </action>
   <action id="ForceRunToCursor">
     <keyboard-shortcut first-keystroke="ctrl d" second-keystroke="c" />
@@ -92,7 +94,6 @@
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="shift meta o" />
   </action>
-  <action id="GotoLine" />
   <action id="GotoNextBookmark">
     <keyboard-shortcut first-keystroke="ctrl b" second-keystroke="n" />
   </action>
@@ -141,14 +142,14 @@
     <keyboard-shortcut first-keystroke="shift meta r" />
   </action>
   <action id="RerunFailedTests">
-    <keyboard-shortcut first-keystroke="ctrl t" second-keystroke="f" />
+    <keyboard-shortcut first-keystroke="alt r" />
   </action>
   <action id="Resume">
     <keyboard-shortcut first-keystroke="ctrl d" second-keystroke="r" />
   </action>
   <action id="RunClass">
-    <keyboard-shortcut first-keystroke="shift ctrl f10" />
-    <keyboard-shortcut first-keystroke="ctrl t" second-keystroke="t" />
+    <keyboard-shortcut first-keystroke="meta 3" />
+    <keyboard-shortcut first-keystroke="alt t" />
   </action>
   <action id="SafeDelete">
     <keyboard-shortcut first-keystroke="meta alt back_space" />
