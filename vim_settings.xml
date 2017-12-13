@@ -244,11 +244,11 @@
       <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/BullEnum.java" timestamp="1510990480925">
         <mark key="'" line="4" column="4" />
       </file>
-      <file name="$USER_HOME$/github/pdk_all/pdk/src/main/java/com/taier/Taier.java" timestamp="1513175166206">
-        <mark key="[" line="35" column="16" />
-        <mark key="]" line="35" column="16" />
-        <mark key="." line="35" column="16" />
-        <mark key="^" line="35" column="16" />
+      <file name="$USER_HOME$/github/pdk_all/pdk/src/main/java/com/taier/Taier.java" timestamp="1513176466557">
+        <mark key="[" line="35" column="18" />
+        <mark key="]" line="35" column="18" />
+        <mark key="^" line="35" column="3" />
+        <mark key="." line="35" column="18" />
       </file>
       <file name="/Dummy.txt" timestamp="1511263827383">
         <mark key="[" line="0" column="0" />
@@ -315,7 +315,7 @@
         <mark key="." line="5" column="24" />
         <mark key="^" line="5" column="24" />
       </file>
-      <file name="/fragment.java" timestamp="1513174329623">
+      <file name="/fragment.java" timestamp="1513176246959">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/github/mine/src/main/java/App.java" timestamp="1511096842781">
@@ -428,8 +428,8 @@
       <jump line="18" column="58" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/phz/AbstractGame.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgaW50IHJvb21VcHBlciA9IDEyOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
