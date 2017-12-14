@@ -103,6 +103,9 @@
       <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/gaoxian/GaoxianRunandrun.java" timestamp="1510995968844">
         <mark key="[" line="61" column="0" />
       </file>
+      <file name="$USER_HOME$/github/pdk_all/pdk/src/main/java/com/taier/TaierCommonTableDelegate.java" timestamp="1513229720479">
+        <mark key="[" line="20" column="39" />
+      </file>
       <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/bean/Room.java" timestamp="1510997878767">
         <mark key="'" line="24" column="27" />
       </file>
@@ -258,6 +261,11 @@
       <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/BullEnum.java" timestamp="1510990480925">
         <mark key="'" line="4" column="4" />
       </file>
+      <file name="$USER_HOME$/github/pdk_all/pdk/src/main/java/com/taier/Taier.java" timestamp="1513229837470">
+        <mark key="]" line="71" column="11" />
+        <mark key="." line="71" column="11" />
+        <mark key="^" line="71" column="11" />
+      </file>
       <file name="/Dummy.txt" timestamp="1511263827383">
         <mark key="[" line="0" column="0" />
       </file>
@@ -326,7 +334,7 @@
         <mark key="." line="5" column="24" />
         <mark key="^" line="5" column="24" />
       </file>
-      <file name="/fragment.java" timestamp="1513165348440">
+      <file name="/fragment.java" timestamp="1513229748366">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/github/mine/src/main/java/App.java" timestamp="1511096842781">
@@ -337,7 +345,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="361" column="19" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/bean/Game.java" />
       <jump line="373" column="33" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/bean/Game.java" />
       <jump line="11" column="13" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/bean/Player.java" />
       <jump line="23" column="13" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/bean/Player.java" />
@@ -437,6 +444,7 @@
       <jump line="155" column="0" filename="$USER_HOME$/github/pdk_all/pdk/src/test/kotlin/com/taier/TaierTest.kt" />
       <jump line="157" column="0" filename="$USER_HOME$/github/pdk_all/pdk/src/test/kotlin/com/taier/TaierTest.kt" />
       <jump line="180" column="0" filename="$USER_HOME$/github/pdk_all/pdk/src/test/kotlin/com/taier/TaierTest.kt" />
+      <jump line="67" column="33" filename="$USER_HOME$/github/pdk_all/pdk/src/main/java/com/taier/Taier.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
