@@ -18,11 +18,11 @@
         <mark key="." line="3" column="23" />
         <mark key="^" line="3" column="23" />
       </file>
-      <file name="$USER_HOME$/github/pdk_all/pdk/src/main/java/com/pdk/sandaha/utils/ComUtils.java" timestamp="1513237902632">
+      <file name="$USER_HOME$/github/pdk_all/pdk/src/main/java/com/pdk/sandaha/utils/ComUtils.java" timestamp="1513238002704">
         <mark key="'" line="357" column="30" />
-        <mark key="[" line="600" column="19" />
-        <mark key="]" line="789" column="19" />
-        <mark key="." line="789" column="19" />
+        <mark key="[" line="455" column="15" />
+        <mark key="]" line="455" column="15" />
+        <mark key="." line="455" column="15" />
         <mark key="^" line="789" column="19" />
       </file>
       <file name="/a.dummy" timestamp="1513229962378">
@@ -245,7 +245,7 @@
         <mark key="^" line="183" column="18" />
         <mark key="." line="183" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513236095970">
+      <file name="/Dummy.txt" timestamp="1513237995866">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/github/java-design-patterns/singleton/src/main/java/com/iluwatar/singleton/App.java" timestamp="1511086685958">
@@ -428,10 +428,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>方块7</text>
+        <text>CANSHUAI</text>
       </register>
       <register name="-" type="4">
-        <text>方块7</text>
+        <text>CANSHUAI</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmb3JjZURpc2JhbmRcPg==</text>
