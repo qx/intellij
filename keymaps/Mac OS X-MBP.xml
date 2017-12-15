@@ -3,7 +3,9 @@
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
   <action id="ActivateFavoritesToolWindow" />
-  <action id="ActivateFindToolWindow" />
+  <action id="ActivateFindToolWindow">
+    <keyboard-shortcut first-keystroke="meta 8" />
+  </action>
   <action id="ActivateNotesToolWindow">
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="n" />
   </action>
