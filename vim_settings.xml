@@ -232,11 +232,11 @@
         <mark key="^" line="9" column="3" />
         <mark key="." line="9" column="3" />
       </file>
-      <file name="$USER_HOME$/github/pdk_all/pdk/src/main/kotlin/com/taier/utils/TaierComUtils.kt" timestamp="1513331934236">
-        <mark key="[" line="963" column="35" />
-        <mark key="]" line="963" column="37" />
+      <file name="$USER_HOME$/github/pdk_all/pdk/src/main/kotlin/com/taier/utils/TaierComUtils.kt" timestamp="1513333233426">
+        <mark key="[" line="968" column="48" />
+        <mark key="]" line="422" column="34" />
         <mark key="^" line="963" column="37" />
-        <mark key="." line="963" column="37" />
+        <mark key="." line="422" column="34" />
       </file>
       <file name="$USER_HOME$/github/AwesomeProject/App.js" timestamp="1513313359886">
         <mark key="[" line="71" column="16" />
@@ -244,7 +244,7 @@
         <mark key="^" line="71" column="19" />
         <mark key="." line="71" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513329838894">
+      <file name="/Dummy.txt" timestamp="1513332074948">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/mina/protocal/Protocal.java" timestamp="1511167144145">
@@ -409,10 +409,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>r</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmb3JjZURpc2JhbmRcPg==</text>
@@ -420,8 +420,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIFJlc3BSZXN1bHQgb25HYW1lRW50ZXIoU3RyaW5nIHJUb2tlbiwgSW9TZXNzaW9uIHNlc3Npb24pOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">c3RyZWFtKCkuZGlzdGluY3QoKS8v5Y676YeNCiAgICAgICAgTE9HR0VSLmluZm8oIkNvbG9yczoiLCBjb2xvcnMpCiAgICAgICAgcmV0dXJuIGNvbG9ycy5zaXplIA==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -430,22 +430,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vICAgICAgICByZXR1cm4gdGV4dDsK</text>
+        <text encoding="base64">ICAgIC8vICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vICAgIHB1YmxpYyBTdHJpbmcgdG9TdHJpbmcoKSB7Cg==</text>
+        <text encoding="base64">ICAgIC8vICAgICAgICByZXR1cm4gdGV4dDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vICAgIEBPdmVycmlkZQo=</text>
+        <text encoding="base64">ICAgIC8vICAgIHB1YmxpYyBTdHJpbmcgdG9TdHJpbmcoKSB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vCg==</text>
+        <text encoding="base64">ICAgIC8vICAgIEBPdmVycmlkZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vICAgIH0K</text>
+        <text encoding="base64">ICAgIC8vCg==</text>
       </register>
       <register name=":" type="4">
         <text>160</text>
