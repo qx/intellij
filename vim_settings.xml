@@ -148,6 +148,12 @@
         <mark key="." line="28" column="10" />
         <mark key="^" line="28" column="10" />
       </file>
+      <file name="$USER_HOME$/github/pdk_all/pdk/src/main/kotlin/com/taier/been/ActionInfo.kt" timestamp="1513326945848">
+        <mark key="[" line="13" column="25" />
+        <mark key="]" line="13" column="32" />
+        <mark key="." line="13" column="32" />
+        <mark key="^" line="13" column="32" />
+      </file>
       <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/phz/prol/PhzProtocalProcess.java" timestamp="1511168240920">
         <mark key="[" line="5" column="15" />
         <mark key="]" line="5" column="21" />
@@ -225,6 +231,12 @@
         <mark key="]" line="9" column="3" />
         <mark key="^" line="9" column="3" />
         <mark key="." line="9" column="3" />
+      </file>
+      <file name="$USER_HOME$/github/pdk_all/pdk/src/main/kotlin/com/taier/utils/TaierComUtils.kt" timestamp="1513331934236">
+        <mark key="[" line="963" column="35" />
+        <mark key="]" line="963" column="37" />
+        <mark key="^" line="963" column="37" />
+        <mark key="." line="963" column="37" />
       </file>
       <file name="$USER_HOME$/github/AwesomeProject/App.js" timestamp="1513313359886">
         <mark key="[" line="71" column="16" />
@@ -397,10 +409,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmb3JjZURpc2JhbmRcPg==</text>
