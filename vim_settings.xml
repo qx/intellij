@@ -15,28 +15,7 @@
         <mark key="." line="3" column="23" />
         <mark key="^" line="3" column="23" />
       </file>
-      <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/phz/AbstractGame.java" timestamp="1511172641897">
-        <mark key="'" line="16" column="58" />
-        <mark key="[" line="222" column="44" />
-        <mark key="]" line="248" column="16" />
-        <mark key="^" line="248" column="16" />
-        <mark key="." line="248" column="16" />
-      </file>
-      <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/mina/protocal/ProtocalProcess.java" timestamp="1511168116771">
-        <mark key="'" line="7" column="25" />
-        <mark key="[" line="5" column="37" />
-        <mark key="]" line="5" column="66" />
-        <mark key="^" line="5" column="66" />
-        <mark key="." line="5" column="66" />
-      </file>
-      <file name="$USER_HOME$/github/pdk_all/pdk/src/main/java/com/pdk/sandaha/utils/ComUtils.java" timestamp="1513239444147">
-        <mark key="'" line="357" column="30" />
-        <mark key="[" line="455" column="15" />
-        <mark key="]" line="671" column="0" />
-        <mark key="." line="671" column="0" />
-        <mark key="^" line="671" column="0" />
-      </file>
-      <file name="/a.dummy" timestamp="1513319502871">
+      <file name="/a.dummy" timestamp="1513323937029">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/protocal/RespResult.java" timestamp="1510973473627">
@@ -66,6 +45,11 @@
         <mark key="^" line="3" column="15" />
         <mark key="." line="3" column="15" />
       </file>
+      <file name="$USER_HOME$/github/pdk_all/pdk/src/main/java/com/taier/TaierCommonTable.java" timestamp="1513323929447">
+        <mark key="]" line="34" column="10" />
+        <mark key="^" line="34" column="10" />
+        <mark key="." line="34" column="10" />
+      </file>
       <file name="$USER_HOME$/Desktop/LiveDemoOnLSS/android/app/build.gradle" timestamp="1511247102255">
         <mark key="[" line="3" column="23" />
         <mark key="]" line="3" column="24" />
@@ -75,7 +59,6 @@
       <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/phz/PHZRoom.java" timestamp="1511147436914">
         <mark key="[" line="4" column="42" />
       </file>
-      <file name="$USER_HOME$/github/cucumber-java-skeleton/build.gradle" timestamp="1513319125565" />
       <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/phz/BaseGame.java" timestamp="1511146727306">
         <mark key="[" line="2" column="32" />
         <mark key="]" line="2" column="14" />
@@ -100,15 +83,27 @@
         <mark key="^" line="9" column="39" />
         <mark key="." line="9" column="39" />
       </file>
+      <file name="$USER_HOME$/github/pdk_all/pdk/src/main/java/com/taier/TaierRoom.java" timestamp="1513323727433">
+        <mark key="[" line="47" column="29" />
+        <mark key="]" line="47" column="0" />
+        <mark key="^" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/gaoxian/GaoxianRunandrun.java" timestamp="1510995968844">
         <mark key="[" line="61" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/pdk_all/pdk/src/main/java/com/taier/TaierTableDelegate.java" timestamp="1513323328508">
+        <mark key="'" line="1077" column="0" />
       </file>
       <file name="$USER_HOME$/github/pdk_all/pdk/src/main/java/com/taier/TaierCommonTableDelegate.java" timestamp="1513229720479">
         <mark key="[" line="20" column="39" />
       </file>
-      <file name="$USER_HOME$/github/cucumber-jvm/examples/java-helloworld/README.md" timestamp="1513318041443" />
       <file name="/fragment.kt" timestamp="1511003771547">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/pdk_all/pdk/src/main/java/com/taier/TaierTable.java" timestamp="1513324431487">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="32" column="35" />
       </file>
       <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/resources/c2log.properties" timestamp="1511020658184">
         <mark key="[" line="0" column="0" />
@@ -143,31 +138,11 @@
         <mark key="^" line="5" column="67" />
         <mark key="." line="5" column="67" />
       </file>
-      <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/changde/ChangdeRunandrun.java" timestamp="1510997869599">
-        <mark key="'" line="67" column="33" />
-        <mark key="[" line="62" column="9" />
-        <mark key="]" line="871" column="31" />
-        <mark key="^" line="871" column="31" />
-        <mark key="." line="846" column="522" />
-      </file>
-      <file name="$USER_HOME$/github/pdk_all/pdk/src/main/java/com/taier/skeleton/Belly.java" timestamp="1513319767820" />
-      <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/bean/Game.java" timestamp="1511172566154">
-        <mark key="'" line="49" column="66" />
-        <mark key="[" line="289" column="12" />
-        <mark key="]" line="294" column="3" />
-        <mark key="^" line="294" column="3" />
-        <mark key="." line="294" column="3" />
-      </file>
       <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/phz/prol/PhzProtocalProcess.java" timestamp="1511168240920">
         <mark key="[" line="5" column="15" />
         <mark key="]" line="5" column="21" />
         <mark key="." line="5" column="21" />
         <mark key="^" line="5" column="21" />
-      </file>
-      <file name="$USER_HOME$/github/AwesomeProject/helloworld.html" timestamp="1513241399183">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
       </file>
       <file name="vim_settings.xml" timestamp="1511490692870">
         <mark key="[" line="0" column="0" />
@@ -196,21 +171,18 @@
         <mark key="^" line="3" column="42" />
         <mark key="." line="3" column="42" />
       </file>
-      <file name="$USER_HOME$/github/pdk_all/pdk/build.gradle" timestamp="1513319062005">
+      <file name="$USER_HOME$/github/pdk_all/pdk/build.gradle" timestamp="1513323393696">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="19" column="1" />
+        <mark key="[" line="66" column="30" />
+        <mark key="]" line="66" column="30" />
+        <mark key="^" line="66" column="30" />
+        <mark key="." line="66" column="30" />
       </file>
       <file name="$USER_HOME$/github/mine/src/main/java/SocketListener.java" timestamp="1511097329749">
         <mark key="[" line="1" column="32" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/github/pdk_all/pdk/src/main/java/com/taier/been/Poker.java" timestamp="1513165082692">
-        <mark key="[" line="62" column="28" />
-        <mark key="]" line="50" column="18" />
-        <mark key="^" line="50" column="18" />
-        <mark key="." line="50" column="18" />
       </file>
       <file name="$USER_HOME$/Desktop/LiveDemoOnLSS/android/app/src/main/java/com/livedemo/MainApplication.java" timestamp="1511246978689">
         <mark key="[" line="18" column="22" />
@@ -251,15 +223,8 @@
         <mark key="^" line="71" column="19" />
         <mark key="." line="71" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513319430314">
+      <file name="/Dummy.txt" timestamp="1513324126127">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/github/pdk_all/pdk/src/test/java/com/pdk/sandaha/utils/ComUtilsTest.kt" timestamp="1513236922298">
-        <mark key="e" line="2655" column="81" />
-        <mark key="[" line="2722" column="53" />
-        <mark key="]" line="2722" column="53" />
-        <mark key="^" line="2714" column="70" />
-        <mark key="." line="2722" column="53" />
       </file>
       <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/mina/protocal/Protocal.java" timestamp="1511167144145">
         <mark key="[" line="2" column="49" />
@@ -297,30 +262,10 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/github/pdk_all/pdk/src/main/java/com/taier/delegate/TaierTableDeletegate.java" timestamp="1513319426358" />
-      <file name="$USER_HOME$/github/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" timestamp="1513234822211">
-        <mark key="[" line="83" column="45" />
-        <mark key="]" line="83" column="45" />
-        <mark key="." line="83" column="45" />
-      </file>
-      <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/GameProcess.java" timestamp="1511168343198">
-        <mark key="'" line="23" column="47" />
-        <mark key="[" line="169" column="0" />
-        <mark key="]" line="169" column="0" />
-        <mark key="." line="169" column="0" />
-        <mark key="^" line="31" column="23" />
-      </file>
-      <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/phz/PHZTable.java" timestamp="1511147686132">
-        <mark key="'" line="5" column="26" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="5" column="24" />
-        <mark key="." line="5" column="24" />
-        <mark key="^" line="5" column="24" />
-      </file>
       <file name="$USER_HOME$/github/pdk_all/pdk/src/main/java/com/util/TimeUtil.java" timestamp="1513235123597">
         <mark key="[" line="173" column="16" />
       </file>
-      <file name="/fragment.java" timestamp="1513319502921">
+      <file name="/fragment.java" timestamp="1513323137087">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/github/mine/src/main/java/App.java" timestamp="1511096842781">
@@ -331,9 +276,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="13" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/bean/Player.java" />
-      <jump line="46" column="18" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.2.3/c0ffc75c22302bc666d4d8be10d6288b66ef2092/jackson-annotations-2.2.3-sources.jar!/com/fasterxml/jackson/annotation/JsonIgnore.java" />
-      <jump line="187" column="42" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
       <jump line="175" column="20" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
       <jump line="1934" column="36" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
       <jump line="45" column="23" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
@@ -431,6 +373,9 @@
       <jump line="67" column="33" filename="$USER_HOME$/github/pdk_all/pdk/src/main/java/com/taier/Taier.java" />
       <jump line="357" column="30" filename="$USER_HOME$/github/pdk_all/pdk/src/main/java/com/pdk/sandaha/utils/ComUtils.java" />
       <jump line="0" column="0" filename="$USER_HOME$/github/pdk_all/pdk/build.gradle" />
+      <jump line="1287" column="0" filename="$USER_HOME$/github/pdk_all/pdk/src/main/java/com/taier/TaierTableDelegate.java" />
+      <jump line="892" column="67" filename="$USER_HOME$/github/pdk_all/pdk/src/main/java/com/taier/TaierTable.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/github/pdk_all/pdk/src/main/java/com/taier/TaierTable.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
