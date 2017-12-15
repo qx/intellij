@@ -109,6 +109,11 @@
         <mark key="^" line="3" column="17" />
         <mark key="." line="3" column="17" />
       </file>
+      <file name="$USER_HOME$/github/pdk_all/pdk/src/test/java/com/pdk/sandaha/utils/ComUtilsTest.kt" timestamp="1513350092280">
+        <mark key="[" line="2757" column="68" />
+        <mark key="]" line="2750" column="72" />
+        <mark key="." line="2750" column="72" />
+      </file>
       <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/mina/protocal/Protocal.java" timestamp="1511167144145">
         <mark key="[" line="2" column="49" />
         <mark key="]" line="2" column="49" />
@@ -154,8 +159,10 @@
         <mark key="." line="3" column="23" />
         <mark key="^" line="3" column="23" />
       </file>
-      <file name="$USER_HOME$/github/pdk_all/pdk/src/main/java/com/pdk/sandaha/utils/ComUtils.java" timestamp="1513346597906">
-        <mark key="[" line="14" column="26" />
+      <file name="$USER_HOME$/github/pdk_all/pdk/src/main/java/com/pdk/sandaha/utils/ComUtils.java" timestamp="1513350021077">
+        <mark key="[" line="738" column="27" />
+        <mark key="]" line="683" column="0" />
+        <mark key="." line="683" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/protocal/RespResult.java" timestamp="1510973473627">
         <mark key="[" line="15" column="0" />
@@ -329,7 +336,7 @@
       <file name="$USER_HOME$/github/pdk_all/pdk/src/main/java/com/util/TimeUtil.java" timestamp="1513235123597">
         <mark key="[" line="173" column="16" />
       </file>
-      <file name="/fragment.java" timestamp="1513343340568">
+      <file name="/fragment.java" timestamp="1513349368010">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/github/mine/src/main/java/App.java" timestamp="1511096842781">
@@ -442,8 +449,8 @@
       <jump line="63" column="36" filename="$USER_HOME$/github/pdk_all/pdk/src/main/kotlin/com/taier/TaierTableDelegate.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICBTaG93UG9rZXIgc2hvd1Bva2VyID0gZmluZF9maXJzdChzaG93UG9rZXJzKTsK</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -454,14 +461,14 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIFJlc3BSZXN1bHQgb25HYW1lRW50ZXIoU3RyaW5nIHJUb2tlbiwgSW9TZXNzaW9uIHNlc3Npb24pOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICBTaG93UG9rZXIgc2hvd1Bva2VyID0gZmluZF9maXJzdChzaG93UG9rZXJzKTsK</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">c3RyZWFtKCkuZGlzdGluY3QoKS8v5Y676YeNCiAgICAgICAgTE9HR0VSLmluZm8oIkNvbG9yczoiLCBjb2xvcnMpCiAgICAgICAgcmV0dXJuIGNvbG9ycy5zaXplIA==</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">c3RyZWFtKCkuZGlzdGluY3QoKS8v5Y676YeNCiAgICAgICAgTE9HR0VSLmluZm8oIkNvbG9yczoiLCBjb2xvcnMpCiAgICAgICAgcmV0dXJuIGNvbG9ycy5zaXplIA==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -470,16 +477,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vICAgICAgICByZXR1cm4gdGV4dDsK</text>
+        <text encoding="base64">ICAgIC8vICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vICAgIHB1YmxpYyBTdHJpbmcgdG9TdHJpbmcoKSB7Cg==</text>
+        <text encoding="base64">ICAgIC8vICAgICAgICByZXR1cm4gdGV4dDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vICAgIEBPdmVycmlkZQo=</text>
+        <text encoding="base64">ICAgIC8vICAgIHB1YmxpYyBTdHJpbmcgdG9TdHJpbmcoKSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>160</text>
