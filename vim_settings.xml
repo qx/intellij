@@ -143,6 +143,9 @@
         <mark key="." line="34" column="13" />
         <mark key="^" line="45" column="14" />
       </file>
+      <file name="$USER_HOME$/github/AwesomeProject/messagingtest.html" timestamp="1513241376754">
+        <mark key="[" line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/github/mine/src/main/java/Room.java" timestamp="1511097437504">
         <mark key="[" line="5" column="28" />
         <mark key="]" line="5" column="67" />
@@ -171,6 +174,11 @@
         <mark key="]" line="5" column="21" />
         <mark key="." line="5" column="21" />
         <mark key="^" line="5" column="21" />
+      </file>
+      <file name="$USER_HOME$/github/AwesomeProject/helloworld.html" timestamp="1513241399183">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/mina/protocal/GameServerHandle.java" timestamp="1511151809630">
         <mark key="'" line="28" column="28" />
@@ -266,11 +274,11 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/lang/Cloneable.java" timestamp="1510992372655">
         <mark key="'" line="52" column="17" />
       </file>
-      <file name="$USER_HOME$/github/AwesomeProject/App.js" timestamp="1513240636694">
-        <mark key="[" line="27" column="29" />
-        <mark key="]" line="12" column="8" />
-        <mark key="^" line="12" column="8" />
-        <mark key="." line="12" column="8" />
+      <file name="$USER_HOME$/github/AwesomeProject/App.js" timestamp="1513307404985">
+        <mark key="[" line="30" column="34" />
+        <mark key="]" line="31" column="21" />
+        <mark key="^" line="31" column="21" />
+        <mark key="." line="31" column="21" />
       </file>
       <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/BullEnum.java" timestamp="1510990480925">
         <mark key="'" line="4" column="4" />
@@ -477,10 +485,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>CANSHUAI</text>
+        <text>Image</text>
       </register>
       <register name="-" type="4">
-        <text>CANSHUAI</text>
+        <text>Image</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmb3JjZURpc2JhbmRcPg==</text>
