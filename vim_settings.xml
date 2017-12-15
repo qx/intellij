@@ -274,11 +274,11 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/lang/Cloneable.java" timestamp="1510992372655">
         <mark key="'" line="52" column="17" />
       </file>
-      <file name="$USER_HOME$/github/AwesomeProject/App.js" timestamp="1513307404985">
-        <mark key="[" line="30" column="34" />
-        <mark key="]" line="31" column="21" />
-        <mark key="^" line="31" column="21" />
-        <mark key="." line="31" column="21" />
+      <file name="$USER_HOME$/github/AwesomeProject/App.js" timestamp="1513313359886">
+        <mark key="[" line="71" column="16" />
+        <mark key="]" line="71" column="16" />
+        <mark key="^" line="71" column="19" />
+        <mark key="." line="71" column="16" />
       </file>
       <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/pdk/BullEnum.java" timestamp="1510990480925">
         <mark key="'" line="4" column="4" />
@@ -485,10 +485,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Image</text>
+        <text>warn</text>
       </register>
       <register name="-" type="4">
-        <text>Image</text>
+        <text>warn</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmb3JjZURpc2JhbmRcPg==</text>
