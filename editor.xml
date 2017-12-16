@@ -17,6 +17,9 @@
     <option name="IS_FOLDING_OUTLINE_SHOWN" value="false" />
     <option name="IS_BLOCK_CURSOR" value="true" />
   </component>
+  <component name="JetEditorOptions">
+    <option name="donTShowConversionDialog" value="true" />
+  </component>
   <component name="XmlEditorOptions">
     <option name="showCssInlineColorPreview" value="true" />
   </component>
