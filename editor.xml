@@ -4,6 +4,11 @@
     <option name="FONT_FAMILY" value="Source Code Pro" />
   </component>
   <component name="EditorSettings">
+    <option name="languageBreadcrumbsMap">
+      <map>
+        <entry key="JAVA" value="true" />
+      </map>
+    </option>
     <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE" />
     <option name="QUICK_DOC_ON_MOUSE_OVER_DELAY_MS" value="1000" />
     <option name="CARET_BLINKING_PERIOD" value="1000" />
