@@ -68,6 +68,7 @@
         <mark key="^" line="72" column="42" />
         <mark key="." line="72" column="42" />
       </file>
+      <file name="/Stepdefs.java" timestamp="1513461011993" />
       <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/phz/PHZRoom.java" timestamp="1511147436914">
         <mark key="[" line="4" column="42" />
       </file>
@@ -175,7 +176,6 @@
         <mark key="^" line="5" column="67" />
         <mark key="." line="5" column="67" />
       </file>
-      <file name="$USER_HOME$/github/pdk_all/pdk/src/test/java/skeleton/Stepdefs.kt" timestamp="1513458973493" />
       <file name="$USER_HOME$/github/pdk_all/pdk/src/main/kotlin/com/taier/been/ShowPoker.kt" timestamp="1513329530704">
         <mark key="[" line="28" column="10" />
         <mark key="]" line="28" column="10" />
@@ -188,7 +188,6 @@
         <mark key="." line="1583" column="51" />
         <mark key="^" line="698" column="65" />
       </file>
-      <file name="$USER_HOME$/github/pdk_all/pdk/src/test/kotlin/com/taier/TaierStepDef.kt" timestamp="1513457042082" />
       <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/phz/prol/PhzProtocalProcess.java" timestamp="1511168240920">
         <mark key="[" line="5" column="15" />
         <mark key="]" line="5" column="21" />
@@ -225,8 +224,8 @@
         <mark key="^" line="3" column="42" />
         <mark key="." line="3" column="42" />
       </file>
-      <file name="$USER_HOME$/github/pdk_all/pdk/build.gradle" timestamp="1513459193893">
-        <mark key="[" line="60" column="43" />
+      <file name="$USER_HOME$/github/pdk_all/pdk/build.gradle" timestamp="1513461328095">
+        <mark key="[" line="60" column="63" />
         <mark key="]" line="60" column="42" />
         <mark key="^" line="60" column="42" />
         <mark key="." line="60" column="42" />
@@ -243,12 +242,12 @@
         <mark key="^" line="792" column="28" />
         <mark key="." line="792" column="28" />
       </file>
-      <file name="$USER_HOME$/github/pdk_all/pdk/src/test/resources/com/taier/taier.feature" timestamp="1513459070939">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="5" column="4" />
-        <mark key="]" line="5" column="4" />
-        <mark key="." line="5" column="4" />
-        <mark key="^" line="4" column="4" />
+      <file name="$USER_HOME$/github/pdk_all/pdk/src/test/resources/com/taier/taier.feature" timestamp="1513460932834">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="2" column="5" />
+        <mark key="]" line="3" column="5" />
+        <mark key="." line="3" column="5" />
+        <mark key="^" line="2" column="4" />
       </file>
       <file name="$USER_HOME$/github/pdk_all/pdk/src/main/java/com/taier/been/Poker.java" timestamp="1513165082692">
         <mark key="[" line="62" column="28" />
@@ -310,6 +309,7 @@
       <file name="$USER_HOME$/github/pdk_all/pdk/readme-cucumber.md" timestamp="1513458556873">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/github/pdk_all/pdk/src/test/resources/skeleton/belly.feature" timestamp="1513460925227" />
       <file name="/Dummy.txt" timestamp="1513377188357">
         <mark key="[" line="0" column="0" />
       </file>
@@ -490,10 +490,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>n</text>
+        <text>:</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmb3JjZURpc2JhbmRcPg==</text>
