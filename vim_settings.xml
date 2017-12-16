@@ -215,13 +215,13 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/github/pdk_all/pdk/src/main/kotlin/com/taier/TaierTable.kt" timestamp="1513400902939">
-        <mark key="'" line="549" column="88" />
-        <mark key="[" line="173" column="55" />
-        <mark key="m" line="455" column="66" />
-        <mark key="]" line="549" column="91" />
-        <mark key="^" line="549" column="91" />
-        <mark key="." line="549" column="91" />
+      <file name="$USER_HOME$/github/pdk_all/pdk/src/main/kotlin/com/taier/TaierTable.kt" timestamp="1513402207157">
+        <mark key="'" line="547" column="88" />
+        <mark key="[" line="188" column="16" />
+        <mark key="m" line="453" column="66" />
+        <mark key="]" line="547" column="91" />
+        <mark key="^" line="547" column="91" />
+        <mark key="." line="547" column="91" />
       </file>
       <file name="$USER_HOME$/Desktop/LiveDemoOnLSS/android/app/src/main/java/com/livedemo/MainApplication.java" timestamp="1511246978689">
         <mark key="[" line="18" column="22" />
@@ -307,12 +307,11 @@
         <mark key="^" line="3" column="37" />
         <mark key="." line="3" column="37" />
       </file>
-      <file name="$USER_HOME$/github/pdk_all/pdk/src/main/kotlin/com/taier/TaierTableDelegate.kt" timestamp="1513400925906">
-        <mark key="'" line="63" column="36" />
-        <mark key="[" line="79" column="116" />
-        <mark key="]" line="63" column="29" />
-        <mark key="." line="63" column="29" />
-        <mark key="^" line="63" column="29" />
+      <file name="$USER_HOME$/github/pdk_all/pdk/src/main/kotlin/com/taier/TaierTableDelegate.kt" timestamp="1513403420627">
+        <mark key="[" line="924" column="50" />
+        <mark key="]" line="901" column="43" />
+        <mark key="." line="901" column="43" />
+        <mark key="^" line="901" column="43" />
       </file>
       <file name="$USER_HOME$/github/wqerqwe/src/main/java/ProtoPackage.java" timestamp="1513340725860">
         <mark key="[" line="0" column="5" />
@@ -455,10 +454,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>!</text>
+        <text>ProtoPackage</text>
       </register>
       <register name="-" type="4">
-        <text>!</text>
+        <text>ProtoPackage</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmb3JjZURpc2JhbmRcPg==</text>
