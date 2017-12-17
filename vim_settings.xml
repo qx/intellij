@@ -3,12 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/github/cutester/src/main/java/TestJava.java" timestamp="1513480828530">
-        <mark key="[" line="2" column="3" />
-        <mark key="]" line="1" column="7" />
-        <mark key="^" line="1" column="7" />
-        <mark key="." line="1" column="7" />
-      </file>
       <file name="$USER_HOME$/github/pdk_all/pdk/src/test/kotlin/com/taier/BasicStepdefs.kt" timestamp="1513506905753">
         <mark key="[" line="23" column="93" />
         <mark key="]" line="14" column="197" />
@@ -33,20 +27,14 @@
       <file name="$USER_HOME$/github/pdk_all/pdk/src/main/kotlin/com/taier/TableUitls.kt" timestamp="1513431737941">
         <mark key="[" line="47" column="92" />
       </file>
-      <file name="$USER_HOME$/github/pdk_all/pdk/src/test/resources/features/taier.feature" timestamp="1513507904276">
-        <mark key="'" line="25" column="43" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="19" column="8" />
-        <mark key="^" line="17" column="11" />
-        <mark key="." line="19" column="8" />
+      <file name="$USER_HOME$/github/pdk_all/pdk/src/test/resources/features/taier.feature" timestamp="1513510032365">
+        <mark key="'" line="13" column="43" />
+        <mark key="[" line="5" column="14" />
+        <mark key="]" line="5" column="14" />
+        <mark key="^" line="5" column="11" />
+        <mark key="." line="5" column="14" />
       </file>
       <file name="$USER_HOME$/github/cucumber-jvm/examples/android/cukeulator-test/src/main/assets/features/extra/calculate.feature" timestamp="1513502527537" />
-      <file name="$USER_HOME$/github/pdk_all/pdk/src/test/java/TaierStepdefs.kt" timestamp="1513473003302">
-        <mark key="[" line="76" column="52" />
-        <mark key="]" line="76" column="29" />
-        <mark key="^" line="76" column="29" />
-        <mark key="." line="76" column="29" />
-      </file>
       <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/phz/PHZRoom.java" timestamp="1511147436914">
         <mark key="[" line="4" column="42" />
       </file>
@@ -76,12 +64,6 @@
       </file>
       <file name="$USER_HOME$/github/AwesomeProject/messagingtest.html" timestamp="1513241376754">
         <mark key="[" line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/github/pdk_all/pdk/src/test/kotlin/com/taier/TaierComUtilsTest.kt" timestamp="1513472388158">
-        <mark key="[" line="1583" column="47" />
-        <mark key="]" line="1583" column="51" />
-        <mark key="." line="1583" column="51" />
-        <mark key="^" line="698" column="65" />
       </file>
       <file name="$USER_HOME$/github/pdk_all/pdk/src/test/kotlin/com/taier/RunCukesTest.java" timestamp="1513482263837">
         <mark key="[" line="7" column="17" />
@@ -130,7 +112,7 @@
       <file name="$USER_HOME$/github/pdk_all/pdk/src/test/resources/skeleton/belly.feature" timestamp="1513465980057">
         <mark key="[" line="3" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513502532416">
+      <file name="/Dummy.txt" timestamp="1513509645025">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/github/pdk_all/pdk/src/test/java/com/pdk/sandaha/utils/ComUtilsTest.kt" timestamp="1513506781005" />
@@ -142,24 +124,17 @@
       <file name="/dummy.kt" timestamp="1513340406270">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/github/cucumber-jvm/java/src/test/java/cucumber/runtime/java/JavaSnippetTest.java" timestamp="1513509644304" />
       <file name="$USER_HOME$/github/wqerqwe/src/main/java/ProtoPackage.java" timestamp="1513340725860">
         <mark key="[" line="0" column="5" />
       </file>
-      <file name="$USER_HOME$/github/pdk_all/pdk/src/test/kotlin/com/taier/TaierStepdefs.kt" timestamp="1513504249569">
-        <mark key="[" line="24" column="39" />
-        <mark key="]" line="75" column="157" />
-        <mark key="." line="75" column="157" />
+      <file name="$USER_HOME$/github/pdk_all/pdk/src/test/kotlin/com/taier/TaierStepdefs.kt" timestamp="1513509989060">
+        <mark key="[" line="21" column="9" />
       </file>
       <file name="$USER_HOME$/github/pdk_all/pdk/src/test/kotlin/MyStepdefs.java" timestamp="1513466601594">
         <mark key="[" line="4" column="40" />
       </file>
-      <file name="$USER_HOME$/github/cucumber-jvm/picocontainer/src/test/resources/cucumber/runtime/java/picocontainer/dates.feature" timestamp="1513502607248" />
-      <file name="$USER_HOME$/github/pdk_all/pdk/src/test/java/TaierStepdefs.java" timestamp="1513471145820">
-        <mark key="[" line="17" column="20" />
-        <mark key="]" line="16" column="75" />
-        <mark key="^" line="16" column="75" />
-        <mark key="." line="16" column="75" />
-      </file>
+      <file name="$USER_HOME$/github/cucumber-jvm/picocontainer/src/test/resources/cucumber/runtime/java/picocontainer/dates.feature" timestamp="1513509595887" />
       <file name="$USER_HOME$/github/cutester/build.gradle" timestamp="1513475442412">
         <mark key="[" line="24" column="69" />
       </file>
@@ -277,10 +252,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>privatbe</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>privatbe</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmb3JjZURpc2JhbmRcPg==</text>
