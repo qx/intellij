@@ -9,6 +9,12 @@
         <mark key="^" line="1" column="7" />
         <mark key="." line="1" column="7" />
       </file>
+      <file name="$USER_HOME$/github/pdk_all/pdk/src/test/kotlin/com/taier/BasicStepdefs.kt" timestamp="1513503399078">
+        <mark key="[" line="14" column="29" />
+        <mark key="]" line="15" column="42" />
+        <mark key="^" line="15" column="42" />
+        <mark key="." line="15" column="42" />
+      </file>
       <file name="/a.dummy" timestamp="1513436169332">
         <mark key="[" line="0" column="0" />
       </file>
@@ -24,11 +30,16 @@
       <file name="$USER_HOME$/Desktop/pdk_all/pdk/.idea/.curNotes.txt" timestamp="1510877307103">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/github/cucumber-jvm/junit/src/test/java/cucumber/runtime/junit/CucumberTest.java" timestamp="1513482176950" />
       <file name="$USER_HOME$/github/pdk_all/pdk/src/main/kotlin/com/taier/TableUitls.kt" timestamp="1513431737941">
         <mark key="[" line="47" column="92" />
       </file>
-      <file name="$USER_HOME$/github/pdk_all/pdk/src/test/resources/features/taier.feature" timestamp="1513483681798" />
+      <file name="$USER_HOME$/github/pdk_all/pdk/src/test/resources/features/taier.feature" timestamp="1513502747504">
+        <mark key="[" line="16" column="8" />
+        <mark key="]" line="16" column="8" />
+        <mark key="^" line="14" column="11" />
+        <mark key="." line="16" column="8" />
+      </file>
+      <file name="$USER_HOME$/github/cucumber-jvm/examples/android/cukeulator-test/src/main/assets/features/extra/calculate.feature" timestamp="1513502527537" />
       <file name="$USER_HOME$/github/pdk_all/pdk/src/test/java/TaierStepdefs.kt" timestamp="1513473003302">
         <mark key="[" line="76" column="52" />
         <mark key="]" line="76" column="29" />
@@ -59,7 +70,7 @@
       <file name="$USER_HOME$/github/pdk_all/pdk/src/main/java/com/taier/TaierCommonTableDelegate.java" timestamp="1513229720479">
         <mark key="[" line="20" column="39" />
       </file>
-      <file name="/fragment.kt" timestamp="1513472269178">
+      <file name="/fragment.kt" timestamp="1513503379970">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/github/AwesomeProject/messagingtest.html" timestamp="1513241376754">
@@ -101,10 +112,10 @@
       <file name="$USER_HOME$/github/pdk_all/pdk/build.gradle" timestamp="1513474935370">
         <mark key="[" line="81" column="1" />
       </file>
-      <file name="$USER_HOME$/github/cutester/src/test/java/RunCukesTest.java" timestamp="1513483747588" />
-      <file name="$USER_HOME$/github/pdk_all/pdk/src/test/resources/com/taier/taier.feature" timestamp="1513473621664">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="8" column="14" />
+      <file name="$USER_HOME$/github/pdk_all/pdk/src/test/kotlin/com/taier/PokersStepdefs.java" timestamp="1513502917696">
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="2" column="13" />
+        <mark key="." line="2" column="13" />
       </file>
       <file name="$USER_HOME$/github/cutester/src/main/java/Main.java" timestamp="1513480859367">
         <mark key="[" line="0" column="19" />
@@ -112,14 +123,13 @@
       <file name="/1.groovy" timestamp="1510999252523">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/github/pdk_all/pdk/src/main/kotlin/com/taier/utils/TaierComUtils.kt" timestamp="1513483220338" />
       <file name="$USER_HOME$/github/pdk_all/pdk/readme-cucumber.md" timestamp="1513458556873">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/github/pdk_all/pdk/src/test/resources/skeleton/belly.feature" timestamp="1513465980057">
         <mark key="[" line="3" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513482125619">
+      <file name="/Dummy.txt" timestamp="1513502532416">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/github/cutester/src/main/kotlin/TestKotlin.kt" timestamp="1513480845711">
@@ -133,19 +143,15 @@
       <file name="$USER_HOME$/github/wqerqwe/src/main/java/ProtoPackage.java" timestamp="1513340725860">
         <mark key="[" line="0" column="5" />
       </file>
-      <file name="$USER_HOME$/github/pdk_all/pdk/src/test/kotlin/com/taier/TaierStepdefs.kt" timestamp="1513483501302">
-        <mark key="[" line="22" column="37" />
-        <mark key="]" line="78" column="157" />
-        <mark key="." line="78" column="157" />
-      </file>
-      <file name="$USER_HOME$/github/pdk_all/pdk/src/test/kotlin/ExampleStepdefs.java" timestamp="1513466710304">
-        <mark key="[" line="43" column="46" />
-        <mark key="]" line="43" column="46" />
-        <mark key="." line="43" column="46" />
+      <file name="$USER_HOME$/github/pdk_all/pdk/src/test/kotlin/com/taier/TaierStepdefs.kt" timestamp="1513503322361">
+        <mark key="[" line="17" column="27" />
+        <mark key="]" line="75" column="157" />
+        <mark key="." line="75" column="157" />
       </file>
       <file name="$USER_HOME$/github/pdk_all/pdk/src/test/kotlin/MyStepdefs.java" timestamp="1513466601594">
         <mark key="[" line="4" column="40" />
       </file>
+      <file name="$USER_HOME$/github/cucumber-jvm/picocontainer/src/test/resources/cucumber/runtime/java/picocontainer/dates.feature" timestamp="1513502607248" />
       <file name="$USER_HOME$/github/pdk_all/pdk/src/test/java/TaierStepdefs.java" timestamp="1513471145820">
         <mark key="[" line="17" column="20" />
         <mark key="]" line="16" column="75" />
@@ -269,10 +275,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>a</text>
+        <text>privatbe</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>privatbe</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmb3JjZURpc2JhbmRcPg==</text>
@@ -352,10 +358,10 @@
       <history-input />
     </history>
     <shortcut-conflicts>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed E</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed A</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
@@ -364,10 +370,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed G</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed N</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
@@ -375,12 +378,6 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed O</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed H</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed M</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
