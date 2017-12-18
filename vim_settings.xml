@@ -53,7 +53,7 @@
       <file name="$USER_HOME$/github/pdk_all/pdk/src/main/kotlin/com/taier/TableUitls.kt" timestamp="1513431737941">
         <mark key="[" line="47" column="92" />
       </file>
-      <file name="$USER_HOME$/github/pdk_all/pdk/src/test/resources/features/taier.feature" timestamp="1513600209684">
+      <file name="$USER_HOME$/github/pdk_all/pdk/src/test/resources/features/taier.feature" timestamp="1513603462924">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="11" column="15" />
         <mark key="." line="11" column="15" />
@@ -82,8 +82,11 @@
       <file name="/1.groovy" timestamp="1510999252523">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/github/pdk_all/pdk/src/main/kotlin/com/taier/utils/TaierComUtils.kt" timestamp="1513521488052">
-        <mark key="[" line="465" column="46" />
+      <file name="$USER_HOME$/github/pdk_all/pdk/src/main/kotlin/com/taier/utils/TaierComUtils.kt" timestamp="1513603537239">
+        <mark key="[" line="900" column="31" />
+        <mark key="]" line="801" column="39" />
+        <mark key="." line="801" column="39" />
+        <mark key="^" line="801" column="39" />
       </file>
       <file name="$USER_HOME$/github/wqerqwe/src/main/java/Person.kt" timestamp="1513340769706">
         <mark key="[" line="1" column="45" />
@@ -117,6 +120,11 @@
       <file name="/dummy.kt" timestamp="1513340406270">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/github/pdk_all/pdk/src/main/kotlin/com/taier/TaierTableDelegate.kt" timestamp="1513602350963">
+        <mark key="[" line="615" column="29" />
+        <mark key="]" line="615" column="29" />
+        <mark key="." line="615" column="29" />
+      </file>
       <file name="$USER_HOME$/github/wqerqwe/src/main/java/ProtoPackage.java" timestamp="1513340725860">
         <mark key="[" line="0" column="5" />
       </file>
@@ -139,7 +147,7 @@
       <file name="$USER_HOME$/github/pdk_all/pdk/src/main/java/com/util/TimeUtil.java" timestamp="1513235123597">
         <mark key="[" line="173" column="16" />
       </file>
-      <file name="/fragment.java" timestamp="1513525757017">
+      <file name="/fragment.java" timestamp="1513603398320">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/github/pdk_all/pdk/src/test/kotlin/cucumber/runtime/kotlin/test/LambdaStepdefs.kt" timestamp="1513463885946">
@@ -253,10 +261,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>3</text>
+        <text>4</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>4</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmb3JjZURpc2JhbmRcPg==</text>
