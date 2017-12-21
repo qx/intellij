@@ -30,8 +30,17 @@
       <file name="$USER_HOME$/Desktop/pdk_all/pdk/.idea/.curNotes.txt" timestamp="1510877307103">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/github/pdk_all/pdk/src/test/resources/features/taier.feature" timestamp="1513857531567">
+        <mark key="[" line="28" column="28" />
+        <mark key="]" line="34" column="3" />
+        <mark key="." line="34" column="3" />
+        <mark key="^" line="34" column="3" />
+      </file>
       <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/phz/PHZRoom.java" timestamp="1511147436914">
         <mark key="[" line="4" column="42" />
+      </file>
+      <file name="$USER_HOME$/github/pdk_all/pdk/src/test/kotlin/com/pdk/taier/BasicStepdefs.kt" timestamp="1513856363059">
+        <mark key="[" line="78" column="5" />
       </file>
       <file name="$USER_HOME$/github/pdk_all/pdk/src/main/java/com/pdk/MainRoom.java" timestamp="1513847520595">
         <mark key="[" line="65" column="54" />
@@ -48,7 +57,6 @@
         <mark key="^" line="36" column="56" />
         <mark key="." line="36" column="56" />
       </file>
-      <file name="$USER_HOME$/github/pdk_all/hall/src/game" timestamp="1513847214529" />
       <file name="$USER_HOME$/github/wqerqwe/src/main/java/Person.kt" timestamp="1513340769706">
         <mark key="[" line="1" column="45" />
       </file>
@@ -64,7 +72,7 @@
       <file name="/fragment.kt" timestamp="1513836280687">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/github/pdk_all/pdk/src/test/kotlin/com/pdk/taier/RunCukesTest.java" timestamp="1513846416643" />
+      <file name="$USER_HOME$/github/pdk_all/pdk/src/test/kotlin/com/pdk/taier/RunCukesTest.java" timestamp="1513857285789" />
       <file name="$USER_HOME$/Desktop/extend/src/main/kotlin/tem/ChildClass.kt" timestamp="1513836330224">
         <mark key="[" line="6" column="40" />
         <mark key="]" line="6" column="38" />
@@ -74,8 +82,19 @@
       <file name="$USER_HOME$/github/pdk_all/pdk/src/main/java/com/bean/Prop.java" timestamp="1513394483543">
         <mark key="[" line="14" column="18" />
       </file>
+      <file name="$USER_HOME$/github/pdk_all/pdk/src/main/kotlin/com/pdk/taier/been/Poker.kt" timestamp="1513857992270">
+        <mark key="[" line="75" column="13" />
+        <mark key="]" line="7" column="5" />
+        <mark key="^" line="7" column="5" />
+        <mark key="." line="7" column="5" />
+      </file>
       <file name="$USER_HOME$/github/AwesomeProject/messagingtest.html" timestamp="1513241376754">
         <mark key="[" line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/pdk_all/pdk/src/main/kotlin/com/pdk/taier/utils/TaierComUtils.kt" timestamp="1513856691183">
+        <mark key="[" line="213" column="29" />
+        <mark key="]" line="213" column="43" />
+        <mark key="." line="213" column="29" />
       </file>
       <file name="$USER_HOME$/github/pdk_all/pdk/src/main/kotlin/com/taier/been/ActionInfo.kt" timestamp="1513411404685">
         <mark key="[" line="25" column="35" />
@@ -101,7 +120,6 @@
       <file name="$USER_HOME$/Desktop/awosome/App.js" timestamp="1511264664217">
         <mark key="[" line="33" column="21" />
       </file>
-      <file name="$USER_HOME$/github/pdk_all/hall/src/com/services/BaseService.java" timestamp="1513847082095" />
       <file name="$USER_HOME$/github/mine/src/main/java/Main.java" timestamp="1511098040267">
         <mark key="[" line="1" column="44" />
       </file>
@@ -144,7 +162,6 @@
       <file name="$USER_HOME$/github/pdk_all/pdk/src/test/resources/skeleton/belly.feature" timestamp="1513465980057">
         <mark key="[" line="3" column="23" />
       </file>
-      <file name="$USER_HOME$/github/pdk_all/pdk/src/main/java/com/GameProcess.java" timestamp="1513848625750" />
       <file name="$USER_HOME$/github/pdk_all/pdk/src/main/kotlin/com/pdk/taier/been/PokerSeat.kt" timestamp="1513836361751">
         <mark key="[" line="2" column="0" />
       </file>
@@ -160,10 +177,16 @@
       <file name="$USER_HOME$/github/wqerqwe/src/main/java/ProtoPackage.java" timestamp="1513340725860">
         <mark key="[" line="0" column="5" />
       </file>
+      <file name="$USER_HOME$/github/pdk_all/pdk/src/test/kotlin/com/pdk/taier/TaierStepdefs.kt" timestamp="1513856200798">
+        <mark key="[" line="87" column="27" />
+        <mark key="]" line="88" column="51" />
+        <mark key="^" line="88" column="51" />
+        <mark key="." line="88" column="51" />
+      </file>
+      <file name="$USER_HOME$/github/pdk_all/pdk/src/test/kotlin/ExampleStepdefs.java" timestamp="1513856159785" />
       <file name="$USER_HOME$/github/pdk_all/pdk/src/test/kotlin/MyStepdefs.java" timestamp="1513466601594">
         <mark key="[" line="4" column="40" />
       </file>
-      <file name="$USER_HOME$/github/pdk_all/hall/src/com/services/HallService.java" timestamp="1513849001707" />
       <file name="$USER_HOME$/github/cutester/build.gradle" timestamp="1513475442412">
         <mark key="[" line="24" column="69" />
       </file>
@@ -176,7 +199,6 @@
       <file name="/fragment.java" timestamp="1513836012857">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/github/pdk_all/hall/src/com/actions/HallAction.java" timestamp="1513848523840" />
     </filemarks>
     <jumps>
       <jump line="2426" column="51" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/phz/PaoHuzi.java" />
@@ -282,10 +304,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmb3JjZURpc2JhbmRcPg==</text>
