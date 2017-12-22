@@ -30,11 +30,8 @@
       <file name="$USER_HOME$/Desktop/pdk_all/pdk/.idea/.curNotes.txt" timestamp="1510877307103">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/github/pdk_all/pdk/src/test/resources/features/taier.feature" timestamp="1513857531567">
-        <mark key="[" line="28" column="28" />
-        <mark key="]" line="34" column="3" />
-        <mark key="." line="34" column="3" />
-        <mark key="^" line="34" column="3" />
+      <file name="$USER_HOME$/github/pdk_all/pdk/src/test/resources/features/taier.feature" timestamp="1513917286234">
+        <mark key="[" line="19" column="54" />
       </file>
       <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/phz/PHZRoom.java" timestamp="1511147436914">
         <mark key="[" line="4" column="42" />
@@ -72,7 +69,7 @@
       <file name="/fragment.kt" timestamp="1513836280687">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/github/pdk_all/pdk/src/test/kotlin/com/pdk/taier/RunCukesTest.java" timestamp="1513857285789" />
+      <file name="$USER_HOME$/github/pdk_all/pdk/src/test/kotlin/com/pdk/taier/RunCukesTest.java" timestamp="1513918300089" />
       <file name="$USER_HOME$/Desktop/extend/src/main/kotlin/tem/ChildClass.kt" timestamp="1513836330224">
         <mark key="[" line="6" column="40" />
         <mark key="]" line="6" column="38" />
@@ -82,19 +79,14 @@
       <file name="$USER_HOME$/github/pdk_all/pdk/src/main/java/com/bean/Prop.java" timestamp="1513394483543">
         <mark key="[" line="14" column="18" />
       </file>
-      <file name="$USER_HOME$/github/pdk_all/pdk/src/main/kotlin/com/pdk/taier/been/Poker.kt" timestamp="1513857992270">
-        <mark key="[" line="75" column="13" />
-        <mark key="]" line="7" column="5" />
-        <mark key="^" line="7" column="5" />
-        <mark key="." line="7" column="5" />
+      <file name="$USER_HOME$/github/pdk_all/pdk/src/main/kotlin/com/pdk/taier/been/Poker.kt" timestamp="1513859433822">
+        <mark key="[" line="100" column="9" />
+        <mark key="]" line="100" column="7" />
+        <mark key="^" line="100" column="7" />
+        <mark key="." line="100" column="7" />
       </file>
       <file name="$USER_HOME$/github/AwesomeProject/messagingtest.html" timestamp="1513241376754">
         <mark key="[" line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/github/pdk_all/pdk/src/main/kotlin/com/pdk/taier/utils/TaierComUtils.kt" timestamp="1513856691183">
-        <mark key="[" line="213" column="29" />
-        <mark key="]" line="213" column="43" />
-        <mark key="." line="213" column="29" />
       </file>
       <file name="$USER_HOME$/github/pdk_all/pdk/src/main/kotlin/com/taier/been/ActionInfo.kt" timestamp="1513411404685">
         <mark key="[" line="25" column="35" />
@@ -165,7 +157,7 @@
       <file name="$USER_HOME$/github/pdk_all/pdk/src/main/kotlin/com/pdk/taier/been/PokerSeat.kt" timestamp="1513836361751">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513848525351">
+      <file name="/Dummy.txt" timestamp="1513917858504">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/github/pdk_all/pdk/src/main/java/com/jdbc/GameManager.java" timestamp="1513845541328">
@@ -183,7 +175,6 @@
         <mark key="^" line="88" column="51" />
         <mark key="." line="88" column="51" />
       </file>
-      <file name="$USER_HOME$/github/pdk_all/pdk/src/test/kotlin/ExampleStepdefs.java" timestamp="1513856159785" />
       <file name="$USER_HOME$/github/pdk_all/pdk/src/test/kotlin/MyStepdefs.java" timestamp="1513466601594">
         <mark key="[" line="4" column="40" />
       </file>
@@ -196,7 +187,7 @@
       <file name="$USER_HOME$/github/pdk_all/pdk/src/test/kotlin/cucumber/runtime/kotlin/test/LambdaStepdefs.kt" timestamp="1513463885946">
         <mark key="[" line="4" column="22" />
       </file>
-      <file name="/fragment.java" timestamp="1513836012857">
+      <file name="/fragment.java" timestamp="1513918227486">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
