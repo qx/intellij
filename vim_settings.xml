@@ -3,7 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/github/pdk_all/pdk/src/main/java/com/pdk/CommonTableBuilder.java" timestamp="1513847555892">
+      <file name="$USER_HOME$/github/pdk_all/pdk/src/main/resources/netconfig.json" timestamp="1514352077728" />
+      <file name="$USER_HOME$/github/pdk_all/pdk/src/main/java/com/pdk/CommonTableBuilder.java" timestamp="1514351892699">
         <mark key="[" line="68" column="7" />
         <mark key="]" line="68" column="8" />
         <mark key="." line="68" column="8" />
@@ -39,7 +40,7 @@
       <file name="$USER_HOME$/github/pdk_all/pdk/src/test/kotlin/com/pdk/taier/BasicStepdefs.kt" timestamp="1513856363059">
         <mark key="[" line="78" column="5" />
       </file>
-      <file name="$USER_HOME$/github/pdk_all/pdk/src/main/java/com/pdk/MainRoom.java" timestamp="1513847520595">
+      <file name="$USER_HOME$/github/pdk_all/pdk/src/main/java/com/pdk/MainRoom.java" timestamp="1514351880994">
         <mark key="[" line="65" column="54" />
         <mark key="]" line="65" column="57" />
         <mark key="^" line="65" column="57" />
@@ -132,6 +133,7 @@
       <file name="$USER_HOME$/github/cutester/src/main/java/Main.java" timestamp="1513480859367">
         <mark key="[" line="0" column="19" />
       </file>
+      <file name="$USER_HOME$/github/pdk_all/pdk/src/main/java/com/Server.java" timestamp="1514351925024" />
       <file name="$USER_HOME$/github/pdk_all/settings.gradle" timestamp="1513688460046">
         <mark key="[" line="0" column="28" />
       </file>
@@ -153,7 +155,6 @@
       <file name="/dummy.sql" timestamp="1513845557322">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/github/AwesomeProject/App.js" timestamp="1514199989403" />
       <file name="$USER_HOME$/github/pdk_all/pdk/src/test/resources/skeleton/belly.feature" timestamp="1513465980057">
         <mark key="[" line="3" column="23" />
       </file>
@@ -162,6 +163,10 @@
       </file>
       <file name="/Dummy.txt" timestamp="1514172267022">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/pdk_all/config/WebRoot/WEB-INF/config/config4player.json" timestamp="1514352628435">
+        <mark key="[" line="3" column="14" />
+        <mark key="]" line="3" column="12" />
       </file>
       <file name="$USER_HOME$/github/pdk_all/pdk/src/main/java/com/jdbc/GameManager.java" timestamp="1513845541328">
         <mark key="[" line="31" column="63" />
@@ -306,8 +311,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxmb3JjZURpc2JhbmRcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIFJlc3BSZXN1bHQgb25HYW1lRW50ZXIoU3RyaW5nIHJUb2tlbiwgSW9TZXNzaW9uIHNlc3Npb24pOwo=</text>
+      <register name="0" type="4">
+        <text />
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIFdoZW4g56ys5LiA5Liq546p5a62LOeUqeS4jeWQjOiKseiJsueahOmdnuS4u+eJjAo=</text>
