@@ -87,6 +87,9 @@
       <file name="$USER_HOME$/github/pdk_all/pdk/src/main/java/com/bean/Prop.java" timestamp="1513394483543">
         <mark key="[" line="14" column="18" />
       </file>
+      <file name="$USER_HOME$/github/pdk_all/hall/src/rules" timestamp="1514357536343">
+        <mark key="[" line="6" column="6" />
+      </file>
       <file name="$USER_HOME$/github/pdk_all/pdk/src/main/kotlin/com/pdk/taier/been/Poker.kt" timestamp="1513859433822">
         <mark key="[" line="100" column="9" />
         <mark key="]" line="100" column="7" />
@@ -172,10 +175,7 @@
       <file name="/Dummy.txt" timestamp="1514356027162">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/github/pdk_all/config/WebRoot/WEB-INF/config/config4player.json" timestamp="1514352628435">
-        <mark key="[" line="3" column="14" />
-        <mark key="]" line="3" column="12" />
-      </file>
+      <file name="$USER_HOME$/github/pdk_all/config/WebRoot/WEB-INF/config/config4player.json" timestamp="1514357968185" />
       <file name="$USER_HOME$/github/pdk_all/pdk/src/main/java/com/jdbc/GameManager.java" timestamp="1513845541328">
         <mark key="[" line="31" column="63" />
       </file>
