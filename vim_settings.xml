@@ -60,11 +60,11 @@
       <file name="$USER_HOME$/github/pdk_all/pdk/src/test/kotlin/com/pdk/taier/BasicStepdefs.kt" timestamp="1513856363059">
         <mark key="[" line="78" column="5" />
       </file>
-      <file name="$USER_HOME$/github/pdk_all/pdk/src/main/java/com/pdk/MainRoom.java" timestamp="1514433900282">
-        <mark key="[" line="65" column="57" />
-        <mark key="]" line="68" column="80" />
-        <mark key="^" line="68" column="80" />
-        <mark key="." line="68" column="80" />
+      <file name="$USER_HOME$/github/pdk_all/pdk/src/main/java/com/pdk/MainRoom.java" timestamp="1514437105734">
+        <mark key="[" line="70" column="71" />
+        <mark key="]" line="70" column="72" />
+        <mark key="^" line="70" column="72" />
+        <mark key="." line="70" column="72" />
       </file>
       <file name="$USER_HOME$/github/pdk_all/pdk/src/main/java/com/bean/Player.java" timestamp="1514364874420">
         <mark key="[" line="10" column="42" />
@@ -99,7 +99,7 @@
         <mark key="^" line="6" column="38" />
         <mark key="." line="6" column="38" />
       </file>
-      <file name="$USER_HOME$/github/pdk_all/pdk/src/main/java/com/bean/Game.java" timestamp="1514365705815">
+      <file name="$USER_HOME$/github/pdk_all/pdk/src/main/java/com/bean/Game.java" timestamp="1514437278531">
         <mark key="[" line="56" column="76" />
         <mark key="]" line="56" column="76" />
         <mark key="^" line="56" column="76" />
@@ -207,7 +207,7 @@
       <file name="$USER_HOME$/github/pdk_all/pdk/src/main/kotlin/com/pdk/taier/been/PokerSeat.kt" timestamp="1513836361751">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1514434223867">
+      <file name="/Dummy.txt" timestamp="1514437278855">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/github/pdk_all/pdk/src/main/java/com/protocal/RespResult.java" timestamp="1514379592134">
