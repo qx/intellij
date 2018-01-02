@@ -12,11 +12,11 @@
       <file name="$USER_HOME$/github/kotlin-koans/src/i_introduction/_2_Named_Arguments/n02NamedArguments.kt" timestamp="1514450201266">
         <mark key="[" line="26" column="17" />
       </file>
-      <file name="$USER_HOME$/github/pdk_all/pdk/src/main/java/com/pdk/CommonTableBuilder.java" timestamp="1514435811826">
-        <mark key="[" line="51" column="58" />
-        <mark key="]" line="67" column="8" />
-        <mark key="." line="67" column="8" />
-        <mark key="^" line="66" column="6" />
+      <file name="$USER_HOME$/github/pdk_all/pdk/src/main/java/com/pdk/CommonTableBuilder.java" timestamp="1514871303278">
+        <mark key="[" line="42" column="58" />
+        <mark key="]" line="58" column="8" />
+        <mark key="." line="58" column="8" />
+        <mark key="^" line="57" column="6" />
       </file>
       <file name="$USER_HOME$/github/pdk_all/pdk/src/main/java/com/pdk/sandaha/utils/ComUtils.java" timestamp="1513689828567">
         <mark key="[" line="683" column="12" />
@@ -72,8 +72,8 @@
         <mark key="^" line="114" column="55" />
         <mark key="." line="114" column="55" />
       </file>
-      <file name="$USER_HOME$/github/pdk_all/pdk/src/main/java/com/bean/Player.java" timestamp="1514364874420">
-        <mark key="[" line="9" column="42" />
+      <file name="$USER_HOME$/github/pdk_all/pdk/src/main/java/com/bean/Player.java" timestamp="1514871473766">
+        <mark key="[" line="27" column="5" />
       </file>
       <file name="$USER_HOME$/github/kotlin-koans/src/i_introduction/_0_Hello_World/Train.kt" timestamp="1514633649151">
         <mark key="[" line="8" column="1" />
@@ -275,8 +275,9 @@
       <file name="$USER_HOME$/github/pdk_all/pdk/src/main/java/com/protocal/RespResult.java" timestamp="1514379592134">
         <mark key="[" line="5" column="25" />
       </file>
-      <file name="$USER_HOME$/github/pdk_all/pdk/src/main/java/com/jdbc/GameManager.java" timestamp="1513845541328">
-        <mark key="[" line="31" column="63" />
+      <file name="$USER_HOME$/github/pdk_all/pdk/src/main/java/com/jdbc/GameManager.java" timestamp="1514871242393">
+        <mark key="[" line="65" column="31" />
+        <mark key="]" line="65" column="30" />
       </file>
       <file name="/dummy.kt" timestamp="1513340406270">
         <mark key="[" line="0" column="0" />
@@ -428,7 +429,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>n</text>
+        <text />
       </register>
       <register name="-" type="4">
         <text>n</text>
