@@ -21,6 +21,7 @@
       <file name="$USER_HOME$/github/pdk_all/pdk/build/resources/main/dbcp_yiyang.properties" timestamp="1514956625383">
         <mark key="[" line="3" column="30" />
       </file>
+      <file name="$USER_HOME$/github/testWeb2/src/main/java/com/actions/AccountAction.java" timestamp="1514971358770" />
       <file name="$USER_HOME$/github/pdk_all/pdk/src/main/kotlin/com/pdk/taier/TaierTableDelegate.kt" timestamp="1514898111524">
         <mark key="[" line="544" column="9" />
         <mark key="]" line="343" column="12" />
@@ -33,7 +34,6 @@
         <mark key="^" line="0" column="49" />
         <mark key="." line="0" column="49" />
       </file>
-      <file name="$USER_HOME$/github/pdk_all/log/config/dbcp_changde.properties" timestamp="1514956703997" />
       <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/phz/PHZRoom.java" timestamp="1511147436914">
         <mark key="[" line="4" column="42" />
       </file>
@@ -69,6 +69,9 @@
       </file>
       <file name="$USER_HOME$/github/pdk_all/pdk/src/main/java/com/taier/TaierCommonTableDelegate.java" timestamp="1513229720479">
         <mark key="[" line="20" column="39" />
+      </file>
+      <file name="$USER_HOME$/github/testWeb2/build.gradle" timestamp="1514971285944">
+        <mark key="[" line="0" column="14" />
       </file>
       <file name="$USER_HOME$/Desktop/extend/src/main/kotlin/tem/ChildClass.kt" timestamp="1513836330224">
         <mark key="[" line="6" column="40" />
@@ -112,6 +115,9 @@
         <mark key="]" line="66" column="255" />
         <mark key="^" line="66" column="255" />
         <mark key="." line="66" column="255" />
+      </file>
+      <file name="$USER_HOME$/github/testweb/.gitignore" timestamp="1514970516873">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/github/pdk_all/pdk/src/main/resources/dbcp_test.properties" timestamp="1514956745781">
         <mark key="[" line="2" column="28" />
@@ -166,7 +172,6 @@
       <file name="/dummy.kt" timestamp="1513340406270">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/github/pdk_all/account/src/com/services/LoginService.java" timestamp="1514961635625" />
       <file name="$USER_HOME$/github/pdk_all/log/config/dbcp.properties" timestamp="1514956524001">
         <mark key="[" line="2" column="27" />
         <mark key="]" line="2" column="19" />
@@ -247,6 +252,12 @@
       <file name="$USER_HOME$/github/wqerqwe/src/main/java/Person.kt" timestamp="1513340769706">
         <mark key="[" line="1" column="45" />
       </file>
+      <file name="$USER_HOME$/github/testweb/build.gradle" timestamp="1514970990422">
+        <mark key="[" line="42" column="62" />
+        <mark key="]" line="16" column="10" />
+        <mark key="." line="16" column="10" />
+        <mark key="^" line="16" column="10" />
+      </file>
       <file name="/fragment.kt" timestamp="1514368706404">
         <mark key="[" line="0" column="0" />
       </file>
@@ -261,6 +272,9 @@
       </file>
       <file name="$USER_HOME$/github/AwesomeProject/messagingtest.html" timestamp="1513241376754">
         <mark key="[" line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/testWeb2/settings.gradle" timestamp="1514971308517">
+        <mark key="[" line="0" column="27" />
       </file>
       <file name="$USER_HOME$/github/pdk_all/pdk/src/test/kotlin/com/taier/RunCukesTest.java" timestamp="1513525665225">
         <mark key="[" line="7" column="17" />
@@ -301,12 +315,13 @@
         <mark key="." line="87" column="49" />
         <mark key="^" line="87" column="49" />
       </file>
-      <file name="$USER_HOME$/github/pdk_all/hall/src/com/services/BaseService.java" timestamp="1514956427219" />
       <file name="$USER_HOME$/github/mine/src/main/java/Main.java" timestamp="1511098040267">
         <mark key="[" line="1" column="44" />
       </file>
-      <file name="$USER_HOME$/github/pdk_all/pdk/build.gradle" timestamp="1514447881215">
-        <mark key="[" line="81" column="1" />
+      <file name="$USER_HOME$/github/pdk_all/pdk/build.gradle" timestamp="1514970473327">
+        <mark key="[" line="61" column="65" />
+        <mark key="]" line="57" column="78" />
+        <mark key="." line="57" column="78" />
       </file>
       <file name="/&lt;Generic SQL&gt; Fragment (GameManager.java:567).sql" timestamp="1513844930373">
         <mark key="[" line="0" column="0" />
@@ -332,7 +347,7 @@
       <file name="/dummy.sql" timestamp="1513845557322">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1514966548189">
+      <file name="/Dummy.txt" timestamp="1514971345948">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/github/pdk_all/pdk/src/main/java/com/protocal/RespResult.java" timestamp="1514379592134">
@@ -387,7 +402,7 @@
       <file name="$USER_HOME$/github/pdk_all/pdk/src/main/java/com/util/TimeUtil.java" timestamp="1513235123597">
         <mark key="[" line="173" column="16" />
       </file>
-      <file name="/fragment.java" timestamp="1514953856132">
+      <file name="/fragment.java" timestamp="1514970778214">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/github/pdk_all/pdk/src/main/java/com/bean/prol/TableInitListener.java" timestamp="1514371266239">
@@ -498,10 +513,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>m</text>
+        <text>provided</text>
       </register>
       <register name="-" type="4">
-        <text>m</text>
+        <text>provided</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmb3JjZURpc2JhbmRcPg==</text>
