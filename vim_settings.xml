@@ -122,11 +122,6 @@
       <file name="$USER_HOME$/github/cutester/src/test/java/MyStepdefs2.java" timestamp="1513481010642">
         <mark key="[" line="48" column="30" />
       </file>
-      <file name="$USER_HOME$/github/pdk_all/pdk/src/test/resources/features/poker.feature" timestamp="1514872337010">
-        <mark key="[" line="19" column="68" />
-        <mark key="]" line="19" column="68" />
-        <mark key="." line="19" column="68" />
-      </file>
       <file name="$USER_HOME$/github/pdk_all/account/src/hall.properties" timestamp="1514956877193">
         <mark key="[" line="0" column="16" />
         <mark key="]" line="0" column="16" />
@@ -375,7 +370,7 @@
       <file name="$USER_HOME$/github/pdk_all/pdk/src/test/kotlin/MyStepdefs.java" timestamp="1513466601594">
         <mark key="[" line="4" column="40" />
       </file>
-      <file name="$USER_HOME$/github/pdk_all/hall/src/cost_conf.json" timestamp="1514961565029">
+      <file name="$USER_HOME$/github/pdk_all/hall/src/cost_conf.json" timestamp="1514964127001">
         <mark key="[" line="2" column="77" />
         <mark key="]" line="2" column="78" />
         <mark key="." line="2" column="78" />
