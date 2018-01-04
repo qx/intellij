@@ -35,7 +35,6 @@
         <mark key="^" line="53" column="12" />
         <mark key="." line="57" column="36" />
       </file>
-      <file name="$USER_HOME$/github/pdk_all/log/src/config/dbcp_changde.properties" timestamp="1514993108038" />
       <file name="$USER_HOME$/github/pdk_all/pdk/src/main/kotlin/com/taier/skeleton/Belly.java" timestamp="1513466982315">
         <mark key="[" line="8" column="1" />
       </file>
@@ -60,7 +59,6 @@
       <file name="$USER_HOME$/github/pdk_all/pdk/src/main/java/com/bean/Prop.java" timestamp="1513394483543">
         <mark key="[" line="14" column="18" />
       </file>
-      <file name="$USER_HOME$/github/pdk_all/hall/src/rules" timestamp="1514993926559" />
       <file name="$USER_HOME$/github/pdk_all/pdk/src/main/kotlin/com/pdk/taier/been/Poker.kt" timestamp="1513898710016">
         <mark key="[" line="134" column="43" />
       </file>
@@ -133,6 +131,9 @@
       <file name="$USER_HOME$/github/cutester/src/main/java/Main.java" timestamp="1513480859367">
         <mark key="[" line="0" column="19" />
       </file>
+      <file name="$USER_HOME$/github/pdk_all/settings.gradle" timestamp="1515023466037">
+        <mark key="[" line="0" column="23" />
+      </file>
       <file name="$USER_HOME$/github/pdk_all/pdk/src/test/kotlin/com/pdk/taier/TaierTableDelegateTest.java" timestamp="1514557496583">
         <mark key="[" line="23" column="42" />
         <mark key="]" line="24" column="21" />
@@ -157,8 +158,6 @@
       <file name="/Dummy.txt" timestamp="1514994113937">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/github/pdk_all/log/out/production/log/dbcp_changde.properties" timestamp="1514993132873" />
-      <file name="$USER_HOME$/github/pdk_all/log/out/production/log/dbcp.properties" timestamp="1514993304884" />
       <file name="/dummy.kt" timestamp="1513340406270">
         <mark key="[" line="0" column="0" />
       </file>
