@@ -138,11 +138,11 @@
         <mark key="^" line="7" column="3" />
         <mark key="." line="7" column="3" />
       </file>
-      <file name="$USER_HOME$/github/pdk_all/pdk/src/main/java/com/bean/Table.java" timestamp="1515400492231">
-        <mark key="[" line="221" column="55" />
-        <mark key="]" line="221" column="56" />
-        <mark key="." line="221" column="56" />
-        <mark key="^" line="49" column="31" />
+      <file name="$USER_HOME$/github/pdk_all/pdk/src/main/java/com/bean/Table.java" timestamp="1515409779811">
+        <mark key="[" line="59" column="24" />
+        <mark key="]" line="22" column="22" />
+        <mark key="." line="22" column="22" />
+        <mark key="^" line="22" column="22" />
       </file>
       <file name="$USER_HOME$/github/pdk_all/pdk/build/resources/main/dbcp.properties" timestamp="1514956569528">
         <mark key="[" line="2" column="33" />
@@ -267,6 +267,13 @@
       <file name="$USER_HOME$/github/mavenWeb/config/src/com/MyListener.java" timestamp="1514977184208">
         <mark key="[" line="21" column="54" />
       </file>
+      <file name="$USER_HOME$/github/pdk_all/pdk/src/main/kotlin/com/pdk/taier/TaierTable.kt" timestamp="1515409703008">
+        <mark key="u" line="471" column="95" />
+        <mark key="[" line="418" column="33" />
+        <mark key="]" line="478" column="4" />
+        <mark key="^" line="478" column="4" />
+        <mark key="." line="478" column="4" />
+      </file>
       <file name="$USER_HOME$/githubl/werqwer/src/main/java/Temp.java" timestamp="1514552169889">
         <mark key="[" line="0" column="19" />
       </file>
@@ -381,7 +388,7 @@
       <file name="/dummy.sql" timestamp="1513845557322">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1515405952252">
+      <file name="/Dummy.txt" timestamp="1515409674036">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/github/pdk_all/pdk/src/main/java/com/protocal/RespResult.java" timestamp="1514379592134">
@@ -419,6 +426,11 @@
       </file>
       <file name="$USER_HOME$/Desktop/koter/src/main/java/Motionable.java" timestamp="1514371438294">
         <mark key="[" line="0" column="29" />
+      </file>
+      <file name="$USER_HOME$/github/pdk_all/hall/src/com/beans/Rules.java" timestamp="1515409696125">
+        <mark key="[" line="16" column="20" />
+        <mark key="]" line="16" column="20" />
+        <mark key="." line="16" column="20" />
       </file>
       <file name="$USER_HOME$/github/pdk_all/log/config/dbcp_test.properties" timestamp="1514956553184">
         <mark key="[" line="2" column="34" />
@@ -537,10 +549,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>:&quot;</text>
+        <text>y</text>
       </register>
       <register name="-" type="4">
-        <text>:&quot;</text>
+        <text>y</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmb3JjZURpc2JhbmRcPg==</text>
