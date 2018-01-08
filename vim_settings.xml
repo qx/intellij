@@ -93,7 +93,6 @@
       <file name="$USER_HOME$/github/pdk_all/pdk/src/main/java/com/bean/Prop.java" timestamp="1513394483543">
         <mark key="[" line="14" column="18" />
       </file>
-      <file name="$USER_HOME$/github/pdk_all/account/src/com/utils/CommonUtil.java" timestamp="1515405456777" />
       <file name="$USER_HOME$/github/pdk_all/account/WebRoot/WEB-INF/classes/pdk_db.properties" timestamp="1514956605255">
         <mark key="[" line="2" column="28" />
       </file>
@@ -130,7 +129,6 @@
       <file name="$USER_HOME$/github/cutester/src/test/java/MyStepdefs2.java" timestamp="1513481010642">
         <mark key="[" line="48" column="30" />
       </file>
-      <file name="$USER_HOME$/github/pdk_all/account/src/hall.properties" timestamp="1515403923258" />
       <file name="$USER_HOME$/Desktop/koter/src/main/java/Person.java" timestamp="1514373226196">
         <mark key="[" line="0" column="20" />
       </file>
@@ -155,7 +153,6 @@
       <file name="$USER_HOME$/github/pdk_all/settings.gradle" timestamp="1513688460046">
         <mark key="[" line="0" column="28" />
       </file>
-      <file name="$USER_HOME$/github/pdk_all/charge/src/backstage.properties" timestamp="1515405005877" />
       <file name="$USER_HOME$/Desktop/extend/src/main/java/BaseClass.java" timestamp="1513832286022">
         <mark key="[" line="0" column="24" />
       </file>
@@ -168,8 +165,7 @@
       <file name="$USER_HOME$/github/pdk_all/pdk/src/main/kotlin/com/pdk/taier/been/PokerSeat.kt" timestamp="1513836361751">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/github/pdk_all/config/web/config4player.json" timestamp="1515403257874" />
-      <file name="$USER_HOME$/github/pdk_all/charge/src/com/utils/CommonUtil.java" timestamp="1515405591910">
+      <file name="$USER_HOME$/github/pdk_all/charge/src/com/utils/CommonUtil.java" timestamp="1515408072248">
         <mark key="[" line="219" column="30" />
         <mark key="]" line="219" column="29" />
         <mark key="^" line="219" column="29" />
@@ -217,7 +213,6 @@
       <file name="$USER_HOME$/github/cutester/build.gradle" timestamp="1513475442412">
         <mark key="[" line="24" column="69" />
       </file>
-      <file name="$USER_HOME$/github/pdk_all/config/src/com/MyListener.java" timestamp="1515405863402" />
       <file name="$USER_HOME$/github/pdk_all/pdk/src/test/kotlin/cucumber/runtime/kotlin/test/LambdaStepdefs.kt" timestamp="1513463885946">
         <mark key="[" line="4" column="22" />
       </file>
@@ -329,7 +324,6 @@
       <file name="$USER_HOME$/github/pdk_all/pdk/src/test/resources/cucumber/runtime/kotlin/test/kotlin.feature" timestamp="1513468189802">
         <mark key="[" line="11" column="35" />
       </file>
-      <file name="$USER_HOME$/github/pdk_all/account/src/backstage.properties" timestamp="1515403910571" />
       <file name="vim_settings.xml" timestamp="1511490692870">
         <mark key="[" line="0" column="0" />
       </file>
@@ -417,7 +411,6 @@
         <mark key="^" line="88" column="51" />
         <mark key="." line="88" column="51" />
       </file>
-      <file name="$USER_HOME$/github/pdk_all/account/src/com/services/BaseService.java" timestamp="1515403743269" />
       <file name="$USER_HOME$/github/pdk_all/pdk/src/test/kotlin/MyStepdefs.java" timestamp="1513466601594">
         <mark key="[" line="4" column="40" />
       </file>
@@ -433,7 +426,7 @@
       <file name="$USER_HOME$/github/pdk_all/pdk/src/main/java/com/util/TimeUtil.java" timestamp="1513235123597">
         <mark key="[" line="173" column="16" />
       </file>
-      <file name="/fragment.java" timestamp="1515405952475">
+      <file name="/fragment.java" timestamp="1515408083870">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/github/pdk_all/pdk/src/main/java/com/bean/prol/TableInitListener.java" timestamp="1514371266239">
