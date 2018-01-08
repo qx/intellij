@@ -290,6 +290,12 @@
         <mark key="." line="16" column="10" />
         <mark key="^" line="16" column="10" />
       </file>
+      <file name="$USER_HOME$/github/pdk_all/pdk/src/test/resources/features/taierScore.feature" timestamp="1515385310953">
+        <mark key="[" line="6" column="10" />
+        <mark key="]" line="6" column="9" />
+        <mark key="." line="6" column="9" />
+        <mark key="^" line="6" column="9" />
+      </file>
       <file name="/fragment.kt" timestamp="1515037807543">
         <mark key="[" line="0" column="0" />
       </file>
@@ -305,7 +311,6 @@
       <file name="$USER_HOME$/github/AwesomeProject/messagingtest.html" timestamp="1513241376754">
         <mark key="[" line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/github/pdk_all/pdk/src/main/kotlin/com/pdk/taier/utils/TaierComUtils.kt" timestamp="1515038089751" />
       <file name="$USER_HOME$/github/testWeb2/settings.gradle" timestamp="1514971308517">
         <mark key="[" line="0" column="27" />
       </file>
@@ -550,10 +555,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmb3JjZURpc2JhbmRcPg==</text>
