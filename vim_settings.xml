@@ -114,6 +114,7 @@
         <mark key="^" line="66" column="255" />
         <mark key="." line="66" column="255" />
       </file>
+      <file name="/settings.gradle" timestamp="1515412826466" />
       <file name="$USER_HOME$/github/pdk_all/script/killport.sh" timestamp="1514980497568">
         <mark key="[" line="4" column="23" />
       </file>
@@ -177,6 +178,7 @@
       <file name="/dummy.kt" timestamp="1513340406270">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/build.gradle" timestamp="1515412852773" />
       <file name="$USER_HOME$/github/pdk_all/log/config/dbcp.properties" timestamp="1514956524001">
         <mark key="[" line="2" column="27" />
         <mark key="]" line="2" column="19" />
@@ -258,6 +260,7 @@
       <file name="$USER_HOME$/github/pdk_all/pdk/src/test/resources/features/taier.feature" timestamp="1514616397999">
         <mark key="[" line="19" column="54" />
       </file>
+      <file name="$USER_HOME$/Desktop/pdk_all/settings.gradle" timestamp="1515412459405" />
       <file name="$USER_HOME$/github/pdk_all/pdk/src/main/java/com/bean/Player.java" timestamp="1514949831630">
         <mark key="[" line="33" column="5" />
       </file>
@@ -358,6 +361,13 @@
       <file name="$USER_HOME$/github/mine/src/main/java/Main.java" timestamp="1511098040267">
         <mark key="[" line="1" column="44" />
       </file>
+      <file name="$USER_HOME$/Desktop/pdk_all/build.gradle" timestamp="1515412968939">
+        <mark key="a" line="0" column="7" />
+        <mark key="[" line="31" column="19" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
+        <mark key="^" line="62" column="0" />
+      </file>
       <file name="/&lt;Generic SQL&gt; Fragment (GameManager.java:567).sql" timestamp="1513844930373">
         <mark key="[" line="0" column="0" />
       </file>
@@ -388,7 +398,7 @@
       <file name="/dummy.sql" timestamp="1513845557322">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1515409674036">
+      <file name="/Dummy.txt" timestamp="1515412267393">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/github/pdk_all/pdk/src/main/java/com/protocal/RespResult.java" timestamp="1514379592134">
@@ -549,10 +559,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>y</text>
+        <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmb3JjZURpc2JhbmRcPg==</text>
