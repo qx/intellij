@@ -42,6 +42,11 @@
         <mark key="^" line="0" column="49" />
         <mark key="." line="0" column="49" />
       </file>
+      <file name="$USER_HOME$/Desktop/pdk_all/config/web/config4player.json" timestamp="1515415042396">
+        <mark key="[" line="696" column="17" />
+        <mark key="]" line="696" column="17" />
+        <mark key="." line="696" column="17" />
+      </file>
       <file name="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/phz/PHZRoom.java" timestamp="1511147436914">
         <mark key="[" line="4" column="42" />
       </file>
@@ -114,7 +119,7 @@
         <mark key="^" line="66" column="255" />
         <mark key="." line="66" column="255" />
       </file>
-      <file name="/settings.gradle" timestamp="1515412826466" />
+      <file name="/settings.gradle" timestamp="1515414116479" />
       <file name="$USER_HOME$/github/pdk_all/script/killport.sh" timestamp="1514980497568">
         <mark key="[" line="4" column="23" />
       </file>
@@ -230,6 +235,9 @@
       <file name="$USER_HOME$/github/pdk_all/hall/WebRoot/WEB-INF/classes/pdk_db.properties" timestamp="1514956596048">
         <mark key="[" line="2" column="28" />
       </file>
+      <file name="$USER_HOME$/github/pdk_all/build.gradle" timestamp="1515414829030">
+        <mark key="[" line="29" column="18" />
+      </file>
       <file name="$USER_HOME$/github/mavenWeb/log/src/com/base/MessageManager.java" timestamp="1514973287937">
         <mark key="[" line="2" column="8" />
       </file>
@@ -261,6 +269,16 @@
         <mark key="[" line="19" column="54" />
       </file>
       <file name="$USER_HOME$/Desktop/pdk_all/settings.gradle" timestamp="1515412459405" />
+      <file name="$USER_HOME$/Desktop/pdk_all/account/src/pdk_db.properties" timestamp="1515414939739">
+        <mark key="[" line="2" column="33" />
+        <mark key="]" line="2" column="39" />
+        <mark key="." line="2" column="39" />
+      </file>
+      <file name="$USER_HOME$/github/wartest/build.gradle" timestamp="1515413859508">
+        <mark key="[" line="29" column="19" />
+        <mark key="]" line="29" column="19" />
+        <mark key="." line="29" column="19" />
+      </file>
       <file name="$USER_HOME$/github/pdk_all/pdk/src/main/java/com/bean/Player.java" timestamp="1514949831630">
         <mark key="[" line="33" column="5" />
       </file>
@@ -559,10 +577,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>a</text>
+        <text>anowymous</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>anowymous</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmb3JjZURpc2JhbmRcPg==</text>
