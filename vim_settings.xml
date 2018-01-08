@@ -135,10 +135,10 @@
         <mark key="^" line="7" column="3" />
         <mark key="." line="7" column="3" />
       </file>
-      <file name="$USER_HOME$/github/pdk_all/pdk/src/main/java/com/bean/Table.java" timestamp="1514550118240">
-        <mark key="[" line="28" column="15" />
-        <mark key="]" line="28" column="20" />
-        <mark key="." line="28" column="20" />
+      <file name="$USER_HOME$/github/pdk_all/pdk/src/main/java/com/bean/Table.java" timestamp="1515400492231">
+        <mark key="[" line="221" column="55" />
+        <mark key="]" line="221" column="56" />
+        <mark key="." line="221" column="56" />
         <mark key="^" line="49" column="31" />
       </file>
       <file name="$USER_HOME$/github/pdk_all/pdk/build/resources/main/dbcp.properties" timestamp="1514956569528">
@@ -161,6 +161,10 @@
       </file>
       <file name="$USER_HOME$/github/pdk_all/pdk/src/main/kotlin/com/pdk/taier/been/PokerSeat.kt" timestamp="1513836361751">
         <mark key="[" line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/pdk_all/config/web/config4player.json" timestamp="1515401513256" />
+      <file name="$USER_HOME$/github/pdk_all/pdk/src/main/java/com/jdbc/GameManager.java" timestamp="1515400660476">
+        <mark key="[" line="39" column="51" />
       </file>
       <file name="/dummy.kt" timestamp="1513340406270">
         <mark key="[" line="0" column="0" />
@@ -195,8 +199,8 @@
         <mark key="^" line="20" column="24" />
         <mark key="." line="20" column="24" />
       </file>
-      <file name="$USER_HOME$/github/pdk_all/.gitignore" timestamp="1514984524134">
-        <mark key="[" line="3" column="5" />
+      <file name="$USER_HOME$/github/pdk_all/.gitignore" timestamp="1515400736826">
+        <mark key="[" line="6" column="1" />
       </file>
       <file name="$USER_HOME$/github/cutester/build.gradle" timestamp="1513475442412">
         <mark key="[" line="24" column="69" />
@@ -204,11 +208,8 @@
       <file name="$USER_HOME$/github/pdk_all/pdk/src/test/kotlin/cucumber/runtime/kotlin/test/LambdaStepdefs.kt" timestamp="1513463885946">
         <mark key="[" line="4" column="22" />
       </file>
-      <file name="$USER_HOME$/github/pdk_all/pdk/src/main/resources/netconfig.json" timestamp="1514953754816">
-        <mark key="[" line="1" column="12" />
-        <mark key="]" line="217" column="24" />
-        <mark key="^" line="209" column="11" />
-        <mark key="." line="217" column="24" />
+      <file name="$USER_HOME$/github/pdk_all/pdk/src/main/resources/netconfig.json" timestamp="1515401171430">
+        <mark key="[" line="287" column="6" />
       </file>
       <file name="$USER_HOME$/github/kotlin-koans/src/i_introduction/_2_Named_Arguments/n02NamedArguments.kt" timestamp="1514450201266">
         <mark key="[" line="26" column="17" />
@@ -252,6 +253,7 @@
       <file name="$USER_HOME$/github/pdk_all/pdk/src/main/kotlin/com/taier/skeleton/Belly.java" timestamp="1513466982315">
         <mark key="[" line="8" column="1" />
       </file>
+      <file name="$USER_HOME$/github/pdk_all/pdk/src/main/kotlin/com/pdk/taier/TaierTable.kt" timestamp="1515400203192" />
       <file name="$USER_HOME$/github/mavenWeb/config/src/com/MyListener.java" timestamp="1514977184208">
         <mark key="[" line="21" column="54" />
       </file>
@@ -279,6 +281,7 @@
       <file name="$USER_HOME$/githubl/werqwer/src/main/kotlin/Test.kt" timestamp="1514552205450">
         <mark key="[" line="0" column="12" />
       </file>
+      <file name="$USER_HOME$/github/pdk_all/pdk/src/main/java/com/bean/Game.java" timestamp="1515400359040" />
       <file name="$USER_HOME$/github/pdk_all/pdk/src/main/kotlin/com/pdk/taier/been/Poker.kt" timestamp="1514551696247">
         <mark key="[" line="223" column="17" />
         <mark key="]" line="223" column="16" />
@@ -411,7 +414,7 @@
       <file name="$USER_HOME$/github/pdk_all/pdk/src/main/java/com/util/TimeUtil.java" timestamp="1513235123597">
         <mark key="[" line="173" column="16" />
       </file>
-      <file name="/fragment.java" timestamp="1515387747408">
+      <file name="/fragment.java" timestamp="1515401365450">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/github/pdk_all/pdk/src/main/java/com/bean/prol/TableInitListener.java" timestamp="1514371266239">
@@ -522,10 +525,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>9</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>9</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmb3JjZURpc2JhbmRcPg==</text>
