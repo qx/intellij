@@ -235,8 +235,11 @@
       <file name="$USER_HOME$/github/pdk_all/hall/WebRoot/WEB-INF/classes/pdk_db.properties" timestamp="1514956596048">
         <mark key="[" line="2" column="28" />
       </file>
-      <file name="$USER_HOME$/github/pdk_all/build.gradle" timestamp="1515414829030">
+      <file name="$USER_HOME$/github/pdk_all/build.gradle" timestamp="1515416212876">
         <mark key="[" line="29" column="18" />
+        <mark key="]" line="27" column="4" />
+        <mark key="^" line="27" column="4" />
+        <mark key="." line="27" column="4" />
       </file>
       <file name="$USER_HOME$/github/mavenWeb/log/src/com/base/MessageManager.java" timestamp="1514973287937">
         <mark key="[" line="2" column="8" />
