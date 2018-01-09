@@ -185,14 +185,8 @@
         <mark key="^" line="2" column="141" />
         <mark key="." line="2" column="141" />
       </file>
-      <file name="$USER_HOME$/github/pdk_all/.gitignore" timestamp="1515537400969">
-        <mark key="[" line="4" column="7" />
-      </file>
       <file name="$USER_HOME$/github/cutester/build.gradle" timestamp="1513475442412">
         <mark key="[" line="24" column="69" />
-      </file>
-      <file name="$USER_HOME$/github/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" timestamp="1514685063267">
-        <mark key="[" line="1042" column="118" />
       </file>
       <file name="$USER_HOME$/github/pdk_all/pdk/src/main/java/com/util/TimeUtil.java" timestamp="1513235123597">
         <mark key="[" line="173" column="16" />
@@ -200,7 +194,7 @@
       <file name="$USER_HOME$/github/pdk_all/pdk/src/test/kotlin/cucumber/runtime/kotlin/test/LambdaStepdefs.kt" timestamp="1513463885946">
         <mark key="[" line="4" column="22" />
       </file>
-      <file name="/fragment.java" timestamp="1514994038743">
+      <file name="/fragment.java" timestamp="1515538635165">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/github/pdk_all/pdk/src/main/java/com/bean/prol/TableInitListener.java" timestamp="1513811455012">
@@ -208,7 +202,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="27" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/phz/PaoHuzi.java" />
       <jump line="36" column="22" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/phz/PaoHuzi.java" />
       <jump line="65" column="16" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/GameProcess.java" />
       <jump line="277" column="16" filename="$USER_HOME$/Desktop/pdk_all/pdk/src/main/java/com/GameProcess.java" />
@@ -308,13 +301,14 @@
       <jump line="1976" column="9" filename="$USER_HOME$/github/pdk_all/pdk/src/main/java/com/pdk/qiaochengqu/QiaoChengQuCommonTable.java" />
       <jump line="67" column="4" filename="$USER_HOME$/github/pdk_all/pdk/src/main/java/com/pdk/qiaochengqu/QiaoChengQuCommonTable.java" />
       <jump line="2461" column="9" filename="$USER_HOME$/github/pdk_all/pdk/src/main/java/com/pdk/sandaha/SandahaCommonTable.java" />
+      <jump line="1020" column="38" filename="$USER_HOME$/github/pdk_all/pdk/src/main/java/com/pdk/sandaha/YiyangSanDaha.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmb3JjZURpc2JhbmRcPg==</text>
