@@ -1,5 +1,5 @@
 <templateSet group="Rails">
-  <template name="&lt;%link" value="&lt;%=link_to &quot;$1$&quot;, $path$%&gt;" description="link to" toReformat="false" toShortenFQNames="true">
+  <template name="&lt;%link" value="&lt;%=link_to &quot;$1$&quot;, $path$%&gt;" description="link to" toReformat="false" toShortenFQNames="true" deactivated="true">
     <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="path" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
