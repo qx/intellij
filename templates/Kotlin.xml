@@ -6,10 +6,4 @@
       <option name="KOTLIN" value="true" />
     </context>
   </template>
-  <template name="st" value="    val seatsTemp = seats&#10;        if (seatsTemp != null) {&#10;            $code$&#10;        }" description="" toReformat="false" toShortenFQNames="true">
-    <variable name="code" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="KOTLIN" value="true" />
-    </context>
-  </template>
 </templateSet>
