@@ -121,6 +121,9 @@
   <action id="IntroduceProperty" />
   <action id="JumpToLastWindow" />
   <action id="JustOneSpace" />
+  <action id="KotlinConsoleREPL">
+    <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="k" />
+  </action>
   <action id="LocalHistory.ShowHistory">
     <keyboard-shortcut first-keystroke="shift ctrl h" />
   </action>
