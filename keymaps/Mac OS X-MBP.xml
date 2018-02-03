@@ -2,6 +2,9 @@
   <action id="$Delete">
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
+  <action id="$Redo">
+    <keyboard-shortcut first-keystroke="shift alt back_space" />
+  </action>
   <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateFindToolWindow">
     <keyboard-shortcut first-keystroke="meta 8" />
@@ -24,10 +27,18 @@
   <action id="CloseEditor">
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="q" />
   </action>
+  <action id="CollapseAllRegions">
+    <keyboard-shortcut first-keystroke="shift meta c" />
+  </action>
+  <action id="CollapseRegion">
+    <keyboard-shortcut first-keystroke="shift meta z" />
+  </action>
   <action id="CompareTwoFiles" />
   <action id="Console.TableResult.ColumnVisibility" />
   <action id="Console.TableResult.DeleteRows" />
   <action id="Console.TableResult.SetDefault" />
+  <action id="CopyPaths" />
+  <action id="DatabaseView.CopyDdlAction" />
   <action id="DebugClass">
     <keyboard-shortcut first-keystroke="meta alt d" />
   </action>
@@ -75,6 +86,12 @@
     <keyboard-shortcut first-keystroke="shift meta 8" />
   </action>
   <action id="EditorUnSelectWord" />
+  <action id="ExpandAllRegions">
+    <keyboard-shortcut first-keystroke="shift meta v" />
+  </action>
+  <action id="ExpandRegion">
+    <keyboard-shortcut first-keystroke="shift meta x" />
+  </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.GotoModule" />
   <action id="FileChooser.GotoProject" />
@@ -146,6 +163,7 @@
   <action id="ParameterInfo">
     <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
+  <action id="PasteMultiple" />
   <action id="QuickEvaluateExpression">
     <mouse-shortcut keystroke="alt button1" />
     <keyboard-shortcut first-keystroke="ctrl d" second-keystroke="e" />
