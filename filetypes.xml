@@ -4,6 +4,7 @@
       <mapping pattern="tomcat" type="PLAIN_TEXT" />
       <mapping pattern="rules" type="PLAIN_TEXT" />
       <mapping pattern=".zshrc" type="PLAIN_TEXT" />
+      <mapping pattern="channel2county.json" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="out" type="PLAIN_TEXT" />
     </extensionMap>
