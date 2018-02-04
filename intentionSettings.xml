@@ -28,5 +28,12 @@
     <ignoreAction name="XSLT/Convert if to choose" />
     <ignoreAction name="XSLT/Inline xsl:attribute" />
     <ignoreAction name="XSLT/Replace with xsl:attribute" />
+    <ignoreAction name="Lua/Comments/Replace With C-Style Comment" />
+    <ignoreAction name="Lua/Comments/Replace With End Of Line Comment" />
+    <ignoreAction name="Lua/Control Flow/Flip Comparison Operands" />
+    <ignoreAction name="Lua/Control Flow/Flip Conjunction Operands" />
+    <ignoreAction name="Lua/Control Flow/Negate Comparison" />
+    <ignoreAction name="Lua/Lua-style/Change Static Library Call to Instance Call" />
+    <ignoreAction name="Lua/Lua-style/Convert between single-quoted and double-quoted strings" />
   </component>
 </application>

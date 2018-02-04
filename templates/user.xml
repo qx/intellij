@@ -170,9 +170,4 @@
       <option name="RUBY" value="true" />
     </context>
   </template>
-  <template name="&lt;abbreviation&gt;" value="trun" description="" toReformat="true" toShortenFQNames="true" deactivated="true">
-    <context>
-      <option name="RUBY" value="true" />
-    </context>
-  </template>
 </templateSet>
