@@ -15,6 +15,7 @@
   <template name="cmt" value="//*******************************************$var$  Start*******************************************&#10;&#10;&#10;//*******************************************$var$  End  *******************************************" description="comment start end" toReformat="true" toShortenFQNames="true">
     <variable name="var" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="JAVA_CODE" value="true" />
       <option name="KOTLIN" value="true" />
     </context>
   </template>
