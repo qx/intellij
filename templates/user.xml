@@ -170,4 +170,12 @@
       <option name="RUBY" value="true" />
     </context>
   </template>
+  <template name="err" value="return RespResult(-1, null, &quot;$ss$-服务器数据错误&quot;)&#10;" description="error response" toReformat="true" toShortenFQNames="true">
+    <variable name="ss" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="KOTLIN_EXPRESSION" value="true" />
+      <option name="KOTLIN_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
