@@ -6,7 +6,7 @@
       <option name="KOTLIN" value="true" />
     </context>
   </template>
-  <template name="***" value="println(&quot;*******************$VAR$******************&quot;)" description="println" toReformat="false" toShortenFQNames="true">
+  <template name="***" value="myPrintln(&quot;*******************$VAR$******************&quot;)" description="println" toReformat="false" toShortenFQNames="true">
     <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="KOTLIN" value="true" />
