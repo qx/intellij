@@ -178,8 +178,9 @@
       <option name="KOTLIN_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="start" value="/***************************************************$var$ Start*************************************************************/&#10;/***************************************************$var$ End***************************************************************/" description="start-end seprate" toReformat="true" toShortenFQNames="true">
+  <template name="start" value="/******************************************************$var$ Start*************************************************************&gt;&gt;&gt;/&#10;$content$&#10;/&lt;&lt;&lt;***************************************************$var$ End******************************************************************/" description="start-end seprate" toReformat="true" toShortenFQNames="true">
     <variable name="var" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="OTHER" value="true" />
     </context>
