@@ -184,8 +184,9 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="cmt" value="//***********************************$VAR$ start************************************&#10;//***********************************$VAR$ end**************************************" description="Prints a string to println" toReformat="true" toShortenFQNames="true">
+  <template name="cmt" value="/***********************************$VAR$ start************************************/&#10;$content$&#10;/***********************************$VAR$ end**************************************/" description="Prints a string to println" toReformat="true" toShortenFQNames="true">
     <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="GROOVY_STATEMENT" value="true" />
     </context>
