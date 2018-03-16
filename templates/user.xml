@@ -184,9 +184,12 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="cmt" value="/***********************************$VAR$ start************************************/&#10;$content$&#10;/***********************************$VAR$ end**************************************/" description="Prints a string to println" toReformat="true" toShortenFQNames="true">
-    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="cmt" value="/***********************************$VAR$ Start |$user$ $date$ $time$*************************************/&#10;    $content$&#10;/***********************************$VAR$ End   |$user$ $date$ $time$*************************************/" description="Prints a string to println" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR" expression="snakeCase(String)" defaultValue="" alwaysStopAt="true" />
+    <variable name="user" expression="user()" defaultValue="" alwaysStopAt="true" />
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <variable name="time" expression="time()" defaultValue="" alwaysStopAt="true" />
+    <variable name="content" expression="annotated(&quot;annotation qname&quot;)" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="OTHER" value="true" />
     </context>
