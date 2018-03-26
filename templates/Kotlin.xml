@@ -6,7 +6,7 @@
       <option name="KOTLIN" value="true" />
     </context>
   </template>
-  <template name="***" value="println(&quot;*******************$VAR$******************&quot;)" description="println" toReformat="false" toShortenFQNames="true">
+  <template name="***" value="myPrintln(&quot;*******************$VAR$******************&quot;)" description="println" toReformat="false" toShortenFQNames="true">
     <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="KOTLIN" value="true" />
@@ -16,6 +16,14 @@
     <variable name="var" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+  <template name="by" value=" $Type$ by Delegates.observable($init$) { prop, old, new -&gt;&#10;        println(&quot;${getCurrentTime()} ------$name$ changed---: ${old} -&gt; ${new} &quot;)" description="observable" toReformat="false" toShortenFQNames="true">
+    <variable name="Type" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="init" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
       <option name="KOTLIN" value="true" />
     </context>
   </template>
