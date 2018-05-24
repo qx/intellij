@@ -194,4 +194,10 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
+  <template name="smg" value="it.player?.let { it1 -&gt; sendMessageWithResCode(DaErStatusEnum.PENG_START.name, hashMapOf(&quot;priority&quot; to getPriorityFrom(round_daer_focus), &quot;seat&quot; to seatDataWithCards(it)), it1) }" description="send message" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN_EXPRESSION" value="true" />
+      <option name="KOTLIN_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
