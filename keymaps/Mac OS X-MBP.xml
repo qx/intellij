@@ -40,7 +40,7 @@
   <action id="CopyPaths" />
   <action id="DatabaseView.CopyDdlAction" />
   <action id="DebugClass">
-    <keyboard-shortcut first-keystroke="meta alt d" />
+    <keyboard-shortcut first-keystroke="ctrl meta e" />
   </action>
   <action id="Diff.ShowDiff" />
   <action id="DuplicatesForm.SendToRight" />
@@ -181,7 +181,7 @@
     <keyboard-shortcut first-keystroke="ctrl d" second-keystroke="r" />
   </action>
   <action id="RunClass">
-    <keyboard-shortcut first-keystroke="meta alt t" />
+    <keyboard-shortcut first-keystroke="ctrl meta t" />
   </action>
   <action id="SafeDelete">
     <keyboard-shortcut first-keystroke="meta alt back_space" />
