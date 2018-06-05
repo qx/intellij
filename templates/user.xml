@@ -201,4 +201,10 @@
       <option name="KOTLIN_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="ta" value="&#10;                seats.filter { it.player == player }.forEach {&#10;                    if (cards != null) {&#10;                        round_table_actions.add(DaerTableAction(DaErActions.$BI$, it.index,cards.toTypedArray()))&#10;                    }&#10;                }" description="round_table_action" toReformat="true" toShortenFQNames="true">
+    <variable name="BI" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_EXPRESSION" value="true" />
+    </context>
+  </template>
 </templateSet>
