@@ -21,7 +21,4 @@
       <option name="KOTLIN" value="true" />
     </context>
   </template>
-  <template name="serr" value="System.err.println($END$)" description="Prints a string to System.err" toReformat="true" toShortenFQNames="true">
-    <context />
-  </template>
 </templateSet>
