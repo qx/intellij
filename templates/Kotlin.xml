@@ -13,10 +13,10 @@
       <option name="KOTLIN" value="true" />
     </context>
   </template>
-  <template name="by" value=" :$Type$ by Delegates.observable($init$) { prop, old, new -&gt;&#10;        println(&quot;${getCurrentTime()} ------$name$ changed---: ${old} -&gt; ${new} &quot;)&#10;        }" description="observable" toReformat="false" toShortenFQNames="true">
-    <variable name="Type" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="init" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="by" value="var $a$: $b$ by Delegates.observable($c$) { prop, old, new -&gt;&#10;   if(new != old){&#10;    &quot;$a$------ changed---: ${old} -&gt; ${new} &quot;.debugPrint&#10;   }&#10;}" description="observable" toReformat="false" toShortenFQNames="true">
+    <variable name="a" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="b" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="c" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="KOTLIN" value="true" />
     </context>
