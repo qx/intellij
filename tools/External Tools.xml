@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="clear" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="/bin/sh" />
+      <option name="PARAMETERS" value="clear.sh" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/game/大2/pdk_new_daer/pdk_main" />
+    </exec>
+  </tool>
+</toolSet>
