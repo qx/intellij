@@ -1,0 +1,26 @@
+<keymap version="1" name="Default copy 1" parent="$default">
+  <action id="$SelectAll" />
+  <action id="CompareTwoFiles" />
+  <action id="Console.TableResult.DeleteRows" />
+  <action id="Diagram.SelectAll" />
+  <action id="Diff.ShowDiff" />
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="ctrl y" />
+  </action>
+  <action id="EditorLineEnd">
+    <keyboard-shortcut first-keystroke="ctrl e" />
+  </action>
+  <action id="EditorLineStart">
+    <keyboard-shortcut first-keystroke="ctrl a" />
+  </action>
+  <action id="FileChooser.GotoDesktop" />
+  <action id="RecentFiles" />
+  <action id="SendEOF" />
+  <action id="Vcs.ShowMessageHistory">
+    <keyboard-shortcut first-keystroke="ctrl m" />
+  </action>
+  <action id="openAssertEqualsDiff" />
+</keymap>
