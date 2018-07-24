@@ -1,5 +1,8 @@
 <keymap version="1" name="Default copy 1" parent="$default">
   <action id="$SelectAll" />
+  <action id="ActivateStructureToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl l" />
+  </action>
   <action id="CompareTwoFiles" />
   <action id="Console.TableResult.DeleteRows" />
   <action id="Diagram.SelectAll" />
@@ -17,8 +20,20 @@
     <keyboard-shortcut first-keystroke="ctrl a" />
   </action>
   <action id="FileChooser.GotoDesktop" />
+  <action id="FileChooser.TogglePathShowing" />
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="f3" />
+  </action>
+  <action id="GotoAction">
+    <keyboard-shortcut first-keystroke="ctrl p" />
+  </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="shift ctrl o" />
+  </action>
+  <action id="ParameterInfo" />
   <action id="RecentFiles" />
   <action id="SendEOF" />
+  <action id="Vcs.Log.FocusTextFilter" />
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
