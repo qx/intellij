@@ -6,4 +6,11 @@
       <option name="WORKING_DIRECTORY" value="$USER_HOME$/game/大2/pdk_new_daer/pdk_main" />
     </exec>
   </tool>
+  <tool name="clear log" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$USER_HOME$/game/昭通/pdk_new_zhaotong/pdk_main/clear.sh" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/game/昭通/pdk_new_zhaotong/pdk_main" />
+    </exec>
+  </tool>
 </toolSet>
