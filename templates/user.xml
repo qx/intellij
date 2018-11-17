@@ -218,4 +218,11 @@
       <option name="KOTLIN" value="true" />
     </context>
   </template>
+  <template name="hm" value="hashMapOf(&#10;    &quot;$first$&quot; to $first$,&#10;    &quot;$second$&quot; to $second$&#10;)" description="hash map of" toReformat="false" toShortenFQNames="true">
+    <variable name="first" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="second" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
 </templateSet>
