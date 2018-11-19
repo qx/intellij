@@ -225,4 +225,14 @@
       <option name="KOTLIN" value="true" />
     </context>
   </template>
+  <template name="sm" value="                    this.sendMessage(&#10;                        $RE_ENTER_RES$,&#10;                        RespResult(&#10;                            0, hashMapOf(&#10;                                $tableInfo$ to $tableInfo$,&#10;                                $pinfo$&quot; to $pinfo$&#10;                            ),&#10;                            null&#10;                    ), $iPlayer$)" description="send message" toReformat="true" toShortenFQNames="true">
+    <variable name="RE_ENTER_RES" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="tableInfo" expression="" defaultValue="tableInfo" alwaysStopAt="true" />
+    <variable name="pinfo" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="iPlayer" expression="" defaultValue="iPlayer" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_EXPRESSION" value="true" />
+      <option name="KOTLIN_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
