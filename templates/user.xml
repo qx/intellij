@@ -170,7 +170,7 @@
       <option name="RUBY" value="true" />
     </context>
   </template>
-  <template name="err" value="return RespResult(-1, null, &quot;$ss$-服务器数据错误&quot;)&#10;" description="error response" toReformat="true" toShortenFQNames="true">
+  <template name="err" value="return RespResult(-1, null, &quot;$ss$-服务器数据错误&quot;)&#10;" description="error response" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="ss" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
@@ -178,14 +178,14 @@
       <option name="KOTLIN_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="***" value="println(&quot;$name$--------------------------------------------------&gt;$var$&quot;)" description="Prints a string to println" toReformat="true" toShortenFQNames="true">
+  <template name="***" value="println(&quot;$name$--------------------------------------------------&gt;$var$&quot;)" description="Prints a string to println" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="var" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="cmt" value="/***********************************$VAR$ Start |$user$ $date$ $time$*************************************/&#10;    $content$&#10;/***********************************$VAR$ End   |$user$ $date$ $time$*************************************/" description="Prints a string to println" toReformat="true" toShortenFQNames="true">
+  <template name="cmt" value="/***********************************$VAR$ Start |$user$ $date$ $time$*************************************/&#10;    $content$&#10;/***********************************$VAR$ End   |$user$ $date$ $time$*************************************/" description="Prints a string to println" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="VAR" expression="snakeCase(String)" defaultValue="" alwaysStopAt="true" />
     <variable name="user" expression="user()" defaultValue="" alwaysStopAt="true" />
     <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
@@ -195,16 +195,34 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="smg" value="it.player?.let { it1 -&gt; sendMessageWithResCode(DaErStatusEnum.PENG_START.name, hashMapOf(&quot;priority&quot; to getPriorityFrom(round_daer_focus), &quot;seat&quot; to seatDataWithCards(it)), it1) }" description="send message" toReformat="true" toShortenFQNames="true">
+  <template name="smg" value="it.player?.let { it1 -&gt; sendMessageWithResCode(DaErStatusEnum.PENG_START.name, hashMapOf(&quot;priority&quot; to getPriorityFrom(round_daer_focus), &quot;seat&quot; to seatDataWithCards(it)), it1) }" description="send message" toReformat="true" toShortenFQNames="true" deactivated="true">
     <context>
       <option name="KOTLIN_EXPRESSION" value="true" />
       <option name="KOTLIN_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="dp" value=".debugPrint" description=".debugPrint" toReformat="true" toShortenFQNames="true">
+  <template name="dp" value=".debugPrint" description=".debugPrint" toReformat="true" toShortenFQNames="true" deactivated="true">
     <context>
       <option name="KOTLIN_EXPRESSION" value="true" />
       <option name="KOTLIN_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="rr" value="&#10;RespResult(0, hashMapOf(&quot;$actionInfo$&quot; to this.ktActionInfo.clone(hashMapOf(&#10;                &quot;$index$&quot; to $seat$&#10;                ),&#10;                Protocal.$protol$, hashMapOf(&#10;                &quot;$index$&quot; to $seatindex$&#10;                ))), $notify$)" description="response" toReformat="false" toShortenFQNames="true">
+    <variable name="actionInfo" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="index" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="seat" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="protol" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="seatindex" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="notify" expression="" defaultValue="null" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+  <template name="hm" value="hashMapOf(&#10;    &quot;$first$&quot; to $first$,&#10;    &quot;$second$&quot; to $second$&#10;)" description="hash map of" toReformat="false" toShortenFQNames="true">
+    <variable name="first" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="second" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
     </context>
   </template>
 </templateSet>
