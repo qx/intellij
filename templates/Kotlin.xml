@@ -1,7 +1,9 @@
 <templateSet group="Kotlin">
-  <template name="test" value=" @Test&#10; @Throws(Exception::class)&#10; fun test_$method$_$describe$() {&#10; &#10; }   " description="test suit" toReformat="false" toShortenFQNames="true">
-    <variable name="method" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="describe" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="test" value="/**&#10;* Test $funName$&#10;* $time$&#10;**/&#10;@Test&#10;@Throws(Exception::class)&#10;fun test_$funName$_$date$() {&#10;       $code$&#10;    }" description="test suit" toReformat="true" toShortenFQNames="true">
+    <variable name="funName" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="time" expression="time()" defaultValue="" alwaysStopAt="false" />
+    <variable name="date" expression="date(&quot;dd_MMM_yyyy_HH_MM&quot;" defaultValue="" alwaysStopAt="false" />
+    <variable name="code" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="KOTLIN" value="true" />
     </context>
