@@ -1,9 +1,9 @@
 <toolSet name="External Tools">
-  <tool name="clear" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+  <tool name="clear" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="/bin/sh" />
       <option name="PARAMETERS" value="clear.sh" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/game/昭通/pdk_new_zhaotong/pdk_main" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/luckier/server/game" />
     </exec>
   </tool>
 </toolSet>
