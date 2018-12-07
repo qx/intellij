@@ -4,6 +4,10 @@
       <list>
         <TemplateKey>
           <option name="groupName" value="Kotlin" />
+          <option name="key" value="soutf" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Kotlin" />
           <option name="key" value="object" />
         </TemplateKey>
       </list>
