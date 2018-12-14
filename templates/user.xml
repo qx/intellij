@@ -225,10 +225,4 @@
       <option name="KOTLIN" value="true" />
     </context>
   </template>
-  <template name="jhm" value="    new HashMap&lt;String, String&gt;() {&#10;                            {&#10;                                put(&quot;$s1$&quot;, $s1$);&#10;                            }&#10;                        }" description="java hash map" toReformat="false" toShortenFQNames="true">
-    <variable name="s1" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="JAVA_CODE" value="true" />
-    </context>
-  </template>
 </templateSet>
