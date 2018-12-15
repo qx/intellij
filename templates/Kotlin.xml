@@ -30,10 +30,10 @@
       <option name="KOTLIN_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="soutmp" value="println(&quot;----------------------$CLASS$.$METHOD$---------------------[&quot;)&#10;println($FORMAT$)&#10;println(&quot;]----------------------$CLASS$.$METHOD$---------------------&quot;)" description="print method and params" toReformat="false" toShortenFQNames="true">
-    <variable name="CLASS" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="METHOD" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="FORMAT" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="soutmp" value="println(&quot;&lt;----------------------$CLASS$.$METHOD$----------------------&quot;)&#10;println($FORMAT$)&#10;println(&quot;----------------------$CLASS$.$METHOD$----------------------&gt;&quot;)" description="print method and params" toReformat="false" toShortenFQNames="true">
+    <variable name="CLASS" expression="groovyScript(&quot;_1 ?: '&lt;top&gt;'&quot;, kotlinClassName())" defaultValue="" alwaysStopAt="true" />
+    <variable name="METHOD" expression="kotlinFunctionName()" defaultValue="" alwaysStopAt="true" />
+    <variable name="FORMAT" expression="groovyScript(&quot;'\&quot;' + _1.collect { it + ' = [${' + it + '}]'}.join(', ') + '\&quot;'&quot;, functionParameters())" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="KOTLIN" value="true" />
     </context>
