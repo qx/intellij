@@ -1,6 +1,6 @@
 <application>
   <component name="IntelliTail">
-    <option name="lastOpenDir" value="$USER_HOME$/game/昭通/pdk_new_zhaotong/pdk_main" />
+    <option name="lastOpenDir" value="$USER_HOME$/luckier/server/game" />
     <option name="recentFiles">
       <list>
         <option value="$USER_HOME$/game/主分支/pdk_new_master/pdk_main/net.log" />
@@ -8,6 +8,7 @@
         <option value="$USER_HOME$/game/主分支/pdk_new_master/pdk_main/net_daer.log" />
         <option value="$USER_HOME$/game/昭通/pdk_new_zhaotong/pdk_main/net_daer.log" />
         <option value="$USER_HOME$/game/昭通/pdk_new_zhaotong/pdk_main/net_xzdd.log" />
+        <option value="$USER_HOME$/luckier/server/game/net_jdzmj.log" />
       </list>
     </option>
   </component>
