@@ -3,7 +3,7 @@
     <exec>
       <option name="COMMAND" value="/bin/sh" />
       <option name="PARAMETERS" value="clear.sh" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/luckier/server/game" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/luckier/server/pdk_main" />
     </exec>
   </tool>
 </toolSet>
