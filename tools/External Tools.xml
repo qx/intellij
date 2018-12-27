@@ -3,7 +3,7 @@
     <exec>
       <option name="COMMAND" value="/bin/sh" />
       <option name="PARAMETERS" value="clear.sh" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/luckier/server/pdk_main" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/game/主分支/pdk_new_zt/pdk_main" />
     </exec>
   </tool>
 </toolSet>
