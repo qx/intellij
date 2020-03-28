@@ -1,0 +1,13 @@
+<application>
+  <component name="LuaCheckSettings">
+    <option name="luaCheck" value="" />
+    <option name="luaCheckArgs" value="" />
+  </component>
+  <component name="LuaSettings">
+    <option name="additionalSourcesRoot">
+      <array>
+        <option value="D:/Program Files (x86)/lua-5.3.5_Win32_bin" />
+      </array>
+    </option>
+  </component>
+</application>
