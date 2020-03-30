@@ -11,4 +11,9 @@
       <option name="LUA_CODE" value="true" />
     </context>
   </template>
+  <template name="fwhile" value="    local flag = true&#10;    while flag do&#10;&#10;&#10;        mSleep(2000);&#10;    end" description="flag while" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="LUA_CODE" value="true" />
+    </context>
+  </template>
 </templateSet>
