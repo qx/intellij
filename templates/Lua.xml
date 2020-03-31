@@ -16,7 +16,7 @@
       <option name="LUA_CODE" value="true" />
     </context>
   </template>
-  <template name="log" value="nLog(&quot;Current page is----------------------------------&gt;&quot;..&quot;&lt;$page$&gt;&quot;)" description="nLog page" toReformat="false" toShortenFQNames="true">
+  <template name="log" value="nLog(&quot;----------------------------------------------------------------------------------------------------------------------------------------&gt;&quot;..&quot;&lt;$page$&gt;&quot;)" description="nLog page" toReformat="false" toShortenFQNames="true">
     <variable name="page" expression="clipboard()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="LUA_CODE" value="true" />
