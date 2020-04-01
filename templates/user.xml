@@ -233,7 +233,7 @@
       <option name="LUA_CODE" value="true" />
     </context>
   </template>
-  <template name="&lt;abbreviation&gt;" value="local flag = true&#10;    while flag do&#10;&#10;&#10;        mSleep(2000);&#10;    end" toReformat="true" toShortenFQNames="true">
+  <template name="&lt;abbreviation&gt;" value="local flag = true&#10;    while flag do&#10;&#10;&#10;        mSleep(2000);&#10;    end" description="" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="LUA_FUNCTION" value="true" />
     </context>
