@@ -38,4 +38,15 @@
       <option name="KOTLIN" value="true" />
     </context>
   </template>
+  <template name="main" value="fun main($ARGS$) {&#10;  $END$&#10;}" description="main() function" toReformat="true" toShortenFQNames="true">
+    <variable name="ARGS" expression="kotlinMainArguments()" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="KOTLIN_CLASS" value="true" />
+    </context>
+  </template>
+  <template name="maina" value="fun main(args: Array&lt;String&gt;) {&#10;  $END$&#10;}" description="main() function" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN_CLASS" value="true" />
+    </context>
+  </template>
 </templateSet>
