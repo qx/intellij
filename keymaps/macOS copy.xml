@@ -10,6 +10,8 @@
     <keyboard-shortcut first-keystroke="meta slash" />
   </action>
   <action id="CompareTwoFiles" />
+  <action id="Console.Execute.Multiline" />
+  <action id="Console.Jdbc.Execute" />
   <action id="Console.TableResult.SetDefault" />
   <action id="DecrementWindowHeight" />
   <action id="Diff.ApplyLeftSide" />
@@ -19,6 +21,7 @@
     <keyboard-shortcut first-keystroke="shift meta open_bracket" />
   </action>
   <action id="Diff.ShowDiff" />
+  <action id="DirDiffMenu.SynchronizeDiff.All" />
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
@@ -30,6 +33,7 @@
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="meta w" />
   </action>
+  <action id="EditorSplitLine" />
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.TogglePathShowing" />
   <action id="FileStructurePopup">
@@ -39,11 +43,18 @@
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="meta p" />
   </action>
+  <action id="GotoChangedFile" />
+  <action id="GotoClass" />
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="meta o" />
+  </action>
   <action id="GotoLine">
     <keyboard-shortcut first-keystroke="meta g" />
   </action>
+  <action id="Groovy.Shell.Execute" />
   <action id="HippieBackwardCompletion" />
   <action id="IncrementWindowHeight" />
+  <action id="KotlinShellExecute" />
   <action id="MethodDown" />
   <action id="MethodUp" />
   <action id="MoveLineDown">
@@ -72,8 +83,13 @@
   <action id="RestoreDefaultLayout" />
   <action id="SendEOF" />
   <action id="ShowContent" />
+  <action id="ShowFilePath" />
+  <action id="ShowIntentionActions">
+    <keyboard-shortcut first-keystroke="meta enter" />
+  </action>
   <action id="Vcs.Log.FocusTextFilter" />
   <action id="Vcs.MoveChangedLinesToChangelist" />
+  <action id="ViewSource" />
   <action id="android.deploy.CodeSwap" />
   <action id="openAssertEqualsDiff" />
 </keymap>
