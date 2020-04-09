@@ -22,4 +22,16 @@
       <option name="LUA_CODE" value="true" />
     </context>
   </template>
+  <template name="rf" value="run_list = {&#10;            {$pp$},&#10;            &#10;            &#10;        }, " description="run_list" toReformat="false" toShortenFQNames="true">
+    <variable name="pp" expression="clipboard()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="LUA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="rr" value="{$P$}," description="{ wrap" toReformat="false" toShortenFQNames="true">
+    <variable name="P" expression="clipboard()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="LUA_CODE" value="true" />
+    </context>
+  </template>
 </templateSet>
