@@ -2,6 +2,7 @@
   <action id="CompareTwoFiles" />
   <action id="Console.TableResult.DeleteRows" />
   <action id="Diff.ShowDiff" />
+  <action id="EditorChooseLookupItemDot" />
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
