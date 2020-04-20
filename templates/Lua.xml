@@ -46,4 +46,9 @@
     <variable name="EXPR" expression="SuggestFirstLuaVarName()" defaultValue="" alwaysStopAt="true" />
     <context />
   </template>
+  <template name="ct" value=", click = true " description="click true" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="LUA_CODE" value="true" />
+    </context>
+  </template>
 </templateSet>
