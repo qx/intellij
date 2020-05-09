@@ -44,4 +44,14 @@
     <variable name="VAR2" expression="" defaultValue="&quot;t_value&quot;" alwaysStopAt="true" />
     <variable name="EXPR" expression="SuggestFirstLuaVarName()" defaultValue="" alwaysStopAt="true" />
   </template>
+  <template name="ct" value=", click = true " description="click true" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="LUA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="nt" value=", NOT = true" description="not true" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="LUA_CODE" value="true" />
+    </context>
+  </template>
 </templateSet>
