@@ -52,7 +52,9 @@
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="meta o" />
   </action>
-  <action id="GotoLine" />
+  <action id="GotoLine">
+    <keyboard-shortcut first-keystroke="ctrl g" />
+  </action>
   <action id="Groovy.Shell.Execute" />
   <action id="HippieBackwardCompletion" />
   <action id="IncrementWindowHeight" />
@@ -83,6 +85,7 @@
   <action id="ResizeToolWindowDown" />
   <action id="ResizeToolWindowUp" />
   <action id="RestoreDefaultLayout" />
+  <action id="SelectNextOccurrence" />
   <action id="SendEOF" />
   <action id="ShowContent" />
   <action id="ShowFilePath" />
