@@ -40,6 +40,10 @@
     <keyboard-shortcut first-keystroke="meta l" />
   </action>
   <action id="FindNext" />
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="alt f7" />
+    <keyboard-shortcut first-keystroke="meta g" />
+  </action>
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="meta p" />
   </action>
@@ -49,7 +53,7 @@
     <keyboard-shortcut first-keystroke="meta o" />
   </action>
   <action id="GotoLine">
-    <keyboard-shortcut first-keystroke="meta g" />
+    <keyboard-shortcut first-keystroke="ctrl g" />
   </action>
   <action id="Groovy.Shell.Execute" />
   <action id="HippieBackwardCompletion" />
@@ -81,6 +85,7 @@
   <action id="ResizeToolWindowDown" />
   <action id="ResizeToolWindowUp" />
   <action id="RestoreDefaultLayout" />
+  <action id="SelectNextOccurrence" />
   <action id="SendEOF" />
   <action id="ShowContent" />
   <action id="ShowFilePath" />
