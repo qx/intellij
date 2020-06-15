@@ -1,0 +1,11 @@
+<application>
+  <component name="ConsoleFoldingSettings">
+    <option name="addedPositive">
+      <list>
+        <option value="org.apache.mina.filter.logging.LoggingFilter - SENT: {&quot;cmd&quot;:&quot;SYNC_RES&quot;,&quot;data&quot;:{&quot;resCode&quot;:0,&quot;obj&quot;:{&quot;time&quot;" />
+        <option value="{&quot;cmd&quot;:&quot;SYNC&quot;}" />
+        <option value="RECEIVED: {&quot;cmd&quot;:&quot;SYNC&quot;}" />
+      </list>
+    </option>
+  </component>
+</application>
