@@ -1,4 +1,8 @@
 <keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="meta open_bracket" />
+    <keyboard-shortcut first-keystroke="meta alt left" />
+  </action>
   <action id="ChangesView.Move" />
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="shift meta w" />
@@ -10,9 +14,16 @@
     <keyboard-shortcut first-keystroke="meta slash" />
   </action>
   <action id="CompareTwoFiles" />
+  <action id="CompileDirty" />
   <action id="Console.Execute.Multiline" />
   <action id="Console.Jdbc.Execute" />
+  <action id="Console.TableResult.CompareCells" />
+  <action id="Console.TableResult.Reload" />
   <action id="Console.TableResult.SetDefault" />
+  <action id="DatabaseView.Refresh" />
+  <action id="DebugClass">
+    <keyboard-shortcut first-keystroke="shift meta d" />
+  </action>
   <action id="DecrementWindowHeight" />
   <action id="Diff.ApplyLeftSide" />
   <action id="Diff.ApplyRightSide" />
@@ -21,6 +32,7 @@
     <keyboard-shortcut first-keystroke="shift meta open_bracket" />
   </action>
   <action id="Diff.ShowDiff" />
+  <action id="Diff.ShowSettingsPopup" />
   <action id="DirDiffMenu.SynchronizeDiff.All" />
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="meta d" />
@@ -34,6 +46,9 @@
     <keyboard-shortcut first-keystroke="meta w" />
   </action>
   <action id="EditorSplitLine" />
+  <action id="EvaluateExpression">
+    <mouse-shortcut keystroke="meta button143" />
+  </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.TogglePathShowing" />
   <action id="FileStructurePopup">
@@ -58,6 +73,10 @@
   <action id="Groovy.Shell.Execute" />
   <action id="HippieBackwardCompletion" />
   <action id="IncrementWindowHeight" />
+  <action id="Jdbc.OpenEditor.DDL">
+    <mouse-shortcut keystroke="meta button1" />
+    <mouse-shortcut keystroke="Force touch" />
+  </action>
   <action id="KotlinShellExecute" />
   <action id="MethodDown" />
   <action id="MethodUp" />
@@ -81,10 +100,22 @@
   <action id="QuickImplementations">
     <keyboard-shortcut first-keystroke="alt space" />
   </action>
+  <action id="Refresh" />
+  <action id="Replace" />
+  <action id="Rerun" />
+  <action id="RerunTests">
+    <keyboard-shortcut first-keystroke="shift alt r" />
+  </action>
   <action id="ResetColumnsWidth" />
   <action id="ResizeToolWindowDown" />
   <action id="ResizeToolWindowUp" />
   <action id="RestoreDefaultLayout" />
+  <action id="Resume">
+    <mouse-shortcut keystroke="button4" />
+  </action>
+  <action id="RunClass">
+    <keyboard-shortcut first-keystroke="meta r" />
+  </action>
   <action id="SelectNextOccurrence" />
   <action id="SendEOF" />
   <action id="ShowContent" />
@@ -92,7 +123,11 @@
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="meta enter" />
   </action>
+  <action id="StepOver">
+    <mouse-shortcut keystroke="meta button142" />
+  </action>
   <action id="Vcs.Log.FocusTextFilter" />
+  <action id="Vcs.Log.Refresh" />
   <action id="Vcs.MoveChangedLinesToChangelist" />
   <action id="ViewSource" />
   <action id="android.deploy.CodeSwap" />
