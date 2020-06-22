@@ -112,6 +112,7 @@
   <action id="RestoreDefaultLayout" />
   <action id="Resume">
     <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="meta alt r" />
   </action>
   <action id="RunClass">
     <keyboard-shortcut first-keystroke="meta r" />
