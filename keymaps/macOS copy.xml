@@ -1,4 +1,8 @@
 <keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="meta open_bracket" />
+    <keyboard-shortcut first-keystroke="meta alt left" />
+  </action>
   <action id="ChangesView.Move" />
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="shift meta w" />
@@ -13,6 +17,9 @@
   <action id="Console.Execute.Multiline" />
   <action id="Console.Jdbc.Execute" />
   <action id="Console.TableResult.SetDefault" />
+  <action id="Debugger.RemoveAllBreakpoints">
+    <mouse-shortcut keystroke="button5" />
+  </action>
   <action id="DecrementWindowHeight" />
   <action id="Diff.ApplyLeftSide" />
   <action id="Diff.ApplyRightSide" />
@@ -42,6 +49,10 @@
   <action id="FindNext" />
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="meta g" />
+  </action>
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="meta close_bracket" />
+    <keyboard-shortcut first-keystroke="meta alt right" />
   </action>
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="meta p" />
@@ -84,12 +95,19 @@
   <action id="ResizeToolWindowDown" />
   <action id="ResizeToolWindowUp" />
   <action id="RestoreDefaultLayout" />
+  <action id="Resume">
+    <keyboard-shortcut first-keystroke="meta alt r" />
+    <mouse-shortcut keystroke="button4" />
+  </action>
   <action id="SelectNextOccurrence" />
   <action id="SendEOF" />
   <action id="ShowContent" />
   <action id="ShowFilePath" />
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="meta enter" />
+  </action>
+  <action id="StepOver">
+    <mouse-shortcut keystroke="meta button142" />
   </action>
   <action id="Vcs.Log.FocusTextFilter" />
   <action id="Vcs.MoveChangedLinesToChangelist" />
