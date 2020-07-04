@@ -3,8 +3,12 @@
     <extensionMap>
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping pattern="datafile" type="PLAIN_TEXT" />
       <mapping pattern="test.feature" type="PLAIN_TEXT" />
+      <mapping pattern="datafile" type="PLAIN_TEXT" />
+      <mapping pattern="datafile3" type="PLAIN_TEXT" />
+      <mapping pattern="datafile2" type="PLAIN_TEXT" />
+      <mapping pattern="datafile1" type="PLAIN_TEXT" />
+      <mapping pattern="datafile0" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
