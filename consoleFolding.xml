@@ -3,8 +3,9 @@
     <option name="addedPositive">
       <list>
         <option value="org.apache.mina.filter.logging.LoggingFilter - SENT: {&quot;cmd&quot;:&quot;SYNC_RES&quot;,&quot;data&quot;:{&quot;resCode&quot;:0,&quot;obj&quot;:{&quot;time&quot;" />
-        <option value="{&quot;cmd&quot;:&quot;SYNC&quot;}" />
         <option value="RECEIVED: {&quot;cmd&quot;:&quot;SYNC&quot;}" />
+        <option value="{&quot;cmd&quot;:&quot;SYNC&quot;}" />
+        <option value="[pool-3-thread-2] INFO  [06-28-2020 10:35:21] org.apache.mina.filter.logging.LoggingFilter - SENT: {&quot;cmd&quot;:&quot;SYNC_RES&quot;,&quot;data&quot;:{&quot;resCode&quot;:0,&quot;obj&quot;:{&quot;time&quot;:1593311721014,&quot;actionTime&quot;:1593311711000,&quot;timeLeft&quot;:10000,&quot;round&quot;:1,&quot;actionName&quot;:&quot;&quot;,&quot;action&quot;:19}}}" />
       </list>
     </option>
   </component>
